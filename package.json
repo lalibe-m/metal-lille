@@ -1,0 +1,17 @@
+{
+  "name": "metal-lille",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Agenda des concerts metal et hard rock de la métropole lilloise, mis à jour chaque nuit.",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "update": "node scraper/update.js",
+    "serve": "npx --yes http-server docs -p 8080 -c-1"
+  },
+  "dependencies": {
+    "cheerio": "1.0.0"
+  }
+}

@@ -1,0 +1,553 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Concerts metal et hard rock à venir dans les salles de la métropole lilloise.">
+<meta name="theme-color" content="#14171b">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Metal Lille">
+<title>Agenda Metal Lille</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Pirata+One&family=Barlow+Condensed:wght@500;600;700&family=Barlow:wght@400;500;600&display=swap">
+<style>
+/* Layout: one narrow column of ticket-stub rows grouped by month, sticky header with search and filter chips. Dark-first. */
+:root {
+  --bg: #14171b;
+  --surface: #1c2026;
+  --surface-2: #232830;
+  --line: #2c323b;
+  --fg: #e6e8eb;
+  --muted: #8f97a2;
+  --accent: #d4a72c;
+  --accent-ink: #14171b;
+  --danger: #ec6a52;
+  --warn: #e0a54a;
+  --font-display: "Pirata One", "UnifrakturCook", Georgia, serif;
+  --font-head: "Barlow Condensed", "Arial Narrow", "Roboto Condensed", sans-serif;
+  --font-body: "Barlow", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --radius: 6px;
+  color-scheme: dark;
+}
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    --bg: #eceef1; --surface: #ffffff; --surface-2: #f5f6f8; --line: #d3d8de;
+    --fg: #15181c; --muted: #5a636f; --accent: #8a6807; --accent-ink: #ffffff;
+    --danger: #b63a25; --warn: #96620c; color-scheme: light;
+  }
+}
+:root[data-theme="light"] {
+  --bg: #eceef1; --surface: #ffffff; --surface-2: #f5f6f8; --line: #d3d8de;
+  --fg: #15181c; --muted: #5a636f; --accent: #8a6807; --accent-ink: #ffffff;
+  --danger: #b63a25; --warn: #96620c; color-scheme: light;
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+[hidden] { display: none !important; }
+body {
+  margin: 0;
+  padding-top: env(safe-area-inset-top, 0px);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-body);
+  font-size: 15px;
+  line-height: 1.45;
+}
+body::before {
+  content: ""; position: fixed; inset: 0 0 auto;
+  height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg);
+}
+.wrap {
+  max-width: 640px; margin: 0 auto;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+
+header.top {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5;
+  background: var(--bg);
+  border-bottom: 1px solid var(--line);
+}
+header.top .wrap { padding-block: 14px 10px; display: grid; gap: 10px; }
+.brand { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
+.brand h1 {
+  margin: 0; font-family: var(--font-display); font-weight: 400;
+  font-size: 2rem; line-height: 1; letter-spacing: 0.01em;
+}
+.brand h1 span { color: var(--accent); }
+.count {
+  font-family: var(--font-head); font-weight: 600; font-size: 0.85rem;
+  text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted);
+  font-variant-numeric: tabular-nums; white-space: nowrap;
+}
+.search {
+  display: flex; align-items: center; gap: 8px;
+  background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);
+  padding: 0 10px;
+}
+.search svg { flex: none; color: var(--muted); }
+.search input {
+  flex: 1; min-width: 0; border: 0; background: transparent; color: var(--fg);
+  font: inherit; font-size: 16px; padding: 10px 0; outline: none;
+}
+.search:focus-within { border-color: var(--accent); }
+.chips {
+  display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none;
+  margin-inline: -4px; padding: 2px 4px;
+}
+.chips::-webkit-scrollbar { display: none; }
+.chip {
+  flex: none; border: 1px solid var(--line); background: transparent; color: var(--fg);
+  font-family: var(--font-head); font-weight: 600; font-size: 0.85rem;
+  text-transform: uppercase; letter-spacing: 0.06em;
+  padding: 6px 11px; border-radius: 999px; cursor: pointer;
+}
+.chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.chip:focus-visible, .row-main:focus-visible, .btn:focus-visible, .star:focus-visible {
+  outline: 2px solid var(--accent); outline-offset: 2px;
+}
+.chip .n { opacity: 0.65; margin-left: 4px; font-variant-numeric: tabular-nums; }
+
+main .wrap { padding-block: 8px 40px; }
+.month {
+  display: flex; align-items: baseline; gap: 10px;
+  margin: 22px 0 8px; padding-bottom: 6px; border-bottom: 1px solid var(--line);
+}
+.month h2 {
+  margin: 0; font-family: var(--font-display); font-weight: 400; font-size: 1.6rem; line-height: 1;
+}
+.month .m-count {
+  font-family: var(--font-head); font-size: 0.8rem; letter-spacing: 0.08em;
+  text-transform: uppercase; color: var(--muted);
+}
+
+.list { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.row {
+  background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);
+  overflow: hidden;
+}
+.row.is-off { opacity: 0.6; }
+.row-main {
+  display: grid; grid-template-columns: 58px 1fr auto; align-items: stretch;
+  width: 100%; text-align: left; background: none; border: 0; color: inherit;
+  font: inherit; padding: 0; cursor: pointer;
+}
+.date {
+  display: grid; place-content: center; text-align: center; gap: 1px;
+  border-right: 1px dashed var(--line); padding: 10px 4px;
+  font-family: var(--font-head); text-transform: uppercase; font-variant-numeric: tabular-nums;
+}
+.date .dow { font-size: 0.72rem; letter-spacing: 0.1em; color: var(--muted); font-weight: 600; }
+.date .day { font-size: 1.75rem; font-weight: 700; line-height: 1; }
+.date .mon { font-size: 0.72rem; letter-spacing: 0.1em; color: var(--accent); font-weight: 600; }
+.info { min-width: 0; padding: 10px 12px; display: grid; gap: 3px; }
+.artist {
+  font-family: var(--font-head); font-weight: 700; font-size: 1.3rem; line-height: 1.05;
+  text-transform: uppercase; letter-spacing: 0.01em; overflow-wrap: anywhere;
+}
+.support { color: var(--muted); font-size: 0.88rem; overflow-wrap: anywhere; }
+.meta { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; font-size: 0.86rem; }
+.venue { font-weight: 600; }
+.venue small { font-weight: 400; color: var(--muted); font-size: inherit; }
+.tag {
+  font-family: var(--font-head); font-weight: 600; font-size: 0.76rem;
+  text-transform: uppercase; letter-spacing: 0.07em; color: var(--muted);
+}
+.side {
+  display: grid; align-content: space-between; justify-items: end; gap: 6px;
+  padding: 10px 10px 10px 0;
+}
+.pill {
+  font-family: var(--font-head); font-weight: 700; font-size: 0.72rem;
+  text-transform: uppercase; letter-spacing: 0.08em; white-space: nowrap;
+  padding: 2px 7px; border-radius: 3px; border: 1px solid currentColor;
+}
+.pill.soon { color: var(--accent); }
+.pill.soldout, .pill.cancelled { color: var(--danger); }
+.pill.postponed { color: var(--warn); }
+.price { font-variant-numeric: tabular-nums; font-weight: 600; font-size: 0.9rem; white-space: nowrap; }
+
+.details {
+  border-top: 1px dashed var(--line); background: var(--surface-2);
+  padding: 10px 12px 12px; display: grid; gap: 10px;
+}
+.details dl { margin: 0; display: grid; grid-template-columns: auto 1fr; gap: 4px 12px; font-size: 0.9rem; }
+.details dt { color: var(--muted); font-family: var(--font-head); text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.78rem; padding-top: 2px; }
+.details dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
+.actions { display: flex; flex-wrap: wrap; gap: 8px; }
+.btn {
+  display: inline-flex; align-items: center; gap: 6px; text-decoration: none;
+  font-family: var(--font-head); font-weight: 700; font-size: 0.85rem;
+  text-transform: uppercase; letter-spacing: 0.07em;
+  padding: 8px 12px; border-radius: var(--radius); border: 1px solid var(--line);
+  color: var(--fg); background: var(--surface); cursor: pointer;
+}
+.btn.primary { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.star {
+  background: none; border: 0; padding: 2px; cursor: pointer; color: var(--muted); line-height: 0;
+}
+.star[aria-pressed="true"] { color: var(--accent); }
+
+.state {
+  margin: 40px 0; padding: 22px 18px; text-align: center;
+  border: 1px dashed var(--line); border-radius: var(--radius); color: var(--muted);
+}
+.state strong { display: block; color: var(--fg); font-family: var(--font-head); font-size: 1.2rem; text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 4px; }
+.skeleton { height: 78px; border-radius: var(--radius); background: var(--surface); border: 1px solid var(--line); }
+@media (prefers-reduced-motion: no-preference) {
+  .skeleton { animation: pulse 1.4s ease-in-out infinite; }
+  @keyframes pulse { 50% { opacity: 0.5; } }
+}
+footer { color: var(--muted); font-size: 0.82rem; border-top: 1px solid var(--line); }
+footer .wrap { padding-block: 16px 28px; display: grid; gap: 6px; }
+footer a { color: inherit; }
+@media (min-width: 520px) {
+  .row-main { grid-template-columns: 70px 1fr auto; }
+  .date .day { font-size: 2rem; }
+}
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <div class="brand">
+      <h1>Metal <span>Lille</span></h1>
+      <div class="count" id="count" aria-live="polite">Chargement…</div>
+    </div>
+    <label class="search" for="q">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" placeholder="Groupe, salle, style…" autocomplete="off" enterkeyhint="search">
+    </label>
+    <div class="chips" id="when" role="group" aria-label="Période"></div>
+    <div class="chips" id="families" role="group" aria-label="Style"></div>
+    <div class="chips" id="venues" role="group" aria-label="Salle"></div>
+  </div>
+</header>
+
+<main>
+  <div class="wrap" id="out">
+    <div class="list" style="margin-top:16px" aria-hidden="true">
+      <div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap" id="foot">
+    <div>Concerts metal et hard rock dans les salles de la métropole lilloise, relevés sur les agendas des salles et les billetteries.</div>
+  </div>
+</footer>
+
+<script>
+(function () {
+  const MONTHS = ["janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"];
+  const MON_SHORT = ["janv","févr","mars","avr","mai","juin","juil","août","sept","oct","nov","déc"];
+  const DOW = ["dim","lun","mar","mer","jeu","ven","sam"];
+  const STATUS = { soldout: "Complet", cancelled: "Annulé", postponed: "Reporté" };
+  const WHEN = [
+    { id: "all", label: "Tout" },
+    { id: "week", label: "7 jours" },
+    { id: "month", label: "30 jours" },
+    { id: "fav", label: "★ Favoris" }
+  ];
+
+  const state = {
+    concerts: [],
+    meta: null,
+    loaded: false,
+    unavailable: false,
+    q: "",
+    when: "all",
+    family: null,
+    venue: null,
+    open: null,
+    favs: loadFavs()
+  };
+
+  function loadFavs() {
+    try { return new Set(JSON.parse(localStorage.getItem("metal-lille-favs") || "[]")); }
+    catch (error) { return new Set(); }
+  }
+  function saveFavs() {
+    try { localStorage.setItem("metal-lille-favs", JSON.stringify([...state.favs])); } catch (error) { }
+  }
+  try {
+    const saved = JSON.parse(localStorage.getItem("metal-lille-filters") || "{}");
+    if (saved.when) state.when = saved.when;
+  } catch (error) { }
+  function saveFilters() {
+    try { localStorage.setItem("metal-lille-filters", JSON.stringify({ when: state.when })); } catch (error) { }
+  }
+
+  function el(tag, attrs, children) {
+    const node = document.createElement(tag);
+    if (attrs) for (const key in attrs) {
+      const value = attrs[key];
+      if (value == null || value === false) continue;
+      if (key === "class") node.className = value;
+      else if (key === "text") node.textContent = value;
+      else if (key.startsWith("on")) node.addEventListener(key.slice(2), value);
+      else node.setAttribute(key, value === true ? "" : value);
+    }
+    (children || []).forEach(child => { if (child != null) node.append(child); });
+    return node;
+  }
+  function safeUrl(value) {
+    return typeof value === "string" && /^https?:\/\//i.test(value) ? value : null;
+  }
+  function todayIso() {
+    const now = new Date();
+    return now.getFullYear() + "-" + String(now.getMonth() + 1).padStart(2, "0") + "-" + String(now.getDate()).padStart(2, "0");
+  }
+  function parseIso(iso) {
+    const parts = iso.split("-").map(Number);
+    return new Date(parts[0], parts[1] - 1, parts[2]);
+  }
+  function daysFromToday(iso) {
+    return Math.round((parseIso(iso) - parseIso(todayIso())) / 86400000);
+  }
+  function norm(text) {
+    return String(text || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+  }
+  function calendarUrl(concert) {
+    const compact = concert.date.replaceAll("-", "");
+    let dates;
+    if (concert.time && /^\d{2}:\d{2}$/.test(concert.time)) {
+      const start = parseIso(concert.date);
+      const hours = Number(concert.time.slice(0, 2)), minutes = Number(concert.time.slice(3));
+      start.setHours(hours, minutes);
+      const end = new Date(start.getTime() + 4 * 3600000);
+      const fmt = date => date.getFullYear() + String(date.getMonth() + 1).padStart(2, "0") + String(date.getDate()).padStart(2, "0") + "T" + String(date.getHours()).padStart(2, "0") + String(date.getMinutes()).padStart(2, "0") + "00";
+      dates = fmt(start) + "/" + fmt(end);
+    } else {
+      const next = parseIso(concert.date); next.setDate(next.getDate() + 1);
+      dates = compact + "/" + next.getFullYear() + String(next.getMonth() + 1).padStart(2, "0") + String(next.getDate()).padStart(2, "0");
+    }
+    const title = concert.artist + (concert.support && concert.support.length ? " + " + concert.support.join(", ") : "");
+    const params = new URLSearchParams({
+      action: "TEMPLATE", text: title, dates: dates, ctz: "Europe/Paris",
+      location: concert.venue + ", " + (concert.city || "Lille"),
+      details: safeUrl(concert.ticketUrl) || safeUrl(concert.sourceUrl) || ""
+    });
+    return "https://calendar.google.com/calendar/render?" + params.toString();
+  }
+
+  function upcoming() {
+    const today = todayIso();
+    return state.concerts.filter(concert => concert.date >= today);
+  }
+  function matches(concert, ignore) {
+    if (ignore !== "family" && state.family && concert.family !== state.family) return false;
+    if (ignore !== "venue" && state.venue && concert.venue !== state.venue) return false;
+    if (ignore !== "when") {
+      const days = daysFromToday(concert.date);
+      if (state.when === "week" && days > 7) return false;
+      if (state.when === "month" && days > 30) return false;
+      if (state.when === "fav" && !state.favs.has(concert.id)) return false;
+    }
+    if (state.q) {
+      const hay = norm([concert.artist, (concert.support || []).join(" "), concert.venue, concert.city, concert.genre, concert.family].join(" "));
+      if (!norm(state.q).split(/\s+/).filter(Boolean).every(word => hay.includes(word))) return false;
+    }
+    return true;
+  }
+
+  function renderChips(containerId, items, current, onPick) {
+    const box = document.getElementById(containerId);
+    box.replaceChildren(...items.map(item => el("button", {
+      type: "button", class: "chip", "aria-pressed": String(current === item.id),
+      onclick: () => onPick(current === item.id && item.id !== "all" ? null : item.id)
+    }, [item.label, item.n != null ? el("span", { class: "n", text: String(item.n) }) : null])));
+  }
+
+  function countBy(list, key) {
+    const counts = new Map();
+    list.forEach(concert => { if (concert[key]) counts.set(concert[key], (counts.get(concert[key]) || 0) + 1); });
+    return [...counts.entries()].sort((left, right) => right[1] - left[1] || left[0].localeCompare(right[0], "fr"));
+  }
+
+  function renderFilters() {
+    const base = upcoming();
+    renderChips("when", WHEN.map(option => ({ id: option.id, label: option.label })), state.when, picked => {
+      state.when = picked || "all"; saveFilters(); render();
+    });
+    const famPool = base.filter(concert => matches(concert, "family"));
+    renderChips("families", countBy(famPool, "family").map(([name, n]) => ({ id: name, label: name, n })), state.family, picked => {
+      state.family = picked; render();
+    });
+    const venuePool = base.filter(concert => matches(concert, "venue"));
+    renderChips("venues", countBy(venuePool, "venue").map(([name, n]) => ({ id: name, label: name, n })), state.venue, picked => {
+      state.venue = picked; render();
+    });
+    document.getElementById("families").hidden = base.length === 0;
+    document.getElementById("venues").hidden = base.length === 0;
+  }
+
+  function renderRow(concert) {
+    const date = parseIso(concert.date);
+    const days = daysFromToday(concert.date);
+    const off = concert.status === "cancelled" || concert.status === "soldout";
+    const isOpen = state.open === concert.id;
+    const isFav = state.favs.has(concert.id);
+
+    let pill = null;
+    if (STATUS[concert.status]) pill = el("span", { class: "pill " + concert.status, text: STATUS[concert.status] });
+    else if (days === 0) pill = el("span", { class: "pill soon", text: "Ce soir" });
+    else if (days === 1) pill = el("span", { class: "pill soon", text: "Demain" });
+    else if (days <= 7) pill = el("span", { class: "pill soon", text: "J-" + days });
+
+    const star = el("button", {
+      type: "button", class: "star", "aria-pressed": String(isFav),
+      "aria-label": isFav ? "Retirer des favoris" : "Ajouter aux favoris",
+      onclick: event => {
+        event.stopPropagation();
+        if (state.favs.has(concert.id)) state.favs.delete(concert.id); else state.favs.add(concert.id);
+        saveFavs(); render();
+      }
+    });
+    star.innerHTML = '<svg width="20" height="20" viewBox="0 0 24 24" fill="' + (isFav ? "currentColor" : "none") + '" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true"><path d="m12 3 2.8 5.8 6.2.9-4.5 4.4 1 6.2L12 17.4 6.5 20.3l1-6.2L3 9.7l6.2-.9z"/></svg>';
+
+    const main = el("div", {
+      class: "row-main", role: "button", tabindex: "0", "aria-expanded": String(isOpen),
+      onclick: () => { state.open = isOpen ? null : concert.id; render(); },
+      onkeydown: event => { if (event.key === "Enter" || event.key === " ") { event.preventDefault(); state.open = isOpen ? null : concert.id; render(); } }
+    }, [
+      el("div", { class: "date" }, [
+        el("span", { class: "dow", text: DOW[date.getDay()] }),
+        el("span", { class: "day", text: String(date.getDate()) }),
+        el("span", { class: "mon", text: MON_SHORT[date.getMonth()] })
+      ]),
+      el("div", { class: "info" }, [
+        el("div", { class: "artist", text: concert.artist }),
+        concert.support && concert.support.length ? el("div", { class: "support", text: "+ " + concert.support.join(", ") }) : null,
+        el("div", { class: "meta" }, [
+          el("span", { class: "venue" }, [concert.venue, concert.city && concert.city !== "Lille" ? el("small", { text: " · " + concert.city }) : null]),
+          concert.genre ? el("span", { class: "tag", text: concert.genre }) : null
+        ])
+      ]),
+      el("div", { class: "side" }, [
+        pill || el("span"),
+        concert.price ? el("span", { class: "price", text: concert.price }) : null,
+        star
+      ])
+    ]);
+
+    let details = null;
+    if (isOpen) {
+      const ticket = safeUrl(concert.ticketUrl);
+      const source = safeUrl(concert.sourceUrl);
+      const longDate = DOW[date.getDay()] + ". " + date.getDate() + " " + MONTHS[date.getMonth()] + " " + date.getFullYear() + (concert.time ? " · " + concert.time.replace(":", "h") : "");
+      details = el("div", { class: "details" }, [
+        el("dl", null, [
+          el("dt", { text: "Date" }), el("dd", { text: longDate }),
+          el("dt", { text: "Lieu" }), el("dd", { text: concert.venue + (concert.city ? ", " + concert.city : "") }),
+          concert.genre ? el("dt", { text: "Style" }) : null, concert.genre ? el("dd", { text: concert.genre }) : null,
+          concert.price ? el("dt", { text: "Prix" }) : null, concert.price ? el("dd", { text: concert.price }) : null
+        ]),
+        el("div", { class: "actions" }, [
+          ticket && concert.status !== "cancelled" ? el("a", { class: "btn primary", href: ticket, target: "_blank", rel: "noopener", text: "Billetterie" }) : null,
+          el("a", { class: "btn", href: calendarUrl(concert), target: "_blank", rel: "noopener", text: "Agenda" }),
+          source && source !== ticket ? el("a", { class: "btn", href: source, target: "_blank", rel: "noopener", text: "Source" }) : null
+        ])
+      ]);
+    }
+    return el("li", { class: "row" + (off ? " is-off" : "") }, [main, details]);
+  }
+
+  function renderState(title, text) {
+    return el("div", { class: "state" }, [el("strong", { text: title }), el("span", { text: text })]);
+  }
+
+  function render() {
+    const out = document.getElementById("out");
+    const count = document.getElementById("count");
+    renderFilters();
+
+    if (state.unavailable) {
+      count.textContent = "";
+      out.replaceChildren(renderState("Agenda indisponible", "Impossible de charger les concerts. Vérifie ta connexion puis rouvre l'app."));
+      return;
+    }
+    if (!state.loaded) return;
+
+    const base = upcoming();
+    const list = base.filter(concert => matches(concert));
+    count.textContent = list.length + (list.length > 1 ? " concerts" : " concert");
+
+    if (base.length === 0) {
+      out.replaceChildren(renderState("Aucun concert à venir", "L'agenda est vide pour le moment. Il se remplit à chaque mise à jour des salles."));
+      return;
+    }
+    if (list.length === 0) {
+      out.replaceChildren(renderState(state.when === "fav" ? "Aucun favori" : "Aucun résultat",
+        state.when === "fav" ? "Touche l'étoile d'un concert pour le garder ici." : "Change la recherche ou retire un filtre."));
+      return;
+    }
+
+    const groups = [];
+    list.forEach(concert => {
+      const key = concert.date.slice(0, 7);
+      let group = groups[groups.length - 1];
+      if (!group || group.key !== key) { group = { key, items: [] }; groups.push(group); }
+      group.items.push(concert);
+    });
+    out.replaceChildren(...groups.flatMap(group => {
+      const [year, month] = group.key.split("-").map(Number);
+      const label = MONTHS[month - 1].charAt(0).toUpperCase() + MONTHS[month - 1].slice(1) + (year !== new Date().getFullYear() ? " " + year : "");
+      return [
+        el("div", { class: "month" }, [el("h2", { text: label }), el("span", { class: "m-count", text: group.items.length + " date" + (group.items.length > 1 ? "s" : "") })]),
+        el("ul", { class: "list" }, group.items.map(renderRow))
+      ];
+    }));
+  }
+
+  function renderFooter() {
+    const foot = document.getElementById("foot");
+    const lines = [el("div", { text: "Concerts metal et hard rock dans les salles de la métropole lilloise, relevés sur les agendas des salles et les billetteries. Vérifie toujours la date sur la billetterie avant d'acheter." })];
+    if (state.meta && state.meta.updatedAt) {
+      const updated = new Date(state.meta.updatedAt);
+      if (!isNaN(updated)) lines.push(el("div", { text: "Agenda modifié le " + updated.getDate() + " " + MONTHS[updated.getMonth()] + " " + updated.getFullYear() + "." }));
+    }
+    if (state.meta && state.meta.note) lines.push(el("div", { text: state.meta.note }));
+    foot.replaceChildren(...lines);
+  }
+
+  document.getElementById("q").addEventListener("input", event => { state.q = event.target.value.trim(); render(); });
+  render();
+
+  async function load() {
+    try {
+      const response = await fetch("concerts.json", { cache: "no-cache" });
+      if (!response.ok) throw new Error("HTTP " + response.status);
+      const data = await response.json();
+      state.concerts = (data.events || [])
+        .filter(concert => typeof concert.date === "string" && concert.artist && concert.venue)
+        .sort((left, right) => (left.date + (left.time || "")).localeCompare(right.date + (right.time || "")));
+      const down = (data.sources || []).filter(source => !source.ok).map(source => source.label);
+      state.meta = {
+        updatedAt: data.updatedAt,
+        note: down.length ? "Sources indisponibles lors de la dernière mise à jour : " + down.join(", ") + ". Leurs concerts déjà connus restent affichés." : null
+      };
+      state.loaded = true;
+      state.unavailable = false;
+    } catch (error) {
+      if (!state.loaded) state.unavailable = true;
+    }
+    render();
+    renderFooter();
+  }
+  load();
+  document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") load(); });
+  if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => { });
+})();
+</script>
+</body>
+</html>

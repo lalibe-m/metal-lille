@@ -1,0 +1,73 @@
+{
+  "exclude": [
+    "^the rasmus$"
+  ],
+  "includeTitles": {},
+  "add": [
+    {
+      "date": "2026-10-31", "time": null, "artist": "Skraeckoedlan", "support": [],
+      "venue": "La Bulle Café", "city": "Lille", "genre": "Stoner metal", "family": "Doom / Stoner",
+      "price": "dès 12,59 €", "status": "onsale", "ticketUrl": null,
+      "sourceUrl": "https://www.songkick.com/concerts/43207611-skraeckoedlan-at-la-bulle-cafe"
+    },
+    {
+      "date": "2026-11-11", "time": "20:00", "artist": "The 5 Rosies", "support": [],
+      "venue": "Théâtre Sébastopol", "city": "Lille", "genre": "Tribute AC/DC", "family": "Tributes",
+      "price": "36 – 55 €", "status": "onsale",
+      "ticketUrl": "https://www.ticketmaster.fr/fr/manifestation/the-5-rosies-tribute-to-ac-dc-billet/idmanif/646664/idtier/6698995",
+      "sourceUrl": "https://theatre-sebastopol.fr/spectacle/the-5-rosies/"
+    },
+    {
+      "date": "2026-11-23", "time": "20:00", "artist": "Årabrot", "support": ["Lost in Kyiv"],
+      "venue": "Le Splendid", "city": "Lille", "genre": "Noise rock / post-metal", "family": "Post-metal",
+      "price": "dès 29 €", "status": "onsale",
+      "ticketUrl": "https://www.ticketmaster.fr/fr/manifestation/arabrot-et-lost-in-kyiv-billet/idmanif/669227/idseance/4391120/idtier/13073454",
+      "sourceUrl": "https://www.le-splendid.com/arabrot-lost-in-kyiv"
+    },
+    {
+      "date": "2027-02-20", "time": "19:00", "artist": "Colour Haze", "support": ["Smokemaster"],
+      "venue": "The Black Lab", "city": "Wasquehal", "genre": "Stoner psyché", "family": "Doom / Stoner",
+      "price": null, "status": "onsale", "ticketUrl": null,
+      "sourceUrl": "https://theblacklab.fr/agenda/colour-haze-smokemaster/"
+    },
+    {
+      "date": "2027-02-28", "time": null, "artist": "REZN", "support": [],
+      "venue": "Maison Folie Wazemmes", "city": "Lille", "genre": "Stoner / doom psyché", "family": "Doom / Stoner",
+      "price": null, "status": "unknown", "ticketUrl": null,
+      "sourceUrl": "https://www.songkick.com/concerts/43344821-rezn-at-maison-folie-wazemmes"
+    },
+    {
+      "date": "2027-03-20", "time": null, "artist": "Ayron Jones", "support": [],
+      "venue": "La Laiterie", "city": "Lambersart", "genre": "Hard rock / blues", "family": "Hard rock",
+      "price": null, "status": "onsale", "ticketUrl": null,
+      "sourceUrl": "https://www.songkick.com/concerts/43160908-ayron-jones-at-la-laiterie"
+    },
+    {
+      "date": "2027-05-07", "time": null, "artist": "Black Lab Tribute Fest · Nu-metal",
+      "support": ["Korn SK (Korn)", "Breakstuff (Limp Bizkit)", "Bombtracks (RATM)"],
+      "venue": "The Black Lab", "city": "Wasquehal", "genre": "Tributes nu-metal", "family": "Tributes",
+      "price": null, "status": "onsale", "ticketUrl": null,
+      "sourceUrl": "https://theblacklab.fr/agenda/the-black-lab-tribute-fest-day-2-nu-metal/"
+    },
+    {
+      "date": "2027-05-14", "time": null, "artist": "Black Lab Tribute Fest · Modern",
+      "support": ["Meteora (Linkin Park)", "Dear Sally (Evanescence)", "Sleepwalkers (Bring Me The Horizon)"],
+      "venue": "The Black Lab", "city": "Wasquehal", "genre": "Tributes nu-metal / metalcore", "family": "Tributes",
+      "price": null, "status": "onsale", "ticketUrl": null,
+      "sourceUrl": "https://theblacklab.fr/agenda/the-black-lab-tribute-fest-day-4-modern/"
+    },
+    {
+      "date": "2027-05-15", "time": null, "artist": "Black Lab Tribute Fest · Metal",
+      "support": ["Early Maggots (Slipknot)", "Sonnenschein (Rammstein)", "Soldier Side (System of a Down)"],
+      "venue": "The Black Lab", "city": "Wasquehal", "genre": "Tributes metal", "family": "Tributes",
+      "price": null, "status": "onsale", "ticketUrl": null,
+      "sourceUrl": "https://theblacklab.fr/agenda/the-black-lab-tribute-fest-day-5-metal/"
+    },
+    {
+      "date": "2027-05-15", "time": null, "artist": "FurioUs CirKus 2027", "support": [],
+      "venue": "Maison Folie Beaulieu", "city": "Lomme", "genre": "Festival, programmation à venir", "family": "Festival",
+      "price": null, "status": "unknown", "ticketUrl": null,
+      "sourceUrl": "https://lille.concerts-metal.com/"
+    }
+  ]
+}

@@ -1,0 +1,816 @@
+{
+  "updatedAt": "2026-10-26T09:07:14.447Z",
+  "sources": [
+    {
+      "id": "concerts-metal",
+      "label": "concerts-metal.com",
+      "ok": true,
+      "count": 49
+    },
+    {
+      "id": "black-lab",
+      "label": "The Black Lab",
+      "ok": true,
+      "count": 28
+    },
+    {
+      "id": "aeronef",
+      "label": "L'Aéronef",
+      "ok": true,
+      "count": 68
+    },
+    {
+      "id": "grand-mix",
+      "label": "Le Grand Mix",
+      "ok": true,
+      "count": 44
+    },
+    {
+      "id": "cave-aux-poetes",
+      "label": "La Cave aux Poètes",
+      "ok": true,
+      "count": 11
+    },
+    {
+      "id": "metaphone",
+      "label": "Le Métaphone",
+      "ok": true,
+      "count": 8
+    }
+  ],
+  "events": [
+    {
+      "id": "2026-10-28-cave-aux-poetes-horskh",
+      "date": "2026-10-28",
+      "time": null,
+      "artist": "Horskh",
+      "support": [],
+      "venue": "La Cave aux Poètes",
+      "city": "Roubaix",
+      "genre": "Machine Rock",
+      "family": "Indus / Nu",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://caveauxpoetes.com/evenement/horskh/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Horskh_-_Tour_2026-247802.html",
+      "sources": [
+        "cave-aux-poetes",
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2026-10-28-brat-cave-prisonnier-du-temps",
+      "date": "2026-10-28",
+      "time": null,
+      "artist": "Prisonnier Du Temps",
+      "support": [],
+      "venue": "La Brat Cave",
+      "city": "Lille",
+      "genre": "Hardcore Punk",
+      "family": "Core / Hardcore",
+      "price": null,
+      "status": "unknown",
+      "ticketUrl": null,
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Prisonnier_Du_Temps___Guest-277245.html",
+      "sources": [
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2026-10-30-black-lab-my-sleeping-karma",
+      "date": "2026-10-30",
+      "time": "19:00",
+      "artist": "My Sleeping Karma",
+      "support": [
+        "The Obsessed",
+        "Valley Of The Sun"
+      ],
+      "venue": "The Black Lab",
+      "city": "Wasquehal",
+      "genre": "Psychedelic Rock",
+      "family": "Doom / Stoner",
+      "price": "25 €",
+      "status": "onsale",
+      "ticketUrl": "https://theblacklab.fr/agenda/the-watch-plays-genesis-2/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_My_Sleeping_Karma___The_Obsessed___Valley_of_the_Sun-251930.html",
+      "sources": [
+        "black-lab",
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2026-10-31-black-lab-guilt-trip",
+      "date": "2026-10-31",
+      "time": "18:00",
+      "artist": "Guilt Trip",
+      "support": [
+        "Judiciary",
+        "Justice For The Damned",
+        "Long Goodbye"
+      ],
+      "venue": "The Black Lab",
+      "city": "Wasquehal",
+      "genre": "Metalcore",
+      "family": "Core / Hardcore",
+      "price": "28,80 €",
+      "status": "onsale",
+      "ticketUrl": "https://theblacklab.fr/agenda/guild-trip-special-guests/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Guilt_Trip___Judiciary-252188.html",
+      "sources": [
+        "black-lab",
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2026-10-31-bulle-cafe-skraeckoedlan",
+      "date": "2026-10-31",
+      "time": null,
+      "artist": "Skraeckoedlan",
+      "support": [],
+      "venue": "La Bulle Café",
+      "city": "Lille",
+      "genre": "Stoner metal",
+      "family": "Doom / Stoner",
+      "price": "dès 12,59 €",
+      "status": "onsale",
+      "ticketUrl": null,
+      "sourceUrl": "https://www.songkick.com/concerts/43207611-skraeckoedlan-at-la-bulle-cafe",
+      "sources": [
+        "manuel"
+      ]
+    },
+    {
+      "id": "2026-11-04-malterie-krallice",
+      "date": "2026-11-04",
+      "time": null,
+      "artist": "Krallice",
+      "support": [],
+      "venue": "La Malterie",
+      "city": "Lille",
+      "genre": "Black Metal",
+      "family": "Death / Black",
+      "price": null,
+      "status": "unknown",
+      "ticketUrl": null,
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Krallice-253652.html",
+      "sources": [
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2026-11-06-brat-cave-drops",
+      "date": "2026-11-06",
+      "time": null,
+      "artist": "Drops",
+      "support": [
+        "Becoming A.D.",
+        "Blind Assault",
+        "Haywire",
+        "Signifiant Damage"
+      ],
+      "venue": "La Brat Cave",
+      "city": "Lille",
+      "genre": "Hardcore Punk",
+      "family": "Core / Hardcore",
+      "price": null,
+      "status": "unknown",
+      "ticketUrl": null,
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Drops_Release_Show__Haywire__Becoming_Ad_And_More_-_Lille-277170.html",
+      "sources": [
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2026-11-07-bidule-two-wolves-in-alaska",
+      "date": "2026-11-07",
+      "time": null,
+      "artist": "Two Wolves In Alaska",
+      "support": [
+        "Deadly Silence"
+      ],
+      "venue": "Le Bidule",
+      "city": "Lille",
+      "genre": "Electronicore",
+      "family": "Core / Hardcore",
+      "price": null,
+      "status": "unknown",
+      "ticketUrl": null,
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_One_Night_Away__Two_Wolves_In_Alaska___Deadly_Silent-268930.html",
+      "sources": [
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2026-11-08-cave-aux-poetes-babe-haven",
+      "date": "2026-11-08",
+      "time": null,
+      "artist": "Babe Haven",
+      "support": [
+        "Latter"
+      ],
+      "venue": "La Cave aux Poètes",
+      "city": "Roubaix",
+      "genre": "Hardcore Punk",
+      "family": "Core / Hardcore",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://caveauxpoetes.com/evenement/babe-haven-latter-muddle/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Babe_Haven___Latter_-_Tour_2026-278257.html",
+      "sources": [
+        "cave-aux-poetes",
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2026-11-11-theatre-sebastopol-the-5-rosies",
+      "date": "2026-11-11",
+      "time": "20:00",
+      "artist": "The 5 Rosies",
+      "support": [],
+      "venue": "Théâtre Sébastopol",
+      "city": "Lille",
+      "genre": "Tribute AC/DC",
+      "family": "Tributes",
+      "price": "36 – 55 €",
+      "status": "onsale",
+      "ticketUrl": "https://www.ticketmaster.fr/fr/manifestation/the-5-rosies-tribute-to-ac-dc-billet/idmanif/646664/idtier/6698995",
+      "sourceUrl": "https://theatre-sebastopol.fr/spectacle/the-5-rosies/",
+      "sources": [
+        "manuel"
+      ]
+    },
+    {
+      "id": "2026-11-12-bulle-cafe-7-weeks",
+      "date": "2026-11-12",
+      "time": null,
+      "artist": "7 Weeks",
+      "support": [],
+      "venue": "La Bulle Café",
+      "city": "Lille",
+      "genre": "Stoner Rock",
+      "family": "Doom / Stoner",
+      "price": null,
+      "status": "unknown",
+      "ticketUrl": null,
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_7_Weeks-254718.html",
+      "sources": [
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2026-11-14-black-lab-spiral-out",
+      "date": "2026-11-14",
+      "time": "19:00",
+      "artist": "Spiral Out",
+      "support": [],
+      "venue": "The Black Lab",
+      "city": "Wasquehal",
+      "genre": "Tribute · Progressive Metal",
+      "family": "Tributes",
+      "price": "25 €",
+      "status": "onsale",
+      "ticketUrl": "https://theblacklab.fr/agenda/spiral-out-tool-tribute/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Spiral_Out_-262171.html",
+      "sources": [
+        "black-lab",
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2026-11-14-brat-cave-pestifer",
+      "date": "2026-11-14",
+      "time": null,
+      "artist": "Pestifer",
+      "support": [
+        "Hellebore",
+        "Necrotesque"
+      ],
+      "venue": "La Brat Cave",
+      "city": "Lille",
+      "genre": "Technical Death Metal",
+      "family": "Death / Black",
+      "price": null,
+      "status": "unknown",
+      "ticketUrl": null,
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_PESTIFER_-_Necrotesque_-_Hellebore-266380.html",
+      "sources": [
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2026-11-15-black-lab-cage-fight",
+      "date": "2026-11-15",
+      "time": "20:00",
+      "artist": "Cage Fight",
+      "support": [
+        "Kabbel",
+        "Soul Splitter"
+      ],
+      "venue": "The Black Lab",
+      "city": "Wasquehal",
+      "genre": "Metalcore / Groove Metal",
+      "family": "Core / Hardcore",
+      "price": "26,80 €",
+      "status": "onsale",
+      "ticketUrl": "https://theblacklab.fr/agenda/cage-fight-soul-splitter-kabbel/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Cage_Fight_-_Tour_2026-264536.html",
+      "sources": [
+        "black-lab",
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2026-11-23-splendid-arabrot",
+      "date": "2026-11-23",
+      "time": "20:00",
+      "artist": "Årabrot",
+      "support": [
+        "Lost in Kyiv"
+      ],
+      "venue": "Le Splendid",
+      "city": "Lille",
+      "genre": "Noise rock / post-metal",
+      "family": "Post-metal",
+      "price": "dès 29 €",
+      "status": "onsale",
+      "ticketUrl": "https://www.ticketmaster.fr/fr/manifestation/arabrot-et-lost-in-kyiv-billet/idmanif/669227/idseance/4391120/idtier/13073454",
+      "sourceUrl": "https://www.le-splendid.com/arabrot-lost-in-kyiv",
+      "sources": [
+        "manuel"
+      ]
+    },
+    {
+      "id": "2026-11-28-espace-culturel-allende-ashen",
+      "date": "2026-11-28",
+      "time": null,
+      "artist": "Ashen",
+      "support": [
+        "Dope4Mind"
+      ],
+      "venue": "Espace Culturel Allende",
+      "city": "Mons-en-Baroeul",
+      "genre": "Metalcore / Alternative Metal",
+      "family": "Core / Hardcore",
+      "price": null,
+      "status": "unknown",
+      "ticketUrl": null,
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Tour_de_Chauffe_20-261837.html",
+      "sources": [
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2026-12-05-aeronef-slift",
+      "date": "2026-12-05",
+      "time": "20:00",
+      "artist": "SLIFT",
+      "support": [],
+      "venue": "L'Aéronef",
+      "city": "Lille",
+      "genre": "Heavy Psych",
+      "family": "Doom / Stoner",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://aeronef.fr/agenda/slift2026",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Slift_-_Europe_Tour_2026-2027-254570.html",
+      "sources": [
+        "aeronef",
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2027-01-08-circus-dethscend",
+      "date": "2027-01-08",
+      "time": null,
+      "artist": "Dethscend",
+      "support": [
+        "Swamp Evil"
+      ],
+      "venue": "Le Circus",
+      "city": "Lille",
+      "genre": "Funeral Sludge Metal",
+      "family": "Doom / Stoner",
+      "price": null,
+      "status": "unknown",
+      "ticketUrl": null,
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Dethscend___Swamp_Evil___After_Saint-Pierre-275206.html",
+      "sources": [
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2027-01-14-black-lab-rhapsody-of-fire",
+      "date": "2027-01-14",
+      "time": "19:00",
+      "artist": "Rhapsody Of Fire",
+      "support": [
+        "Aeon Gods",
+        "Rock Out",
+        "Serious Black",
+        "Subterranean Masquerade"
+      ],
+      "venue": "The Black Lab",
+      "city": "Wasquehal",
+      "genre": "Symphonic Power Metal",
+      "family": "Power / Prog",
+      "price": "30 €",
+      "status": "onsale",
+      "ticketUrl": "https://theblacklab.fr/agenda/rhapsody-of-fire/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Motocultor_Across_Europe_Tour_2027-252235.html",
+      "sources": [
+        "black-lab",
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2027-01-28-grand-mix-the-ocean",
+      "date": "2027-01-28",
+      "time": "20:00",
+      "artist": "The Ocean",
+      "support": [],
+      "venue": "Le Grand Mix",
+      "city": "Tourcoing",
+      "genre": "Atmospheric Sludge Metal",
+      "family": "Post-metal",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://www.legrandmix.com/agenda/the_ocean",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_The_Ocean_-_Solaris_Tour_2027-277429.html",
+      "sources": [
+        "concerts-metal",
+        "grand-mix"
+      ]
+    },
+    {
+      "id": "2027-01-29-black-lab-resolve",
+      "date": "2027-01-29",
+      "time": "20:00",
+      "artist": "Resolve",
+      "support": [
+        "SPLEEN",
+        "Silent Planet"
+      ],
+      "venue": "The Black Lab",
+      "city": "Wasquehal",
+      "genre": "Metalcore",
+      "family": "Core / Hardcore",
+      "price": "32 €",
+      "status": "onsale",
+      "ticketUrl": "https://theblacklab.fr/agenda/resolve-silent-planet-spleen/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Resolve_-_Tour_2027-250143.html",
+      "sources": [
+        "black-lab",
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2027-01-29-splendid-locomuerte",
+      "date": "2027-01-29",
+      "time": null,
+      "artist": "LocoMuerte",
+      "support": [
+        "SUP",
+        "Dope4Mind"
+      ],
+      "venue": "Le Splendid",
+      "city": "Lille",
+      "genre": "Crossover Thrash",
+      "family": "Core / Hardcore",
+      "price": null,
+      "status": "unknown",
+      "ticketUrl": null,
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Locomuerte___SUP-254210.html",
+      "sources": [
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2027-02-03-black-lab-the-black-dahlia-murder",
+      "date": "2027-02-03",
+      "time": "19:00",
+      "artist": "The Black Dahlia Murder",
+      "support": [],
+      "venue": "The Black Lab",
+      "city": "Wasquehal",
+      "genre": "Melodic Death Metal",
+      "family": "Death / Black",
+      "price": "27 €",
+      "status": "onsale",
+      "ticketUrl": "https://theblacklab.fr/agenda/the-black-dahlia-murder/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_The_Black_Dahlia_Murder_-_Two_Decades_of_Nocturnal_Tour_2027-258160.html",
+      "sources": [
+        "black-lab",
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2027-02-06-black-lab-revnoir",
+      "date": "2027-02-06",
+      "time": "20:00",
+      "artist": "Revnoir",
+      "support": [
+        "Ice Sealed Eyes"
+      ],
+      "venue": "The Black Lab",
+      "city": "Wasquehal",
+      "genre": "Metalcore",
+      "family": "Core / Hardcore",
+      "price": "28 €",
+      "status": "onsale",
+      "ticketUrl": "https://theblacklab.fr/agenda/revnoir-ice-sealed-eyes/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Revnoir_-_Tour_2027-251461.html",
+      "sources": [
+        "black-lab",
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2027-02-16-aeronef-primitive-ring",
+      "date": "2027-02-16",
+      "time": "20:00",
+      "artist": "Primitive Ring",
+      "support": [],
+      "venue": "L'Aéronef",
+      "city": "Lille",
+      "genre": "Stoner / Doom Metal",
+      "family": "Doom / Stoner",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://aeronef.fr/agenda/primitivering",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Primitive_Ring_-_France_2027-269564.html",
+      "sources": [
+        "aeronef",
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2027-02-19-condition-publique-ultra-vomit",
+      "date": "2027-02-19",
+      "time": null,
+      "artist": "Ultra Vomit",
+      "support": [],
+      "venue": "La Condition Publique",
+      "city": "Roubaix",
+      "genre": "Parody Metal",
+      "family": "Heavy / Thrash",
+      "price": null,
+      "status": "unknown",
+      "ticketUrl": null,
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Ultra_Vomit_-_La_Condition_Publique_-_Roubaix_-_Ven19-02-20-276531.html",
+      "sources": [
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2027-02-20-black-lab-colour-haze",
+      "date": "2027-02-20",
+      "time": "19:00",
+      "artist": "Colour Haze",
+      "support": [
+        "Smokemaster"
+      ],
+      "venue": "The Black Lab",
+      "city": "Wasquehal",
+      "genre": "Stoner psyché",
+      "family": "Doom / Stoner",
+      "price": "25 €",
+      "status": "onsale",
+      "ticketUrl": "https://theblacklab.fr/agenda/colour-haze-smokemaster/",
+      "sourceUrl": "https://theblacklab.fr/agenda/colour-haze-smokemaster/",
+      "sources": [
+        "black-lab",
+        "manuel"
+      ]
+    },
+    {
+      "id": "2027-02-28-maison-folie-wazemmes-rezn",
+      "date": "2027-02-28",
+      "time": null,
+      "artist": "REZN",
+      "support": [],
+      "venue": "Maison Folie Wazemmes",
+      "city": "Lille",
+      "genre": "Stoner / doom psyché",
+      "family": "Doom / Stoner",
+      "price": null,
+      "status": "unknown",
+      "ticketUrl": null,
+      "sourceUrl": "https://www.songkick.com/concerts/43344821-rezn-at-maison-folie-wazemmes",
+      "sources": [
+        "manuel"
+      ]
+    },
+    {
+      "id": "2027-03-05-black-lab-houle",
+      "date": "2027-03-05",
+      "time": "19:00",
+      "artist": "Houle",
+      "support": [
+        "Cân Bardd",
+        "Galibot"
+      ],
+      "venue": "The Black Lab",
+      "city": "Wasquehal",
+      "genre": "Black Metal",
+      "family": "Death / Black",
+      "price": "25 €",
+      "status": "onsale",
+      "ticketUrl": "https://theblacklab.fr/agenda/houle-can-bardd-galibot/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Houle_-_Goelophobia_Tour_2027-279504.html",
+      "sources": [
+        "black-lab",
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2027-03-05-aeronef-cult-of-luna",
+      "date": "2027-03-05",
+      "time": "20:00",
+      "artist": "Cult Of Luna",
+      "support": [
+        "BRUIT ≤",
+        "Youth Code"
+      ],
+      "venue": "L'Aéronef",
+      "city": "Lille",
+      "genre": "Atmospheric Sludge Metal",
+      "family": "Post-metal",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://aeronef.fr/agenda/05032027",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Cult_of_Luna_-_In_the_Shadow_of_Your_Shadow_Tour_2027-267101.html",
+      "sources": [
+        "aeronef",
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2027-03-19-grand-mix-alcest",
+      "date": "2027-03-19",
+      "time": "20:00",
+      "artist": "Alcest",
+      "support": [
+        "Agriculture"
+      ],
+      "venue": "Le Grand Mix",
+      "city": "Tourcoing",
+      "genre": "Blackgaze",
+      "family": "Death / Black",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://www.legrandmix.com/agenda/alcest-agriculture",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Alcest_-_Tour_2027-267478.html",
+      "sources": [
+        "concerts-metal",
+        "grand-mix"
+      ]
+    },
+    {
+      "id": "2027-03-20-black-lab-uuhai",
+      "date": "2027-03-20",
+      "time": "19:30",
+      "artist": "Uuhaï",
+      "support": [
+        "Acyl"
+      ],
+      "venue": "The Black Lab",
+      "city": "Wasquehal",
+      "genre": "Folk Metal",
+      "family": "Power / Prog",
+      "price": "30 €",
+      "status": "onsale",
+      "ticketUrl": "https://theblacklab.fr/agenda/uuhai-2/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Uuhai___Acyl-255222.html",
+      "sources": [
+        "black-lab",
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2027-03-20-laiterie-ayron-jones",
+      "date": "2027-03-20",
+      "time": null,
+      "artist": "Ayron Jones",
+      "support": [],
+      "venue": "La Laiterie",
+      "city": "Lambersart",
+      "genre": "Hard rock / blues",
+      "family": "Hard rock",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": null,
+      "sourceUrl": "https://www.songkick.com/concerts/43160908-ayron-jones-at-la-laiterie",
+      "sources": [
+        "manuel"
+      ]
+    },
+    {
+      "id": "2027-05-07-black-lab-black-lab-tribute-fest-nu-metal",
+      "date": "2027-05-07",
+      "time": "19:00",
+      "artist": "Black Lab Tribute Fest · Nu-metal",
+      "support": [
+        "Korn SK (Korn)",
+        "Breakstuff (Limp Bizkit)",
+        "Bombtracks (RATM)"
+      ],
+      "venue": "The Black Lab",
+      "city": "Wasquehal",
+      "genre": "Tributes nu-metal",
+      "family": "Tributes",
+      "price": "25 €",
+      "status": "onsale",
+      "ticketUrl": "https://theblacklab.fr/agenda/the-black-lab-tribute-fest-day-2-nu-metal/",
+      "sourceUrl": "https://theblacklab.fr/agenda/the-black-lab-tribute-fest-day-2-nu-metal/",
+      "sources": [
+        "black-lab",
+        "manuel"
+      ]
+    },
+    {
+      "id": "2027-05-14-black-lab-black-lab-tribute-fest-modern",
+      "date": "2027-05-14",
+      "time": "19:00",
+      "artist": "Black Lab Tribute Fest · Modern",
+      "support": [
+        "Meteora (Linkin Park)",
+        "Dear Sally (Evanescence)",
+        "Sleepwalkers (Bring Me The Horizon)"
+      ],
+      "venue": "The Black Lab",
+      "city": "Wasquehal",
+      "genre": "Tributes nu-metal / metalcore",
+      "family": "Tributes",
+      "price": "25 €",
+      "status": "onsale",
+      "ticketUrl": "https://theblacklab.fr/agenda/the-black-lab-tribute-fest-day-4-modern/",
+      "sourceUrl": "https://theblacklab.fr/agenda/the-black-lab-tribute-fest-day-4-modern/",
+      "sources": [
+        "black-lab",
+        "manuel"
+      ]
+    },
+    {
+      "id": "2027-05-15-black-lab-black-lab-tribute-fest-metal",
+      "date": "2027-05-15",
+      "time": "19:00",
+      "artist": "Black Lab Tribute Fest · Metal",
+      "support": [
+        "Early Maggots (Slipknot)",
+        "Sonnenschein (Rammstein)",
+        "Soldier Side (System of a Down)"
+      ],
+      "venue": "The Black Lab",
+      "city": "Wasquehal",
+      "genre": "Tributes metal",
+      "family": "Tributes",
+      "price": "25 €",
+      "status": "onsale",
+      "ticketUrl": "https://theblacklab.fr/agenda/the-black-lab-tribute-fest-day-5-metal/",
+      "sourceUrl": "https://theblacklab.fr/agenda/the-black-lab-tribute-fest-day-5-metal/",
+      "sources": [
+        "black-lab",
+        "manuel"
+      ]
+    },
+    {
+      "id": "2027-05-15-maison-folie-beaulieu-furious-cirkus-2027",
+      "date": "2027-05-15",
+      "time": null,
+      "artist": "FurioUs CirKus 2027",
+      "support": [],
+      "venue": "Maison Folie Beaulieu",
+      "city": "Lomme",
+      "genre": "Festival, programmation à venir",
+      "family": "Festival",
+      "price": null,
+      "status": "unknown",
+      "ticketUrl": null,
+      "sourceUrl": "https://lille.concerts-metal.com/",
+      "sources": [
+        "manuel"
+      ]
+    },
+    {
+      "id": "2027-06-21-aeronef-motionless-in-white",
+      "date": "2027-06-21",
+      "time": "20:00",
+      "artist": "Motionless In White",
+      "support": [
+        "Guest"
+      ],
+      "venue": "L'Aéronef",
+      "city": "Lille",
+      "genre": "Metalcore",
+      "family": "Core / Hardcore",
+      "price": null,
+      "status": "soldout",
+      "ticketUrl": "https://aeronef.fr/agenda/motionless-white27",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Motionless_In_White_-_Tour_2027-269449.html",
+      "sources": [
+        "aeronef",
+        "concerts-metal"
+      ]
+    }
+  ]
+}
