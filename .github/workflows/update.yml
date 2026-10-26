@@ -34,13 +34,14 @@ jobs:
 
       - name: Enregistrer les changements
         run: |
-          if git diff --quiet -- docs/concerts.json; then
+          git add -N data/genres.json
+          if git diff --quiet -- docs/concerts.json data/genres.json; then
             echo "Aucun changement dans l'agenda."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/concerts.json
+          git add docs/concerts.json data/genres.json
           git commit -m "chore(data): mise à jour des concerts"
           git push
 

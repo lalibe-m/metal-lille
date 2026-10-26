@@ -1,6 +1,8 @@
 {
   "exclude": [
-    "^the rasmus$"
+    "^the rasmus$",
+    "^the ex brass unbound$",
+    "^meltheads$"
   ],
   "includeTitles": {},
   "add": [

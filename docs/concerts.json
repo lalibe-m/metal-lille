@@ -1,12 +1,11 @@
 {
-  "updatedAt": "2026-10-26T09:10:20.945Z",
+  "updatedAt": "2026-10-26T10:52:56.644Z",
   "sources": [
     {
       "id": "concerts-metal",
       "label": "concerts-metal.com",
-      "ok": false,
-      "count": 0,
-      "error": "HTTP 403 sur https://lille.concerts-metal.com/"
+      "ok": true,
+      "count": 49
     },
     {
       "id": "black-lab",
@@ -18,7 +17,7 @@
       "id": "aeronef",
       "label": "L'Aéronef",
       "ok": true,
-      "count": 68
+      "count": 69
     },
     {
       "id": "grand-mix",
@@ -37,9 +36,117 @@
       "label": "Le Métaphone",
       "ok": true,
       "count": 8
+    },
+    {
+      "id": "ancienne-belgique",
+      "label": "Ancienne Belgique",
+      "ok": true,
+      "count": 240
+    },
+    {
+      "id": "magasin-4",
+      "label": "Magasin 4",
+      "ok": true,
+      "count": 21
+    },
+    {
+      "id": "botanique",
+      "label": "Botanique",
+      "ok": true,
+      "count": 49
+    },
+    {
+      "id": "vk-concerts",
+      "label": "VK Concerts",
+      "ok": true,
+      "count": 20
+    },
+    {
+      "id": "wilde-westen",
+      "label": "Wilde Westen (De Kreun)",
+      "ok": true,
+      "count": 63
+    },
+    {
+      "id": "kinky-star",
+      "label": "Kinky Star",
+      "ok": true,
+      "count": 33
+    },
+    {
+      "id": "rockerill",
+      "label": "Rockerill",
+      "ok": true,
+      "count": 10
     }
   ],
   "events": [
+    {
+      "id": "2026-10-26-botanique-heretoir",
+      "date": "2026-10-26",
+      "time": "18:30",
+      "artist": "Heretoir",
+      "support": [
+        "Unreqvited",
+        "Nidare"
+      ],
+      "venue": "Botanique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Post-black metal",
+      "family": "Death / Black",
+      "price": "24.65 €",
+      "status": "onsale",
+      "ticketUrl": "https://botanique.be/fr/concert/heretoir-unreqvited-nidare-2026",
+      "sourceUrl": "https://botanique.be/fr/concert/heretoir-unreqvited-nidare-2026",
+      "sources": [
+        "botanique"
+      ]
+    },
+    {
+      "id": "2026-10-27-ancienne-belgique-beast-in-black",
+      "date": "2026-10-27",
+      "time": "18:30",
+      "artist": "Beast in Black",
+      "support": [
+        "Sonata Arctica",
+        "Frozen Crown"
+      ],
+      "venue": "Ancienne Belgique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Power metal",
+      "family": "Power / Prog",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://www.abconcerts.be/fr/agenda/beast-in-black/a10Qw000006iQeTIAU",
+      "sourceUrl": "https://www.abconcerts.be/fr/agenda/beast-in-black/a10Qw000006iQeTIAU",
+      "sources": [
+        "ancienne-belgique"
+      ]
+    },
+    {
+      "id": "2026-10-27-magasin-4-babe-haven",
+      "date": "2026-10-27",
+      "time": "19:30",
+      "artist": "Babe Haven",
+      "support": [
+        "Latter",
+        "rooftop"
+      ],
+      "venue": "Magasin 4",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Hardcore Punk / Riot Grrrl / Screamo",
+      "family": "Core / Hardcore",
+      "price": "15 €",
+      "status": "onsale",
+      "ticketUrl": "https://magasin4.stager.co/shop/default/events/111669082",
+      "sourceUrl": "https://www.magasin4.be/concerts/51379/2026-10-27/",
+      "sources": [
+        "magasin-4"
+      ]
+    },
     {
       "id": "2026-10-28-cave-aux-poetes-horskh",
       "date": "2026-10-28",
@@ -48,6 +155,7 @@
       "support": [],
       "venue": "La Cave aux Poètes",
       "city": "Roubaix",
+      "country": "FR",
       "genre": "Machine Rock",
       "family": "Indus / Nu",
       "price": null,
@@ -67,6 +175,7 @@
       "support": [],
       "venue": "La Brat Cave",
       "city": "Lille",
+      "country": "FR",
       "genre": "Hardcore Punk",
       "family": "Core / Hardcore",
       "price": null,
@@ -88,6 +197,7 @@
       ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
+      "country": "FR",
       "genre": "Psychedelic Rock",
       "family": "Doom / Stoner",
       "price": "25 €",
@@ -97,6 +207,28 @@
       "sources": [
         "black-lab",
         "concerts-metal"
+      ]
+    },
+    {
+      "id": "2026-10-30-magasin-4-baratro",
+      "date": "2026-10-30",
+      "time": "19:30",
+      "artist": "Baratro",
+      "support": [
+        "Walfang",
+        "Pigz"
+      ],
+      "venue": "Magasin 4",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Noise Rock / Sludge / Stoner Rock",
+      "family": "Doom / Stoner",
+      "price": "15 €",
+      "status": "onsale",
+      "ticketUrl": "https://magasin4.stager.co/shop/default/events/111691319",
+      "sourceUrl": "https://www.magasin4.be/concerts/52066/2026-10-30/",
+      "sources": [
+        "magasin-4"
       ]
     },
     {
@@ -111,6 +243,7 @@
       ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
+      "country": "FR",
       "genre": "Metalcore",
       "family": "Core / Hardcore",
       "price": "28,80 €",
@@ -123,6 +256,27 @@
       ]
     },
     {
+      "id": "2026-10-31-kinky-star-hamers",
+      "date": "2026-10-31",
+      "time": "21:00",
+      "artist": "Hamers",
+      "support": [
+        "Daddy Unchained"
+      ],
+      "venue": "Kinky Star",
+      "city": "Gent",
+      "country": "BE",
+      "genre": "Punk / Experimental / Rock / Metal",
+      "family": "Heavy / Thrash",
+      "price": "Gratuit",
+      "status": "onsale",
+      "ticketUrl": "https://www.kinkystar.com/nl/events/2026-10-31-kinky-kapot-hamers-be-ep-release-daddy-unchained-nl",
+      "sourceUrl": "https://www.kinkystar.com/nl/events/2026-10-31-kinky-kapot-hamers-be-ep-release-daddy-unchained-nl",
+      "sources": [
+        "kinky-star"
+      ]
+    },
+    {
       "id": "2026-10-31-bulle-cafe-skraeckoedlan",
       "date": "2026-10-31",
       "time": null,
@@ -130,6 +284,7 @@
       "support": [],
       "venue": "La Bulle Café",
       "city": "Lille",
+      "country": "FR",
       "genre": "Stoner metal",
       "family": "Doom / Stoner",
       "price": "dès 12,59 €",
@@ -141,6 +296,72 @@
       ]
     },
     {
+      "id": "2026-11-01-kinky-star-detax",
+      "date": "2026-11-01",
+      "time": "16:00",
+      "artist": "DETAX",
+      "support": [
+        "Dieseldudes",
+        "Stoelen & Banken",
+        "Slinger"
+      ],
+      "venue": "Kinky Star",
+      "city": "Gent",
+      "country": "BE",
+      "genre": "Punk / Electronic / Experimental / Rock / Metal",
+      "family": "Heavy / Thrash",
+      "price": "Gratuit",
+      "status": "onsale",
+      "ticketUrl": "https://www.kinkystar.com/nl/events/2026-11-01-dia-de-los-muertos-detax-be-dieseldudes-us-stoelen-banken-be-slinger-be",
+      "sourceUrl": "https://www.kinkystar.com/nl/events/2026-11-01-dia-de-los-muertos-detax-be-dieseldudes-us-stoelen-banken-be-slinger-be",
+      "sources": [
+        "kinky-star"
+      ]
+    },
+    {
+      "id": "2026-11-03-magasin-4-inhuman-nature",
+      "date": "2026-11-03",
+      "time": "19:30",
+      "artist": "Inhuman Nature",
+      "support": [
+        "State Power",
+        "Ninth Realm"
+      ],
+      "venue": "Magasin 4",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Crossover / Thrash Metal / Death Metal",
+      "family": "Death / Black",
+      "price": "15 €",
+      "status": "onsale",
+      "ticketUrl": "https://magasin4.stager.co/shop/default/events/111683068",
+      "sourceUrl": "https://www.magasin4.be/concerts/51819/2026-11-03/",
+      "sources": [
+        "magasin-4"
+      ]
+    },
+    {
+      "id": "2026-11-03-super-fourchette-moving-as-a-giant",
+      "date": "2026-11-03",
+      "time": "19:30",
+      "artist": "Moving As A Giant",
+      "support": [
+        "Tuesday Violence"
+      ],
+      "venue": "Super Fourchette",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Noise rock",
+      "family": "Hard rock",
+      "price": null,
+      "status": "unknown",
+      "ticketUrl": "https://www.abconcerts.be/fr/agenda/moving-as-a-giant-tuesday-violence-super-fourchette/a10Qw00000Jt6OUIAZ",
+      "sourceUrl": "https://www.abconcerts.be/fr/agenda/moving-as-a-giant-tuesday-violence-super-fourchette/a10Qw00000Jt6OUIAZ",
+      "sources": [
+        "ancienne-belgique"
+      ]
+    },
+    {
       "id": "2026-11-04-malterie-krallice",
       "date": "2026-11-04",
       "time": null,
@@ -148,6 +369,7 @@
       "support": [],
       "venue": "La Malterie",
       "city": "Lille",
+      "country": "FR",
       "genre": "Black Metal",
       "family": "Death / Black",
       "price": null,
@@ -156,6 +378,25 @@
       "sourceUrl": "https://www.concerts-metal.com/concert_-_Krallice-253652.html",
       "sources": [
         "concerts-metal"
+      ]
+    },
+    {
+      "id": "2026-11-05-botanique-the-obsessed",
+      "date": "2026-11-05",
+      "time": "18:30",
+      "artist": "The Obsessed",
+      "support": [],
+      "venue": "Botanique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Doom metal",
+      "family": "Doom / Stoner",
+      "price": "22.5 €",
+      "status": "onsale",
+      "ticketUrl": "https://botanique.be/fr/concert/obsessed-2026",
+      "sourceUrl": "https://botanique.be/fr/concert/obsessed-2026",
+      "sources": [
+        "botanique"
       ]
     },
     {
@@ -171,6 +412,7 @@
       ],
       "venue": "La Brat Cave",
       "city": "Lille",
+      "country": "FR",
       "genre": "Hardcore Punk",
       "family": "Core / Hardcore",
       "price": null,
@@ -179,6 +421,52 @@
       "sourceUrl": "https://www.concerts-metal.com/concert_-_Drops_Release_Show__Haywire__Becoming_Ad_And_More_-_Lille-277170.html",
       "sources": [
         "concerts-metal"
+      ]
+    },
+    {
+      "id": "2026-11-06-depart-sonic-city-2026",
+      "date": "2026-11-06",
+      "time": null,
+      "artist": "Sonic City 2026",
+      "support": [],
+      "venue": "Depart",
+      "city": "Kortrijk",
+      "country": "BE",
+      "genre": "Hard & Heavy",
+      "family": "Heavy / Thrash",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://ticketshop.ticketmatic.com/wilde_westen/sonic-city",
+      "sourceUrl": "https://www.wildewesten.be/nl/event/sonic-city-2026",
+      "sources": [
+        "wilde-westen"
+      ]
+    },
+    {
+      "id": "2026-11-07-magasin-4-weekend-nachos",
+      "date": "2026-11-07",
+      "time": "17:00",
+      "artist": "Weekend Nachos",
+      "support": [
+        "LMDA",
+        "Teigne",
+        "TFB",
+        "Colère",
+        "Verpest",
+        "Plague Thirteen",
+        "Cheswick"
+      ],
+      "venue": "Magasin 4",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Hardcore Punk / Power Violence / Crust / Grindcore",
+      "family": "Death / Black",
+      "price": "20 €",
+      "status": "onsale",
+      "ticketUrl": "https://magasin4.stager.co/shop/default/events/111649950",
+      "sourceUrl": "https://www.magasin4.be/concerts/50694/2026-11-07/",
+      "sources": [
+        "magasin-4"
       ]
     },
     {
@@ -191,6 +479,7 @@
       ],
       "venue": "Le Bidule",
       "city": "Lille",
+      "country": "FR",
       "genre": "Electronicore",
       "family": "Core / Hardcore",
       "price": null,
@@ -211,6 +500,7 @@
       ],
       "venue": "La Cave aux Poètes",
       "city": "Roubaix",
+      "country": "FR",
       "genre": "Hardcore Punk",
       "family": "Core / Hardcore",
       "price": null,
@@ -223,6 +513,28 @@
       ]
     },
     {
+      "id": "2026-11-09-ancienne-belgique-enter-shikari",
+      "date": "2026-11-09",
+      "time": "19:00",
+      "artist": "Enter Shikari",
+      "support": [
+        "Holding Absence",
+        "The Callous Daoboys"
+      ],
+      "venue": "Ancienne Belgique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Post-hardcore",
+      "family": "Core / Hardcore",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://www.abconcerts.be/fr/agenda/enter-shikari/a10Qw00000IRNPZIA5",
+      "sourceUrl": "https://www.abconcerts.be/fr/agenda/enter-shikari/a10Qw00000IRNPZIA5",
+      "sources": [
+        "ancienne-belgique"
+      ]
+    },
+    {
       "id": "2026-11-11-theatre-sebastopol-the-5-rosies",
       "date": "2026-11-11",
       "time": "20:00",
@@ -230,6 +542,7 @@
       "support": [],
       "venue": "Théâtre Sébastopol",
       "city": "Lille",
+      "country": "FR",
       "genre": "Tribute AC/DC",
       "family": "Tributes",
       "price": "36 – 55 €",
@@ -241,6 +554,27 @@
       ]
     },
     {
+      "id": "2026-11-11-kinky-star-sotabosc",
+      "date": "2026-11-11",
+      "time": "21:00",
+      "artist": "Sotabosc",
+      "support": [
+        "Juneau"
+      ],
+      "venue": "Kinky Star",
+      "city": "Gent",
+      "country": "BE",
+      "genre": "Black metal",
+      "family": "Death / Black",
+      "price": "Gratuit",
+      "status": "onsale",
+      "ticketUrl": "https://www.kinkystar.com/nl/events/2026-11-11-nnc-sotabosc-es-juneau-be",
+      "sourceUrl": "https://www.kinkystar.com/nl/events/2026-11-11-nnc-sotabosc-es-juneau-be",
+      "sources": [
+        "kinky-star"
+      ]
+    },
+    {
       "id": "2026-11-12-bulle-cafe-7-weeks",
       "date": "2026-11-12",
       "time": null,
@@ -248,6 +582,7 @@
       "support": [],
       "venue": "La Bulle Café",
       "city": "Lille",
+      "country": "FR",
       "genre": "Stoner Rock",
       "family": "Doom / Stoner",
       "price": null,
@@ -259,6 +594,46 @@
       ]
     },
     {
+      "id": "2026-11-12-magasin-4-big-brave",
+      "date": "2026-11-12",
+      "time": null,
+      "artist": "Big Brave",
+      "support": [
+        "Bang Of Hearts"
+      ],
+      "venue": "Magasin 4",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Noise / Drone / Experimental",
+      "family": "Hard rock",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://www.magasin4.be/concerts/51874/2026-11-12/",
+      "sourceUrl": "https://www.magasin4.be/concerts/51874/2026-11-12/",
+      "sources": [
+        "magasin-4"
+      ]
+    },
+    {
+      "id": "2026-11-14-ancienne-belgique-ice-sealed-eyes",
+      "date": "2026-11-14",
+      "time": "19:00",
+      "artist": "Ice Sealed Eyes",
+      "support": [],
+      "venue": "Ancienne Belgique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Metalcore",
+      "family": "Core / Hardcore",
+      "price": null,
+      "status": "unknown",
+      "ticketUrl": "https://www.abconcerts.be/fr/agenda/ice-sealed-eyes/a10Qw00000FzrEuIAJ",
+      "sourceUrl": "https://www.abconcerts.be/fr/agenda/ice-sealed-eyes/a10Qw00000FzrEuIAJ",
+      "sources": [
+        "ancienne-belgique"
+      ]
+    },
+    {
       "id": "2026-11-14-black-lab-spiral-out",
       "date": "2026-11-14",
       "time": "19:00",
@@ -266,6 +641,7 @@
       "support": [],
       "venue": "The Black Lab",
       "city": "Wasquehal",
+      "country": "FR",
       "genre": "Tribute · Progressive Metal",
       "family": "Tributes",
       "price": "25 €",
@@ -275,6 +651,27 @@
       "sources": [
         "black-lab",
         "concerts-metal"
+      ]
+    },
+    {
+      "id": "2026-11-14-rockerill-hippotraktor",
+      "date": "2026-11-14",
+      "time": "20:00",
+      "artist": "Hippotraktor",
+      "support": [
+        "Down To Insanity"
+      ],
+      "venue": "Rockerill",
+      "city": "Charleroi",
+      "country": "BE",
+      "genre": "Progressive metal",
+      "family": "Power / Prog",
+      "price": "15 €",
+      "status": "onsale",
+      "ticketUrl": "https://shop.utick.net/?module=ACTIVITYSERIEDETAILS&pos=ROCKERILL&s=C40D359F-C34D-8725-FD27-EA56613DE784",
+      "sourceUrl": "https://www.rockerill.com/agenda/hell-is-here-hippotraktor-down-to-insanity-51954/",
+      "sources": [
+        "rockerill"
       ]
     },
     {
@@ -288,6 +685,7 @@
       ],
       "venue": "La Brat Cave",
       "city": "Lille",
+      "country": "FR",
       "genre": "Technical Death Metal",
       "family": "Death / Black",
       "price": null,
@@ -309,6 +707,7 @@
       ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
+      "country": "FR",
       "genre": "Metalcore / Groove Metal",
       "family": "Core / Hardcore",
       "price": "26,80 €",
@@ -321,6 +720,115 @@
       ]
     },
     {
+      "id": "2026-11-16-ancienne-belgique-president",
+      "date": "2026-11-16",
+      "time": "19:00",
+      "artist": "PRESIDENT",
+      "support": [
+        "Vianova",
+        "Dreamwake"
+      ],
+      "venue": "Ancienne Belgique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Heavy",
+      "family": "Heavy / Thrash",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://www.abconcerts.be/fr/agenda/president/a10Qw00000Fj5NtIAJ",
+      "sourceUrl": "https://www.abconcerts.be/fr/agenda/president/a10Qw00000Fj5NtIAJ",
+      "sources": [
+        "ancienne-belgique"
+      ]
+    },
+    {
+      "id": "2026-11-17-ancienne-belgique-eluveitie",
+      "date": "2026-11-17",
+      "time": "19:00",
+      "artist": "Eluveitie",
+      "support": [
+        "Pain",
+        "WOLFHEART"
+      ],
+      "venue": "Ancienne Belgique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Folk metal",
+      "family": "Power / Prog",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://www.abconcerts.be/fr/agenda/eluveitie/a10Qw00000CUGYJIA5",
+      "sourceUrl": "https://www.abconcerts.be/fr/agenda/eluveitie/a10Qw00000CUGYJIA5",
+      "sources": [
+        "ancienne-belgique"
+      ]
+    },
+    {
+      "id": "2026-11-19-magasin-4-poison-ruin",
+      "date": "2026-11-19",
+      "time": "19:30",
+      "artist": "Poison Ruïn",
+      "support": [
+        "Burning Kross",
+        "Solanas"
+      ],
+      "venue": "Magasin 4",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Dungeon Punk / Hardcore Punk / Blackened Punk",
+      "family": "Death / Black",
+      "price": "15 €",
+      "status": "onsale",
+      "ticketUrl": "https://magasin4.stager.co/shop/default/events/111687089",
+      "sourceUrl": "https://www.magasin4.be/concerts/51972/2026-11-19/",
+      "sources": [
+        "magasin-4"
+      ]
+    },
+    {
+      "id": "2026-11-20-magasin-4-intercourse",
+      "date": "2026-11-20",
+      "time": "19:30",
+      "artist": "Intercourse",
+      "support": [
+        "Hyena",
+        "Fiona"
+      ],
+      "venue": "Magasin 4",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Noise Rock / Post Hardcore / Sludge",
+      "family": "Core / Hardcore",
+      "price": "15 €",
+      "status": "onsale",
+      "ticketUrl": "https://magasin4.stager.co/shop/default/events/111674551",
+      "sourceUrl": "https://www.magasin4.be/concerts/51576/2026-11-20/",
+      "sources": [
+        "magasin-4"
+      ]
+    },
+    {
+      "id": "2026-11-22-de-kreun-pothamus",
+      "date": "2026-11-22",
+      "time": "20:00",
+      "artist": "Pothamus",
+      "support": [
+        "Hippotraktor"
+      ],
+      "venue": "De Kreun",
+      "city": "Kortrijk",
+      "country": "BE",
+      "genre": "Post-metal",
+      "family": "Post-metal",
+      "price": "22 €",
+      "status": "onsale",
+      "ticketUrl": "https://apps.ticketmatic.com/widgets/wilde_westen/addtickets?event=204611186959&l=nl",
+      "sourceUrl": "https://www.wildewesten.be/nl/event/pothamus-hippotraktor",
+      "sources": [
+        "wilde-westen"
+      ]
+    },
+    {
       "id": "2026-11-23-splendid-arabrot",
       "date": "2026-11-23",
       "time": "20:00",
@@ -330,6 +838,7 @@
       ],
       "venue": "Le Splendid",
       "city": "Lille",
+      "country": "FR",
       "genre": "Noise rock / post-metal",
       "family": "Post-metal",
       "price": "dès 29 €",
@@ -338,6 +847,27 @@
       "sourceUrl": "https://www.le-splendid.com/arabrot-lost-in-kyiv",
       "sources": [
         "manuel"
+      ]
+    },
+    {
+      "id": "2026-11-24-magasin-4-suma",
+      "date": "2026-11-24",
+      "time": "19:30",
+      "artist": "Suma",
+      "support": [
+        "divided"
+      ],
+      "venue": "Magasin 4",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Sludge / Doom / Post Hardcore",
+      "family": "Core / Hardcore",
+      "price": "15 €",
+      "status": "onsale",
+      "ticketUrl": "https://magasin4.stager.co/shop/default/events/111660018",
+      "sourceUrl": "https://www.magasin4.be/concerts/51041/2026-11-24/",
+      "sources": [
+        "magasin-4"
       ]
     },
     {
@@ -350,6 +880,7 @@
       ],
       "venue": "Espace Culturel Allende",
       "city": "Mons-en-Baroeul",
+      "country": "FR",
       "genre": "Metalcore / Alternative Metal",
       "family": "Core / Hardcore",
       "price": null,
@@ -368,6 +899,7 @@
       "support": [],
       "venue": "L'Aéronef",
       "city": "Lille",
+      "country": "FR",
       "genre": "Heavy Psych",
       "family": "Doom / Stoner",
       "price": null,
@@ -380,6 +912,145 @@
       ]
     },
     {
+      "id": "2026-12-06-magasin-4-portrayal-of-guilt",
+      "date": "2026-12-06",
+      "time": "19:30",
+      "artist": "Portrayal Of Guilt",
+      "support": [
+        "Crouch"
+      ],
+      "venue": "Magasin 4",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Black Metal / Post Metal",
+      "family": "Post-metal",
+      "price": "15 €",
+      "status": "onsale",
+      "ticketUrl": "https://magasin4.stager.co/shop/default/events/111684843",
+      "sourceUrl": "https://www.magasin4.be/concerts/51936/2026-12-06/",
+      "sources": [
+        "magasin-4"
+      ]
+    },
+    {
+      "id": "2026-12-10-ancienne-belgique-channel-zero",
+      "date": "2026-12-10",
+      "time": "19:00",
+      "artist": "Channel Zero",
+      "support": [],
+      "venue": "Ancienne Belgique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Thrash metal",
+      "family": "Heavy / Thrash",
+      "price": null,
+      "status": "soldout",
+      "ticketUrl": "https://www.abconcerts.be/fr/agenda/channel-zero/a10Qw000003bNiLIAU",
+      "sourceUrl": "https://www.abconcerts.be/fr/agenda/channel-zero/a10Qw000003bNiLIAU",
+      "sources": [
+        "ancienne-belgique"
+      ]
+    },
+    {
+      "id": "2026-12-11-ancienne-belgique-channel-zero",
+      "date": "2026-12-11",
+      "time": "19:00",
+      "artist": "Channel Zero",
+      "support": [],
+      "venue": "Ancienne Belgique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Thrash metal",
+      "family": "Heavy / Thrash",
+      "price": null,
+      "status": "soldout",
+      "ticketUrl": "https://www.abconcerts.be/fr/agenda/channel-zero/a10Qw000003bNiMIAU",
+      "sourceUrl": "https://www.abconcerts.be/fr/agenda/channel-zero/a10Qw000003bNiMIAU",
+      "sources": [
+        "ancienne-belgique"
+      ]
+    },
+    {
+      "id": "2026-12-12-ancienne-belgique-channel-zero",
+      "date": "2026-12-12",
+      "time": "19:00",
+      "artist": "Channel Zero",
+      "support": [],
+      "venue": "Ancienne Belgique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Thrash metal",
+      "family": "Heavy / Thrash",
+      "price": null,
+      "status": "soldout",
+      "ticketUrl": "https://www.abconcerts.be/fr/agenda/channel-zero/a10Qw000003bNiNIAU",
+      "sourceUrl": "https://www.abconcerts.be/fr/agenda/channel-zero/a10Qw000003bNiNIAU",
+      "sources": [
+        "ancienne-belgique"
+      ]
+    },
+    {
+      "id": "2026-12-13-ancienne-belgique-accept",
+      "date": "2026-12-13",
+      "time": "19:00",
+      "artist": "Accept",
+      "support": [],
+      "venue": "Ancienne Belgique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Heavy metal",
+      "family": "Heavy / Thrash",
+      "price": null,
+      "status": "unknown",
+      "ticketUrl": "https://www.abconcerts.be/fr/agenda/accept/a10Qw00000Acyv8IAB",
+      "sourceUrl": "https://www.abconcerts.be/fr/agenda/accept/a10Qw00000Acyv8IAB",
+      "sources": [
+        "ancienne-belgique"
+      ]
+    },
+    {
+      "id": "2026-12-17-kinky-star-ka-una",
+      "date": "2026-12-17",
+      "time": "21:00",
+      "artist": "Ka'Una",
+      "support": [
+        "Stonemule"
+      ],
+      "venue": "Kinky Star",
+      "city": "Gent",
+      "country": "BE",
+      "genre": "Metal",
+      "family": "Heavy / Thrash",
+      "price": "Gratuit",
+      "status": "onsale",
+      "ticketUrl": "https://www.kinkystar.com/nl/events/2026-12-17-ijzersterk-kauna-be-stonemule-be",
+      "sourceUrl": "https://www.kinkystar.com/nl/events/2026-12-17-ijzersterk-kauna-be-stonemule-be",
+      "sources": [
+        "kinky-star"
+      ]
+    },
+    {
+      "id": "2026-12-18-rockerill-the-prestige",
+      "date": "2026-12-18",
+      "time": "20:00",
+      "artist": "The Prestige",
+      "support": [
+        "Atum Nophi"
+      ],
+      "venue": "Rockerill",
+      "city": "Charleroi",
+      "country": "BE",
+      "genre": "Metal / Post-punk / Alternative hardcore",
+      "family": "Core / Hardcore",
+      "price": "15 €",
+      "status": "onsale",
+      "ticketUrl": "https://shop.utick.net/?pos=ROCKERILL&module=ACTIVITYSERIEDETAILS&s=886011DD-06BF-53DA-122D-6EED8341E3D7",
+      "sourceUrl": "https://www.rockerill.com/agenda/hell-is-here-the-prestige-atum-nophi-51956/",
+      "sources": [
+        "rockerill"
+      ]
+    },
+    {
       "id": "2027-01-08-circus-dethscend",
       "date": "2027-01-08",
       "time": null,
@@ -389,6 +1060,7 @@
       ],
       "venue": "Le Circus",
       "city": "Lille",
+      "country": "FR",
       "genre": "Funeral Sludge Metal",
       "family": "Doom / Stoner",
       "price": null,
@@ -412,6 +1084,7 @@
       ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
+      "country": "FR",
       "genre": "Symphonic Power Metal",
       "family": "Power / Prog",
       "price": "30 €",
@@ -424,6 +1097,68 @@
       ]
     },
     {
+      "id": "2027-01-15-ancienne-belgique-imminence",
+      "date": "2027-01-15",
+      "time": "19:00",
+      "artist": "Imminence",
+      "support": [
+        "House of Protection",
+        "August Burns Red"
+      ],
+      "venue": "Ancienne Belgique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Metalcore",
+      "family": "Core / Hardcore",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://www.abconcerts.be/fr/agenda/imminence/a10Qw00000FCUrJIAX",
+      "sourceUrl": "https://www.abconcerts.be/fr/agenda/imminence/a10Qw00000FCUrJIAX",
+      "sources": [
+        "ancienne-belgique"
+      ]
+    },
+    {
+      "id": "2027-01-21-ancienne-belgique-black-veil-brides",
+      "date": "2027-01-21",
+      "time": "19:00",
+      "artist": "Black Veil Brides",
+      "support": [],
+      "venue": "Ancienne Belgique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Hard rock",
+      "family": "Hard rock",
+      "price": null,
+      "status": "unknown",
+      "ticketUrl": "https://www.abconcerts.be/fr/agenda/black-veil-brides/a10Qw00000GiMrdIAF",
+      "sourceUrl": "https://www.abconcerts.be/fr/agenda/black-veil-brides/a10Qw00000GiMrdIAF",
+      "sources": [
+        "ancienne-belgique"
+      ]
+    },
+    {
+      "id": "2027-01-21-kinky-star-cancervo",
+      "date": "2027-01-21",
+      "time": "21:00",
+      "artist": "Cancervo",
+      "support": [
+        "Witchbox"
+      ],
+      "venue": "Kinky Star",
+      "city": "Gent",
+      "country": "BE",
+      "genre": "Metal",
+      "family": "Heavy / Thrash",
+      "price": "Gratuit",
+      "status": "onsale",
+      "ticketUrl": "https://www.kinkystar.com/nl/events/2027-01-21-ijzersterk-cancervo-it-witchbox-be",
+      "sourceUrl": "https://www.kinkystar.com/nl/events/2027-01-21-ijzersterk-cancervo-it-witchbox-be",
+      "sources": [
+        "kinky-star"
+      ]
+    },
+    {
       "id": "2027-01-28-grand-mix-the-ocean",
       "date": "2027-01-28",
       "time": "20:00",
@@ -431,13 +1166,15 @@
       "support": [],
       "venue": "Le Grand Mix",
       "city": "Tourcoing",
-      "genre": "Metal",
-      "family": "Heavy / Thrash",
+      "country": "FR",
+      "genre": "Atmospheric Sludge Metal",
+      "family": "Post-metal",
       "price": null,
       "status": "onsale",
       "ticketUrl": "https://www.legrandmix.com/agenda/the_ocean",
-      "sourceUrl": "https://www.legrandmix.com/agenda/the_ocean",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_The_Ocean_-_Solaris_Tour_2027-277429.html",
       "sources": [
+        "concerts-metal",
         "grand-mix"
       ]
     },
@@ -452,6 +1189,7 @@
       ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
+      "country": "FR",
       "genre": "Metalcore",
       "family": "Core / Hardcore",
       "price": "32 €",
@@ -474,6 +1212,7 @@
       ],
       "venue": "Le Splendid",
       "city": "Lille",
+      "country": "FR",
       "genre": "Crossover Thrash",
       "family": "Core / Hardcore",
       "price": null,
@@ -492,6 +1231,7 @@
       "support": [],
       "venue": "The Black Lab",
       "city": "Wasquehal",
+      "country": "FR",
       "genre": "Melodic Death Metal",
       "family": "Death / Black",
       "price": "27 €",
@@ -513,6 +1253,7 @@
       ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
+      "country": "FR",
       "genre": "Metalcore",
       "family": "Core / Hardcore",
       "price": "28 €",
@@ -525,6 +1266,51 @@
       ]
     },
     {
+      "id": "2027-02-12-ancienne-belgique-uncle-acid-the-deadbeats",
+      "date": "2027-02-12",
+      "time": "19:00",
+      "artist": "Uncle Acid & The Deadbeats",
+      "support": [
+        "Conan",
+        "Earth Tongue"
+      ],
+      "venue": "Ancienne Belgique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Stoner rock",
+      "family": "Doom / Stoner",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://www.abconcerts.be/fr/agenda/uncle-acid-the-deadbeats/a10Qw00000FPW45IAH",
+      "sourceUrl": "https://www.abconcerts.be/fr/agenda/uncle-acid-the-deadbeats/a10Qw00000FPW45IAH",
+      "sources": [
+        "ancienne-belgique"
+      ]
+    },
+    {
+      "id": "2027-02-14-ancienne-belgique-bury-tomorrow",
+      "date": "2027-02-14",
+      "time": "19:00",
+      "artist": "Bury Tomorrow",
+      "support": [
+        "Stick To Your Guns",
+        "Elwood Stray",
+        "Windwaker"
+      ],
+      "venue": "Ancienne Belgique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Metalcore",
+      "family": "Core / Hardcore",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://www.abconcerts.be/fr/agenda/bury-tomorrow/a10Qw0000082KxJIAU",
+      "sourceUrl": "https://www.abconcerts.be/fr/agenda/bury-tomorrow/a10Qw0000082KxJIAU",
+      "sources": [
+        "ancienne-belgique"
+      ]
+    },
+    {
       "id": "2027-02-16-aeronef-primitive-ring",
       "date": "2027-02-16",
       "time": "20:00",
@@ -532,6 +1318,7 @@
       "support": [],
       "venue": "L'Aéronef",
       "city": "Lille",
+      "country": "FR",
       "genre": "Stoner / Doom Metal",
       "family": "Doom / Stoner",
       "price": null,
@@ -551,6 +1338,7 @@
       "support": [],
       "venue": "La Condition Publique",
       "city": "Roubaix",
+      "country": "FR",
       "genre": "Parody Metal",
       "family": "Heavy / Thrash",
       "price": null,
@@ -571,6 +1359,7 @@
       ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
+      "country": "FR",
       "genre": "Stoner psyché",
       "family": "Doom / Stoner",
       "price": "25 €",
@@ -590,6 +1379,7 @@
       "support": [],
       "venue": "Maison Folie Wazemmes",
       "city": "Lille",
+      "country": "FR",
       "genre": "Stoner / doom psyché",
       "family": "Doom / Stoner",
       "price": null,
@@ -598,6 +1388,25 @@
       "sourceUrl": "https://www.songkick.com/concerts/43344821-rezn-at-maison-folie-wazemmes",
       "sources": [
         "manuel"
+      ]
+    },
+    {
+      "id": "2027-03-01-ancienne-belgique-saxon",
+      "date": "2027-03-01",
+      "time": "19:00",
+      "artist": "Saxon",
+      "support": [],
+      "venue": "Ancienne Belgique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Heavy metal",
+      "family": "Heavy / Thrash",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://www.abconcerts.be/fr/agenda/saxon/a10Qw00000HaO0PIAV",
+      "sourceUrl": "https://www.abconcerts.be/fr/agenda/saxon/a10Qw00000HaO0PIAV",
+      "sources": [
+        "ancienne-belgique"
       ]
     },
     {
@@ -611,6 +1420,7 @@
       ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
+      "country": "FR",
       "genre": "Black Metal",
       "family": "Death / Black",
       "price": "25 €",
@@ -633,6 +1443,7 @@
       ],
       "venue": "L'Aéronef",
       "city": "Lille",
+      "country": "FR",
       "genre": "Atmospheric Sludge Metal",
       "family": "Post-metal",
       "price": null,
@@ -645,20 +1456,46 @@
       ]
     },
     {
-      "id": "2027-03-19-grand-mix-alcest-agriculture",
+      "id": "2027-03-07-ancienne-belgique-cult-of-luna",
+      "date": "2027-03-07",
+      "time": "19:00",
+      "artist": "Cult of Luna",
+      "support": [
+        "BRUIT ≤",
+        "Youth Code"
+      ],
+      "venue": "Ancienne Belgique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Post-metal",
+      "family": "Post-metal",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://www.abconcerts.be/fr/agenda/cult-of-luna/a10Qw00000HH0g9IAD",
+      "sourceUrl": "https://www.abconcerts.be/fr/agenda/cult-of-luna/a10Qw00000HH0g9IAD",
+      "sources": [
+        "ancienne-belgique"
+      ]
+    },
+    {
+      "id": "2027-03-19-grand-mix-alcest",
       "date": "2027-03-19",
       "time": "20:00",
-      "artist": "Alcest + Agriculture",
-      "support": [],
+      "artist": "Alcest",
+      "support": [
+        "Agriculture"
+      ],
       "venue": "Le Grand Mix",
       "city": "Tourcoing",
-      "genre": "Metal",
-      "family": "Heavy / Thrash",
+      "country": "FR",
+      "genre": "Blackgaze",
+      "family": "Death / Black",
       "price": null,
       "status": "onsale",
       "ticketUrl": "https://www.legrandmix.com/agenda/alcest-agriculture",
-      "sourceUrl": "https://www.legrandmix.com/agenda/alcest-agriculture",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Alcest_-_Tour_2027-267478.html",
       "sources": [
+        "concerts-metal",
         "grand-mix"
       ]
     },
@@ -672,6 +1509,7 @@
       ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
+      "country": "FR",
       "genre": "Folk Metal",
       "family": "Power / Prog",
       "price": "30 €",
@@ -684,6 +1522,25 @@
       ]
     },
     {
+      "id": "2027-03-20-de-kreun-de-zwaarste-band",
+      "date": "2027-03-20",
+      "time": "20:00",
+      "artist": "De Zwaarste Band",
+      "support": [],
+      "venue": "De Kreun",
+      "city": "Kortrijk",
+      "country": "BE",
+      "genre": "Hard & Heavy",
+      "family": "Heavy / Thrash",
+      "price": "29 €",
+      "status": "onsale",
+      "ticketUrl": "https://shop.ticket.monster/event/de-zwaarste-band-de-grootste-metal-classics-uit--nvv1ho",
+      "sourceUrl": "https://www.wildewesten.be/nl/event/de-zwaarste-band",
+      "sources": [
+        "wilde-westen"
+      ]
+    },
+    {
       "id": "2027-03-20-laiterie-ayron-jones",
       "date": "2027-03-20",
       "time": null,
@@ -691,6 +1548,7 @@
       "support": [],
       "venue": "La Laiterie",
       "city": "Lambersart",
+      "country": "FR",
       "genre": "Hard rock / blues",
       "family": "Hard rock",
       "price": null,
@@ -699,6 +1557,48 @@
       "sourceUrl": "https://www.songkick.com/concerts/43160908-ayron-jones-at-la-laiterie",
       "sources": [
         "manuel"
+      ]
+    },
+    {
+      "id": "2027-03-21-ancienne-belgique-graveyard-blues-pills",
+      "date": "2027-03-21",
+      "time": "19:00",
+      "artist": "Graveyard & Blues Pills",
+      "support": [
+        "Spiders"
+      ],
+      "venue": "Ancienne Belgique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Heavy",
+      "family": "Heavy / Thrash",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://www.abconcerts.be/fr/agenda/graveyard-blues-pills/a10Qw00000FPXMjIAP",
+      "sourceUrl": "https://www.abconcerts.be/fr/agenda/graveyard-blues-pills/a10Qw00000FPXMjIAP",
+      "sources": [
+        "ancienne-belgique"
+      ]
+    },
+    {
+      "id": "2027-03-26-kinky-star-leed",
+      "date": "2027-03-26",
+      "time": "21:00",
+      "artist": "LEED",
+      "support": [
+        "VALKNIR"
+      ],
+      "venue": "Kinky Star",
+      "city": "Gent",
+      "country": "BE",
+      "genre": "Metal",
+      "family": "Heavy / Thrash",
+      "price": "Gratuit",
+      "status": "onsale",
+      "ticketUrl": "https://www.kinkystar.com/nl/events/2027-03-26-trve-stvr-leed-be-valknir-be",
+      "sourceUrl": "https://www.kinkystar.com/nl/events/2027-03-26-trve-stvr-leed-be-valknir-be",
+      "sources": [
+        "kinky-star"
       ]
     },
     {
@@ -713,6 +1613,7 @@
       ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
+      "country": "FR",
       "genre": "Tributes nu-metal",
       "family": "Tributes",
       "price": "25 €",
@@ -736,6 +1637,7 @@
       ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
+      "country": "FR",
       "genre": "Tributes nu-metal / metalcore",
       "family": "Tributes",
       "price": "25 €",
@@ -759,6 +1661,7 @@
       ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
+      "country": "FR",
       "genre": "Tributes metal",
       "family": "Tributes",
       "price": "25 €",
@@ -778,6 +1681,7 @@
       "support": [],
       "venue": "Maison Folie Beaulieu",
       "city": "Lomme",
+      "country": "FR",
       "genre": "Festival, programmation à venir",
       "family": "Festival",
       "price": null,
@@ -798,6 +1702,7 @@
       ],
       "venue": "L'Aéronef",
       "city": "Lille",
+      "country": "FR",
       "genre": "Metalcore",
       "family": "Core / Hardcore",
       "price": null,
@@ -807,6 +1712,25 @@
       "sources": [
         "aeronef",
         "concerts-metal"
+      ]
+    },
+    {
+      "id": "2027-12-01-ancienne-belgique-kanonenfieber",
+      "date": "2027-12-01",
+      "time": "19:00",
+      "artist": "Kanonenfieber",
+      "support": [],
+      "venue": "Ancienne Belgique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Black metal",
+      "family": "Death / Black",
+      "price": null,
+      "status": "unknown",
+      "ticketUrl": "https://www.abconcerts.be/fr/agenda/kanonenfieber/a10Qw00000FITR7IAP",
+      "sourceUrl": "https://www.abconcerts.be/fr/agenda/kanonenfieber/a10Qw00000FITR7IAP",
+      "sources": [
+        "ancienne-belgique"
       ]
     }
   ]

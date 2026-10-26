@@ -1,7 +1,7 @@
 {
   "name": "Agenda Metal Lille",
   "short_name": "Metal Lille",
-  "description": "Concerts metal et hard rock à venir dans les salles de la métropole lilloise.",
+  "description": "Concerts metal et hard rock à venir dans les salles autour de Lille, jusqu’à Bruxelles.",
   "lang": "fr",
   "start_url": "./",
   "scope": "./",

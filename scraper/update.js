@@ -2,18 +2,31 @@ import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { normalize, slug, todayInParis, isAffiliateUrl } from "./lib.js";
-import { venueKey, canonicalVenue } from "./venues.js";
+import { venueKey, canonicalVenue, countryOf } from "./venues.js";
 import { familyOf } from "./genres.js";
+import { loadCache, saveCache, resolveGenres, lookup } from "./musicbrainz.js";
 import concertsMetal from "./sources/concertsMetal.js";
 import blackLab from "./sources/blackLab.js";
 import { aeronef, grandMix } from "./sources/drupalAgenda.js";
 import caveAuxPoetes from "./sources/caveAuxPoetes.js";
 import metaphone from "./sources/metaphone.js";
+import ancienneBelgique from "./sources/ancienneBelgique.js";
+import magasin4 from "./sources/magasin4.js";
+import botanique from "./sources/botanique.js";
+import vkConcerts from "./sources/vkConcerts.js";
+import wildeWesten from "./sources/wildeWesten.js";
+import kinkyStar from "./sources/kinkyStar.js";
+import rockerill from "./sources/rockerill.js";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const OUTPUT = join(ROOT, "docs", "concerts.json");
 const OVERRIDES = join(ROOT, "data", "overrides.json");
-const SOURCES = [concertsMetal, blackLab, aeronef, grandMix, caveAuxPoetes, metaphone];
+const GENRE_CACHE = join(ROOT, "data", "genres.json");
+const SOURCES = [
+  concertsMetal, blackLab, aeronef, grandMix, caveAuxPoetes, metaphone,
+  ancienneBelgique, magasin4, botanique, vkConcerts, wildeWesten, kinkyStar, rockerill
+];
+const CURATED_SOURCES = new Set(["concerts-metal", "manuel"]);
 const STATUS_PRIORITY = ["cancelled", "postponed", "soldout", "onsale", "unknown"];
 
 async function readJson(path, fallback) {
@@ -78,6 +91,7 @@ function finalize(entry) {
     support: entry.support || [],
     venue: entry.venue,
     city: entry.city,
+    country: entry.country || countryOf(entry.city, entry.venue),
     genre: entry.genre || null,
     family,
     price: entry.price || null,
@@ -126,6 +140,7 @@ async function main() {
   }
 
   const slot = event => `${event.date}|${venueKey(event.venue)}`;
+  const unmatched = [];
   for (const event of enrichers) {
     let target = merged.find(entry => sameShow(entry, event));
     if (!target) {
@@ -134,6 +149,33 @@ async function main() {
       if (sameSlot.length === 1 && rivals.length === 1) target = sameSlot[0];
     }
     if (target) mergeInto(target, event);
+    else unmatched.push(event);
+  }
+
+  const genreCache = await loadCache(GENRE_CACHE);
+  const venueTaggedOnly = entry => entry.sources.every(source => !CURATED_SOURCES.has(source))
+    && !matchesAny(entry.title || entry.artist, includeTitles[entry.sources[0]]);
+  const toCheck = merged.filter(venueTaggedOnly);
+  const lookupStats = await resolveGenres([...toCheck, ...unmatched].map(event => event.artist), genreCache, {
+    today,
+    maxLookups: Number(process.env.MUSICBRAINZ_MAX_LOOKUPS || 250)
+  });
+  await saveCache(GENRE_CACHE, genreCache);
+  for (const entry of toCheck) {
+    const found = lookup(genreCache, entry.artist);
+    if (found && !found.metal) merged.splice(merged.indexOf(entry), 1);
+    else if (found && (!entry.genre || /^(heavy|metal|hard (and|&) heavy)$/i.test(entry.genre.trim()))) {
+      entry.genre = found.genre;
+      entry.family = found.family;
+    }
+  }
+  for (const event of unmatched) {
+    const found = lookup(genreCache, event.artist);
+    if (!found || !found.metal) continue;
+    const promoted = { ...event, genre: event.genre || found.genre, family: event.family || found.family, metal: true };
+    const existing = merged.find(entry => sameShow(entry, promoted));
+    if (existing) mergeInto(existing, promoted);
+    else merged.push(toEntry(promoted));
   }
 
   const failed = new Set(results.filter(result => !result.ok).map(result => result.id));
@@ -167,6 +209,7 @@ async function main() {
     console.log(line);
     if (!result.ok && process.env.GITHUB_ACTIONS) console.log(`::warning title=Source ${result.label}::${result.error}`);
   }
+  console.log(`MusicBrainz : ${lookupStats.looked} recherches sur ${lookupStats.pending} groupes inconnus, ${lookupStats.failures} échecs`);
   console.log(`${events.length} concerts metal à venir${unchanged ? " (aucun changement)" : ""}`);
 
   if (results.every(result => !result.ok)) {

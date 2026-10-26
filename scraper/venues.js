@@ -31,6 +31,20 @@ const AREA_CITIES = new Set([
   "oignies"
 ]);
 
+const BELGIAN_CITIES = new Set([
+  "bruxelles", "brussel", "brussels", "forest", "vorst", "ixelles", "elsene", "saint gilles", "sint gillis",
+  "molenbeek", "schaerbeek", "schaarbeek", "anderlecht", "etterbeek", "uccle", "koekelberg",
+  "kortrijk", "courtrai", "gent", "gand", "ieper", "ypres", "tournai", "doornik", "mons", "bergen",
+  "charleroi", "mouscron", "moeskroen", "menen", "menin", "waregem", "roeselare", "roulers", "harelbeke",
+  "wevelgem", "aalst", "alost", "oudenaarde", "audenarde", "ath", "la louviere", "brugge", "bruges", "oostende", "ostende"
+]);
+
+export function countryOf(city, venue) {
+  const known = VENUES.find(entry => entry.name === venue);
+  if (known && known.country) return known.country;
+  return BELGIAN_CITIES.has(normalize(city)) ? "BE" : "FR";
+}
+
 export function canonicalVenue(rawName, rawCity) {
   const key = normalize(rawName);
   const known = VENUES.find(venue => venue.match.test(key));
@@ -40,7 +54,7 @@ export function canonicalVenue(rawName, rawCity) {
 
 export function cityFromLocality(locality) {
   const text = String(locality || "").trim();
-  const inner = text.match(/\(([^)]+)\)/);
+  const inner = /\(([^()]*)\)/.exec(text);
   return (inner ? inner[1] : text).trim();
 }
 

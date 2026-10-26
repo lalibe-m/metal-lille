@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="description" content="Concerts metal et hard rock à venir dans les salles de la métropole lilloise.">
+<meta name="description" content="Concerts metal et hard rock à venir dans les salles autour de Lille, jusqu’à Bruxelles.">
 <meta name="theme-color" content="#14171b">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
@@ -228,6 +228,7 @@ footer a { color: inherit; }
     </label>
     <div class="chips" id="when" role="group" aria-label="Période"></div>
     <div class="chips" id="families" role="group" aria-label="Style"></div>
+    <div class="chips" id="zones" role="group" aria-label="Pays"></div>
     <div class="chips" id="venues" role="group" aria-label="Salle"></div>
   </div>
 </header>
@@ -242,7 +243,7 @@ footer a { color: inherit; }
 
 <footer>
   <div class="wrap" id="foot">
-    <div>Concerts metal et hard rock dans les salles de la métropole lilloise, relevés sur les agendas des salles et les billetteries.</div>
+    <div>Concerts metal et hard rock dans les salles autour de Lille, de la métropole jusqu’à Bruxelles, relevés sur les agendas des salles et les billetteries.</div>
   </div>
 </footer>
 
@@ -267,6 +268,7 @@ footer a { color: inherit; }
     q: "",
     when: "all",
     family: null,
+    zone: null,
     venue: null,
     open: null,
     favs: loadFavs()
@@ -347,6 +349,7 @@ footer a { color: inherit; }
   function matches(concert, ignore) {
     if (ignore !== "family" && state.family && concert.family !== state.family) return false;
     if (ignore !== "venue" && state.venue && concert.venue !== state.venue) return false;
+    if (ignore !== "zone" && state.zone && (concert.country || "FR") !== state.zone) return false;
     if (ignore !== "when") {
       const days = daysFromToday(concert.date);
       if (state.when === "week" && days > 7) return false;
@@ -387,7 +390,14 @@ footer a { color: inherit; }
     renderChips("venues", countBy(venuePool, "venue").map(([name, n]) => ({ id: name, label: name, n })), state.venue, picked => {
       state.venue = picked; render();
     });
+    const zonePool = base.filter(concert => matches(concert, "zone"));
+    const zoneCounts = new Map();
+    zonePool.forEach(concert => zoneCounts.set(concert.country || "FR", (zoneCounts.get(concert.country || "FR") || 0) + 1));
+    renderChips("zones", [["FR", "France"], ["BE", "Belgique"]].filter(([code]) => zoneCounts.has(code)).map(([code, label]) => ({ id: code, label, n: zoneCounts.get(code) })), state.zone, picked => {
+      state.zone = picked; state.venue = null; render();
+    });
     document.getElementById("families").hidden = base.length === 0;
+    document.getElementById("zones").hidden = new Set(base.map(concert => concert.country || "FR")).size < 2;
     document.getElementById("venues").hidden = base.length === 0;
   }
 
@@ -511,7 +521,7 @@ footer a { color: inherit; }
 
   function renderFooter() {
     const foot = document.getElementById("foot");
-    const lines = [el("div", { text: "Concerts metal et hard rock dans les salles de la métropole lilloise, relevés sur les agendas des salles et les billetteries. Vérifie toujours la date sur la billetterie avant d'acheter." })];
+    const lines = [el("div", { text: "Concerts metal et hard rock dans les salles autour de Lille, de la métropole jusqu’à Bruxelles, relevés sur les agendas des salles et les billetteries. Vérifie toujours la date sur la billetterie avant d'acheter." })];
     if (state.meta && state.meta.updatedAt) {
       const updated = new Date(state.meta.updatedAt);
       if (!isNaN(updated)) lines.push(el("div", { text: "Agenda modifié le " + updated.getDate() + " " + MONTHS[updated.getMonth()] + " " + updated.getFullYear() + "." }));
