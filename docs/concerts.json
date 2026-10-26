@@ -1,11 +1,12 @@
 {
-  "updatedAt": "2026-10-26T09:07:14.447Z",
+  "updatedAt": "2026-10-26T09:10:20.945Z",
   "sources": [
     {
       "id": "concerts-metal",
       "label": "concerts-metal.com",
-      "ok": true,
-      "count": 49
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 403 sur https://lille.concerts-metal.com/"
     },
     {
       "id": "black-lab",
@@ -430,14 +431,13 @@
       "support": [],
       "venue": "Le Grand Mix",
       "city": "Tourcoing",
-      "genre": "Atmospheric Sludge Metal",
-      "family": "Post-metal",
+      "genre": "Metal",
+      "family": "Heavy / Thrash",
       "price": null,
       "status": "onsale",
       "ticketUrl": "https://www.legrandmix.com/agenda/the_ocean",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_The_Ocean_-_Solaris_Tour_2027-277429.html",
+      "sourceUrl": "https://www.legrandmix.com/agenda/the_ocean",
       "sources": [
-        "concerts-metal",
         "grand-mix"
       ]
     },
@@ -645,23 +645,20 @@
       ]
     },
     {
-      "id": "2027-03-19-grand-mix-alcest",
+      "id": "2027-03-19-grand-mix-alcest-agriculture",
       "date": "2027-03-19",
       "time": "20:00",
-      "artist": "Alcest",
-      "support": [
-        "Agriculture"
-      ],
+      "artist": "Alcest + Agriculture",
+      "support": [],
       "venue": "Le Grand Mix",
       "city": "Tourcoing",
-      "genre": "Blackgaze",
-      "family": "Death / Black",
+      "genre": "Metal",
+      "family": "Heavy / Thrash",
       "price": null,
       "status": "onsale",
       "ticketUrl": "https://www.legrandmix.com/agenda/alcest-agriculture",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_Alcest_-_Tour_2027-267478.html",
+      "sourceUrl": "https://www.legrandmix.com/agenda/alcest-agriculture",
       "sources": [
-        "concerts-metal",
         "grand-mix"
       ]
     },
