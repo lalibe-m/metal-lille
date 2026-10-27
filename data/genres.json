@@ -232,6 +232,12 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "alcest agriculture": {
+  "name": "Alcest + Agriculture",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-10-27"
+ },
  "alice mae": {
   "name": "Alice Mae",
   "id": "620ec99c-2d1d-4be2-89d4-9376486d9493",
@@ -414,6 +420,12 @@
   "id": "526c63a9-842c-4d6c-9aad-e9830fe521e0",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "babe haven latter muddle": {
+  "name": "BABE HAVEN LATTER Muddle",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-10-27"
  },
  "bamby": {
   "name": "BAMBY",
@@ -812,6 +824,25 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "bunt": {
+  "name": "BUNT.",
+  "id": "070d3e4b-8559-4fd4-af63-4535ed1f69c9",
+  "tags": [
+   {
+    "name": "dance",
+    "count": 1
+   },
+   {
+    "name": "folk",
+    "count": 1
+   },
+   {
+    "name": "house",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-10-27"
+ },
  "bury tomorrow": {
   "name": "Bury Tomorrow",
   "id": "95c4e9ef-291b-4f94-8bc9-2b00e76eacb0",
@@ -826,6 +857,29 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "cage fight": {
+  "name": "Cage Fight",
+  "id": "3d9f09c4-2826-48eb-9fea-ca4d543d28ae",
+  "tags": [
+   {
+    "name": "metalcore",
+    "count": 2
+   },
+   {
+    "name": "hardcore punk",
+    "count": 1
+   },
+   {
+    "name": "female vocals",
+    "count": 1
+   },
+   {
+    "name": "crossover thrash",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-10-27"
  },
  "cameron whitcomb": {
   "name": "Cameron Whitcomb",
@@ -1115,6 +1169,12 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "cult of luna bruit youth code": {
+  "name": "CULT OF LUNA + BRUIT ≤ + YOUTH CODE",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-10-27"
  },
  "curver wood boy entertainment": {
   "name": "CURVER & WOOD BOY ENTERTAINMENT",
@@ -2129,6 +2189,17 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "guilt trip": {
+  "name": "Guilt Trip",
+  "id": "c5f65f18-ea9d-433b-ba80-cbcd2842dd8c",
+  "tags": [
+   {
+    "name": "hardcore punk",
+    "count": 2
+   }
+  ],
+  "checkedAt": "2026-10-27"
+ },
  "gurriers": {
   "name": "Gurriers",
   "id": "b3e28883-d118-4180-b458-568a18bc239d",
@@ -2173,6 +2244,17 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "h jeunecrack": {
+  "name": "H JeuneCrack",
+  "id": "15b7fc10-a5f5-4258-ade0-3f5f2ac812f6",
+  "tags": [
+   {
+    "name": "hip hop",
+    "count": 3
+   }
+  ],
+  "checkedAt": "2026-10-27"
  },
  "hamers": {
   "name": "Hamers",
@@ -2422,6 +2504,27 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "horskh brutal beatnik": {
+  "name": "HORSKH Brutal Beatnik",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-10-27"
+ },
+ "houle": {
+  "name": "Houle",
+  "id": "4f5d224d-1e04-446e-b8a2-80b89051b468",
+  "tags": [
+   {
+    "name": "atmospheric black metal",
+    "count": 1
+   },
+   {
+    "name": "black metal",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-10-27"
+ },
  "howlin jaws moundrag": {
   "name": "Howlin' Jaws Moundrag",
   "id": null,
@@ -2613,6 +2716,12 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "ino casablanca guest": {
+  "name": "INO CASABLANCA + Guest",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-10-27"
+ },
  "intercourse": {
   "name": "Intercourse",
   "id": "2b9f3351-39e8-4f1b-bb77-fc99fa081ac8",
@@ -2720,6 +2829,12 @@
   "id": "db4ff288-8a31-43e2-ba98-8a08767aee47",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "iskander moon": {
+  "name": "Iskander Moon",
+  "id": "e336f7a8-46cb-454e-b303-8779a5b46c4a",
+  "tags": [],
+  "checkedAt": "2026-10-27"
  },
  "izia": {
   "name": "IZÏA",
@@ -3247,6 +3362,12 @@
   "id": "64598fd8-5d7c-441d-a936-e1fc13d5a4f6",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "koala disco": {
+  "name": "Koala Disco",
+  "id": "fc012a5a-2a30-4765-9057-32b18bb81a9e",
+  "tags": [],
+  "checkedAt": "2026-10-27"
  },
  "kodaline": {
   "name": "Kodaline",
@@ -4143,6 +4264,45 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "motionless in white": {
+  "name": "MOTIONLESS IN WHITE",
+  "id": "1c5b9bd6-76e8-4fe7-a6df-3bc0b5a452cc",
+  "tags": [
+   {
+    "name": "metalcore",
+    "count": 11
+   },
+   {
+    "name": "industrial metal",
+    "count": 6
+   },
+   {
+    "name": "gothic metal",
+    "count": 5
+   },
+   {
+    "name": "metal",
+    "count": 3
+   },
+   {
+    "name": "nu metal",
+    "count": 3
+   },
+   {
+    "name": "alternative metal",
+    "count": 3
+   },
+   {
+    "name": "post-hardcore",
+    "count": 2
+   },
+   {
+    "name": "electronic",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-10-27"
+ },
  "motorpsycho": {
   "name": "Motorpsycho",
   "id": "5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76",
@@ -4211,6 +4371,41 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "my sleeping karma": {
+  "name": "My Sleeping Karma",
+  "id": "0ace8a60-9af1-4ab5-97f3-3278f8aa2219",
+  "tags": [
+   {
+    "name": "psychedelic rock",
+    "count": 5
+   },
+   {
+    "name": "space rock",
+    "count": 5
+   },
+   {
+    "name": "stoner rock",
+    "count": 4
+   },
+   {
+    "name": "instrumental",
+    "count": 2
+   },
+   {
+    "name": "rock",
+    "count": 0
+   },
+   {
+    "name": "stoner",
+    "count": 0
+   },
+   {
+    "name": "groove",
+    "count": 0
+   }
+  ],
+  "checkedAt": "2026-10-27"
+ },
  "namiddagconcert johan verminnen afscheid van een zanger": {
   "name": "Namiddagconcert: Johan Verminnen, Afscheid Van Een Zanger",
   "id": null,
@@ -4252,6 +4447,12 @@
   "id": "15db54df-a4b5-4f93-9905-62829f492024",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "nightlab session it began in ipanema w daniel haaksman": {
+  "name": "Nightlab Session: It Began In Ipanema w/ Daniel Haaksman",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-10-27"
  },
  "noa lee": {
   "name": "Noa Lee",
@@ -4851,6 +5052,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "primitive ring federale": {
+  "name": "PRIMITIVE RING + FEDERALE",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-10-27"
+ },
  "prison religion": {
   "name": "Prison Religion",
   "id": "fb205c42-c426-42ee-a1f4-97fb0ff5c27a",
@@ -5060,6 +5267,54 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "resolve": {
+  "name": "Resolve",
+  "id": "63fd8bca-41b5-45d4-afc3-ee63ffcb507a",
+  "tags": [
+   {
+    "name": "punk",
+    "count": 1
+   },
+   {
+    "name": "hardcore punk",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-10-27"
+ },
+ "revnoir": {
+  "name": "Revnoir",
+  "id": "553331a9-fcac-47c0-8299-62cbbca5b521",
+  "tags": [],
+  "checkedAt": "2026-10-27"
+ },
+ "rhapsody of fire": {
+  "name": "Rhapsody Of Fire",
+  "id": "4e0dffde-ad2d-45b7-9c75-d57ce55de061",
+  "tags": [
+   {
+    "name": "power metal",
+    "count": 11
+   },
+   {
+    "name": "symphonic metal",
+    "count": 9
+   },
+   {
+    "name": "neoclassical metal",
+    "count": 0
+   },
+   {
+    "name": "itália",
+    "count": 0
+   },
+   {
+    "name": "rhapsody",
+    "count": 0
+   }
+  ],
+  "checkedAt": "2026-10-27"
  },
  "rodrigo y gabriela": {
   "name": "Rodrigo y Gabriela",
@@ -5387,6 +5642,12 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "slift hey colossus myar": {
+  "name": "SLIFT + HEY COLOSSUS + MYAR",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-10-27"
  },
  "sniper": {
   "name": "Sniper",
@@ -5776,6 +6037,80 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "the black dahlia murder": {
+  "name": "The Black Dahlia Murder",
+  "id": "21f3573f-10cf-44b3-aeaa-26cccd8448b5",
+  "tags": [
+   {
+    "name": "melodic death metal",
+    "count": 11
+   },
+   {
+    "name": "death metal",
+    "count": 6
+   },
+   {
+    "name": "metal",
+    "count": 2
+   },
+   {
+    "name": "metalcore",
+    "count": 1
+   },
+   {
+    "name": "deathcore",
+    "count": 1
+   },
+   {
+    "name": "_private tag 1",
+    "count": 1
+   },
+   {
+    "name": "american",
+    "count": 0
+   }
+  ],
+  "checkedAt": "2026-10-27"
+ },
+ "the cinematic orchestra": {
+  "name": "The Cinematic Orchestra",
+  "id": "7c158ea8-c0aa-410e-bdc1-20bba9759577",
+  "tags": [
+   {
+    "name": "jazz",
+    "count": 4
+   },
+   {
+    "name": "nu jazz",
+    "count": 3
+   },
+   {
+    "name": "downtempo",
+    "count": 2
+   },
+   {
+    "name": "chillout",
+    "count": 2
+   },
+   {
+    "name": "electronic",
+    "count": 1
+   },
+   {
+    "name": "contemporary jazz",
+    "count": 1
+   },
+   {
+    "name": "ninja tune",
+    "count": 1
+   },
+   {
+    "name": "british",
+    "count": 0
+   }
+  ],
+  "checkedAt": "2026-10-27"
+ },
  "the clockworks": {
   "name": "The Clockworks",
   "id": "51616baa-51db-41a0-8a2f-26a00d02ac0a",
@@ -5995,6 +6330,45 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "the rasmus": {
+  "name": "The Rasmus",
+  "id": "012e3432-71d3-4317-9ce5-b60cb6cdc38f",
+  "tags": [
+   {
+    "name": "gothic rock",
+    "count": 3
+   },
+   {
+    "name": "rock",
+    "count": 2
+   },
+   {
+    "name": "alternative rock",
+    "count": 2
+   },
+   {
+    "name": "funk rock",
+    "count": 1
+   },
+   {
+    "name": "pop rock",
+    "count": 1
+   },
+   {
+    "name": "symphonic rock",
+    "count": 1
+   },
+   {
+    "name": "pop and chart",
+    "count": 1
+   },
+   {
+    "name": "eurovision 2022 artists",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-10-27"
  },
  "the sound of the belgian underground": {
   "name": "The Sound of the Belgian Underground",
@@ -6277,6 +6651,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "turbo minus": {
+  "name": "Turbo Minus",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-10-27"
+ },
  "typhee": {
   "name": "Typhee",
   "id": "43a788b7-35f9-4b84-99ed-72837d4e3978",
@@ -6435,6 +6815,25 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "uuhai": {
+  "name": "Uuhai",
+  "id": "b7b1e69d-a802-4369-8eb5-2ab9253cf508",
+  "tags": [
+   {
+    "name": "folk metal",
+    "count": 3
+   },
+   {
+    "name": "heavy metal",
+    "count": 1
+   },
+   {
+    "name": "metal",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-10-27"
+ },
  "uwase": {
   "name": "uwase",
   "id": "c4a6c1ca-0986-4583-8345-d0f23414ea7a",
@@ -6577,6 +6976,29 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "westside cowboy": {
+  "name": "Westside Cowboy",
+  "id": "243e9a4d-f824-4ec2-8967-09907f954c56",
+  "tags": [
+   {
+    "name": "shoegaze",
+    "count": 1
+   },
+   {
+    "name": "indie rock",
+    "count": 1
+   },
+   {
+    "name": "americana",
+    "count": 1
+   },
+   {
+    "name": "alternative country",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-10-27"
+ },
  "westside cowboy wyatt": {
   "name": "WESTSIDE COWBOY + WYATT",
   "id": null,
@@ -6617,6 +7039,17 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "willow avalon": {
+  "name": "Willow Avalon",
+  "id": "a7c5cd9d-861f-4500-9958-ec4a50b7d80f",
+  "tags": [
+   {
+    "name": "country",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-10-27"
  },
  "wisselstroom w jasss rare mamba": {
   "name": "WISSELSTROOM w/ JASSS & Rare Mamba",
