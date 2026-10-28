@@ -1,24 +1,23 @@
 {
-  "updatedAt": "2026-10-27T09:53:49.576Z",
+  "updatedAt": "2026-10-28T10:39:39.374Z",
   "sources": [
     {
       "id": "concerts-metal",
       "label": "concerts-metal.com",
-      "ok": false,
-      "count": 0,
-      "error": "HTTP 403 sur https://lille.concerts-metal.com/"
+      "ok": true,
+      "count": 48
     },
     {
       "id": "black-lab",
       "label": "The Black Lab",
       "ok": true,
-      "count": 28
+      "count": 27
     },
     {
       "id": "aeronef",
       "label": "L'Aéronef",
       "ok": true,
-      "count": 70
+      "count": 71
     },
     {
       "id": "grand-mix",
@@ -42,25 +41,25 @@
       "id": "ancienne-belgique",
       "label": "Ancienne Belgique",
       "ok": true,
-      "count": 242
+      "count": 244
     },
     {
       "id": "magasin-4",
       "label": "Magasin 4",
       "ok": true,
-      "count": 21
+      "count": 20
     },
     {
       "id": "botanique",
       "label": "Botanique",
       "ok": true,
-      "count": 49
+      "count": 48
     },
     {
       "id": "vk-concerts",
       "label": "VK Concerts",
       "ok": true,
-      "count": 20
+      "count": 21
     },
     {
       "id": "wilde-westen",
@@ -82,50 +81,6 @@
     }
   ],
   "events": [
-    {
-      "id": "2026-10-27-ancienne-belgique-beast-in-black",
-      "date": "2026-10-27",
-      "time": "18:30",
-      "artist": "Beast in Black",
-      "support": [
-        "Sonata Arctica",
-        "Frozen Crown"
-      ],
-      "venue": "Ancienne Belgique",
-      "city": "Bruxelles",
-      "country": "BE",
-      "genre": "Power metal",
-      "family": "Power / Prog",
-      "price": null,
-      "status": "onsale",
-      "ticketUrl": "https://www.abconcerts.be/fr/agenda/beast-in-black/a10Qw000006iQeTIAU",
-      "sourceUrl": "https://www.abconcerts.be/fr/agenda/beast-in-black/a10Qw000006iQeTIAU",
-      "sources": [
-        "ancienne-belgique"
-      ]
-    },
-    {
-      "id": "2026-10-27-magasin-4-babe-haven",
-      "date": "2026-10-27",
-      "time": "19:30",
-      "artist": "Babe Haven",
-      "support": [
-        "Latter",
-        "rooftop"
-      ],
-      "venue": "Magasin 4",
-      "city": "Bruxelles",
-      "country": "BE",
-      "genre": "Hardcore Punk / Riot Grrrl / Screamo",
-      "family": "Core / Hardcore",
-      "price": "15 €",
-      "status": "onsale",
-      "ticketUrl": "https://magasin4.stager.co/shop/default/events/111669082",
-      "sourceUrl": "https://www.magasin4.be/concerts/51379/2026-10-27/",
-      "sources": [
-        "magasin-4"
-      ]
-    },
     {
       "id": "2026-10-28-cave-aux-poetes-horskh",
       "date": "2026-10-28",
@@ -215,18 +170,23 @@
       "date": "2026-10-31",
       "time": "18:00",
       "artist": "Guilt Trip",
-      "support": [],
+      "support": [
+        "Judiciary",
+        "Justice For The Damned",
+        "Long Goodbye"
+      ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Hardcore punk",
+      "genre": "Metalcore",
       "family": "Core / Hardcore",
       "price": "28,80 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/guild-trip-special-guests/",
-      "sourceUrl": "https://theblacklab.fr/agenda/guild-trip-special-guests/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Guilt_Trip___Judiciary-252188.html",
       "sources": [
-        "black-lab"
+        "black-lab",
+        "concerts-metal"
       ]
     },
     {
@@ -340,7 +300,9 @@
       "date": "2026-11-04",
       "time": null,
       "artist": "Krallice",
-      "support": [],
+      "support": [
+        "Fange"
+      ],
       "venue": "La Malterie",
       "city": "Lille",
       "country": "FR",
@@ -549,6 +511,27 @@
       ]
     },
     {
+      "id": "2026-11-12-magasin-4-big-brave",
+      "date": "2026-11-12",
+      "time": "19:30",
+      "artist": "Big Brave",
+      "support": [
+        "Bang Of Hearts"
+      ],
+      "venue": "Magasin 4",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Noise / Drone / Experimental",
+      "family": "Hard rock",
+      "price": "20 €",
+      "status": "onsale",
+      "ticketUrl": "https://magasin4.stager.co/shop/default/events/111684235",
+      "sourceUrl": "https://www.magasin4.be/concerts/51874/2026-11-12/",
+      "sources": [
+        "magasin-4"
+      ]
+    },
+    {
       "id": "2026-11-12-bulle-cafe-7-weeks",
       "date": "2026-11-12",
       "time": null,
@@ -565,27 +548,6 @@
       "sourceUrl": "https://www.concerts-metal.com/concert_-_7_Weeks-254718.html",
       "sources": [
         "concerts-metal"
-      ]
-    },
-    {
-      "id": "2026-11-12-magasin-4-big-brave",
-      "date": "2026-11-12",
-      "time": null,
-      "artist": "Big Brave",
-      "support": [
-        "Bang Of Hearts"
-      ],
-      "venue": "Magasin 4",
-      "city": "Bruxelles",
-      "country": "BE",
-      "genre": "Noise / Drone / Experimental",
-      "family": "Hard rock",
-      "price": null,
-      "status": "onsale",
-      "ticketUrl": "https://www.magasin4.be/concerts/51874/2026-11-12/",
-      "sourceUrl": "https://www.magasin4.be/concerts/51874/2026-11-12/",
-      "sources": [
-        "magasin-4"
       ]
     },
     {
@@ -676,20 +638,21 @@
       "time": "20:00",
       "artist": "Cage Fight",
       "support": [
-        "Soul Splitter",
-        "Kabbel"
+        "Kabbel",
+        "Soul Splitter"
       ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Metalcore",
+      "genre": "Metalcore / Groove Metal",
       "family": "Core / Hardcore",
       "price": "26,80 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/cage-fight-soul-splitter-kabbel/",
-      "sourceUrl": "https://theblacklab.fr/agenda/cage-fight-soul-splitter-kabbel/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Cage_Fight_-_Tour_2026-264536.html",
       "sources": [
-        "black-lab"
+        "black-lab",
+        "concerts-metal"
       ]
     },
     {
@@ -717,7 +680,7 @@
     {
       "id": "2026-11-17-ancienne-belgique-eluveitie",
       "date": "2026-11-17",
-      "time": "19:00",
+      "time": "18:30",
       "artist": "Eluveitie",
       "support": [
         "Pain",
@@ -1049,18 +1012,24 @@
       "date": "2027-01-14",
       "time": "19:00",
       "artist": "Rhapsody Of Fire",
-      "support": [],
+      "support": [
+        "Aeon Gods",
+        "Rock Out",
+        "Serious Black",
+        "Subterranean Masquerade"
+      ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Power metal",
+      "genre": "Symphonic Power Metal",
       "family": "Power / Prog",
       "price": "30 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/rhapsody-of-fire/",
-      "sourceUrl": "https://theblacklab.fr/agenda/rhapsody-of-fire/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Motocultor_Across_Europe_Tour_2027-252235.html",
       "sources": [
-        "black-lab"
+        "black-lab",
+        "concerts-metal"
       ]
     },
     {
@@ -1134,13 +1103,14 @@
       "venue": "Le Grand Mix",
       "city": "Tourcoing",
       "country": "FR",
-      "genre": "Metal",
-      "family": "Heavy / Thrash",
+      "genre": "Atmospheric Sludge Metal",
+      "family": "Post-metal",
       "price": null,
       "status": "onsale",
       "ticketUrl": "https://www.legrandmix.com/agenda/the_ocean",
-      "sourceUrl": "https://www.legrandmix.com/agenda/the_ocean",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_The_Ocean_-_Solaris_Tour_2027-277429.html",
       "sources": [
+        "concerts-metal",
         "grand-mix"
       ]
     },
@@ -1150,20 +1120,21 @@
       "time": "20:00",
       "artist": "Resolve",
       "support": [
-        "Silent Planet",
-        "Spleen"
+        "SPLEEN",
+        "Silent Planet"
       ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Hardcore punk",
+      "genre": "Metalcore",
       "family": "Core / Hardcore",
       "price": "32 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/resolve-silent-planet-spleen/",
-      "sourceUrl": "https://theblacklab.fr/agenda/resolve-silent-planet-spleen/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Resolve_-_Tour_2027-250143.html",
       "sources": [
-        "black-lab"
+        "black-lab",
+        "concerts-metal"
       ]
     },
     {
@@ -1197,14 +1168,15 @@
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Melodic death metal",
+      "genre": "Melodic Death Metal",
       "family": "Death / Black",
       "price": "27 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/the-black-dahlia-murder/",
-      "sourceUrl": "https://theblacklab.fr/agenda/the-black-dahlia-murder/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_The_Black_Dahlia_Murder_-_Two_Decades_of_Nocturnal_Tour_2027-258160.html",
       "sources": [
-        "black-lab"
+        "black-lab",
+        "concerts-metal"
       ]
     },
     {
@@ -1270,6 +1242,25 @@
       "status": "onsale",
       "ticketUrl": "https://www.abconcerts.be/fr/agenda/bury-tomorrow/a10Qw0000082KxJIAU",
       "sourceUrl": "https://www.abconcerts.be/fr/agenda/bury-tomorrow/a10Qw0000082KxJIAU",
+      "sources": [
+        "ancienne-belgique"
+      ]
+    },
+    {
+      "id": "2027-02-15-ancienne-belgique-fauna",
+      "date": "2027-02-15",
+      "time": "19:00",
+      "artist": "Fauna",
+      "support": [],
+      "venue": "Ancienne Belgique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Atmospheric black metal",
+      "family": "Death / Black",
+      "price": null,
+      "status": "unknown",
+      "ticketUrl": "https://www.abconcerts.be/fr/agenda/fauna/a10Qw00000SPl21IAD",
+      "sourceUrl": "https://www.abconcerts.be/fr/agenda/fauna/a10Qw00000SPl21IAD",
       "sources": [
         "ancienne-belgique"
       ]
@@ -1385,14 +1376,15 @@
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Atmospheric black metal",
+      "genre": "Black Metal",
       "family": "Death / Black",
       "price": "25 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/houle-can-bardd-galibot/",
-      "sourceUrl": "https://theblacklab.fr/agenda/houle-can-bardd-galibot/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Houle_-_Goelophobia_Tour_2027-279504.html",
       "sources": [
-        "black-lab"
+        "black-lab",
+        "concerts-metal"
       ]
     },
     {
@@ -1441,21 +1433,24 @@
       ]
     },
     {
-      "id": "2027-03-19-grand-mix-alcest-agriculture",
+      "id": "2027-03-19-grand-mix-alcest",
       "date": "2027-03-19",
       "time": "20:00",
-      "artist": "Alcest + Agriculture",
-      "support": [],
+      "artist": "Alcest",
+      "support": [
+        "Agriculture"
+      ],
       "venue": "Le Grand Mix",
       "city": "Tourcoing",
       "country": "FR",
-      "genre": "Metal",
-      "family": "Heavy / Thrash",
+      "genre": "Blackgaze",
+      "family": "Death / Black",
       "price": null,
       "status": "onsale",
       "ticketUrl": "https://www.legrandmix.com/agenda/alcest-agriculture",
-      "sourceUrl": "https://www.legrandmix.com/agenda/alcest-agriculture",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Alcest_-_Tour_2027-267478.html",
       "sources": [
+        "concerts-metal",
         "grand-mix"
       ]
     },
@@ -1463,19 +1458,22 @@
       "id": "2027-03-20-black-lab-uuhai",
       "date": "2027-03-20",
       "time": "19:30",
-      "artist": "Uuhai",
-      "support": [],
+      "artist": "Uuhaï",
+      "support": [
+        "Acyl"
+      ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Folk metal",
+      "genre": "Folk Metal",
       "family": "Power / Prog",
       "price": "30 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/uuhai-2/",
-      "sourceUrl": "https://theblacklab.fr/agenda/uuhai-2/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Uuhai___Acyl-255222.html",
       "sources": [
-        "black-lab"
+        "black-lab",
+        "concerts-metal"
       ]
     },
     {
@@ -1653,7 +1651,7 @@
       "id": "2027-06-21-aeronef-motionless-in-white",
       "date": "2027-06-21",
       "time": "20:00",
-      "artist": "MOTIONLESS IN WHITE",
+      "artist": "Motionless In White",
       "support": [
         "Guest"
       ],
@@ -1665,9 +1663,29 @@
       "price": null,
       "status": "soldout",
       "ticketUrl": "https://aeronef.fr/agenda/motionless-white27",
-      "sourceUrl": "https://aeronef.fr/agenda/motionless-white27",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Motionless_In_White_-_Tour_2027-269449.html",
       "sources": [
-        "aeronef"
+        "aeronef",
+        "concerts-metal"
+      ]
+    },
+    {
+      "id": "2027-10-03-ancienne-belgique-the-chats",
+      "date": "2027-10-03",
+      "time": "19:00",
+      "artist": "The Chats",
+      "support": [],
+      "venue": "Ancienne Belgique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Heavy",
+      "family": "Heavy / Thrash",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://www.abconcerts.be/fr/agenda/the-chats/a10Qw00000IMsYrIAL",
+      "sourceUrl": "https://www.abconcerts.be/fr/agenda/the-chats/a10Qw00000IMsYrIAL",
+      "sources": [
+        "ancienne-belgique"
       ]
     },
     {

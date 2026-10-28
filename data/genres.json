@@ -1819,6 +1819,29 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "fauna": {
+  "name": "Fauna",
+  "id": "2a4a5861-0938-4884-9fff-f06b68751b2a",
+  "tags": [
+   {
+    "name": "atmospheric black metal",
+    "count": 2
+   },
+   {
+    "name": "metal",
+    "count": 1
+   },
+   {
+    "name": "black metal",
+    "count": 1
+   },
+   {
+    "name": "dark ambient",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-10-28"
+ },
  "feldup the showerheads": {
   "name": "Feldup & The Showerheads",
   "id": null,
@@ -2836,6 +2859,12 @@
   "tags": [],
   "checkedAt": "2026-10-27"
  },
+ "izeah": {
+  "name": "Izeah",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-10-28"
+ },
  "izia": {
   "name": "IZÏA",
   "id": "ac5112f7-df94-4cf8-b76c-f3eb36f1845a",
@@ -2991,6 +3020,12 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "jgrrey": {
+  "name": "JGrrey",
+  "id": "422208ad-8dda-4cfd-a782-d0586c08e617",
+  "tags": [],
+  "checkedAt": "2026-10-28"
  },
  "joe jackson": {
   "name": "Joe Jackson",
@@ -4258,6 +4293,33 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "mormor": {
+  "name": "MorMor",
+  "id": "8c92e1b3-727b-49de-b624-28e09c345ff8",
+  "tags": [
+   {
+    "name": "pop",
+    "count": 2
+   },
+   {
+    "name": "indie",
+    "count": 2
+   },
+   {
+    "name": "indie pop",
+    "count": 1
+   },
+   {
+    "name": "r&b",
+    "count": 1
+   },
+   {
+    "name": "mormor",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-10-28"
+ },
  "mos ensemble": {
   "name": "mòs ensemble",
   "id": "48997692-a1de-4878-9074-bb41264aca94",
@@ -4359,6 +4421,17 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "muireann bradley": {
+  "name": "Muireann Bradley",
+  "id": "6604d4c7-6cd5-47cb-b0eb-1f02c08a9206",
+  "tags": [
+   {
+    "name": "country blues",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-10-28"
+ },
  "muziekbarbar met o a filip tanghe en yungsnem": {
   "name": "MUZIEKBARBAR met o.a. Filip Tanghe en Yungsnem",
   "id": null,
@@ -4453,6 +4526,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-27"
+ },
+ "nightlab session nigerian highlife w dare balogun": {
+  "name": "Nightlab session: Nigerian Highlife w/ Dare Balogun",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-10-28"
  },
  "noa lee": {
   "name": "Noa Lee",
@@ -4782,6 +4861,25 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "peaches": {
+  "name": "PEACHES",
+  "id": "270acfee-1fbe-413e-a0a8-6a35a8b3b66c",
+  "tags": [
+   {
+    "name": "electroclash",
+    "count": 3
+   },
+   {
+    "name": "dance-punk",
+    "count": 1
+   },
+   {
+    "name": "synthpunk",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-10-28"
+ },
  "peet": {
   "name": "Peet",
   "id": "e1f735d9-ef0e-4cfd-989c-266f36cd1aba",
@@ -5051,6 +5149,12 @@
   "id": "5b4978bf-f8e0-4f55-90af-74173d9b1e38",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "primero": {
+  "name": "Primero",
+  "id": "beb0d47d-d6a9-4140-bc5c-a67ee2070acb",
+  "tags": [],
+  "checkedAt": "2026-10-28"
  },
  "primitive ring federale": {
   "name": "PRIMITIVE RING + FEDERALE",
@@ -5762,6 +5866,12 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "steel pulse guest": {
+  "name": "STEEL PULSE + Guest",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-10-28"
  },
  "stefan maier yuki nakagawa": {
   "name": "Stefan Maier & Yuki Nakagawa",
