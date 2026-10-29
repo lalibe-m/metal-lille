@@ -1022,6 +1022,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "chorale flash avec yolande bashing": {
+  "name": "Chorale Flash avec Yolande Bashing",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-10-29"
+ },
  "ciska ciska": {
   "name": "Ciska Ciska",
   "id": "01f8f256-2447-4565-8a93-aff681212ecd",
@@ -1413,11 +1419,56 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "diiv": {
+  "name": "DIIV",
+  "id": "b5ff61dd-0154-4e80-b46b-c733f87db602",
+  "tags": [
+   {
+    "name": "dream pop",
+    "count": 4
+   },
+   {
+    "name": "indie rock",
+    "count": 3
+   },
+   {
+    "name": "shoegazing",
+    "count": 2
+   },
+   {
+    "name": "rock",
+    "count": 1
+   },
+   {
+    "name": "krautrock",
+    "count": 1
+   },
+   {
+    "name": "shoegaze",
+    "count": 1
+   },
+   {
+    "name": "post-punk",
+    "count": 1
+   },
+   {
+    "name": "jangle pop",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-10-29"
+ },
  "dikke": {
   "name": "DIKKE",
   "id": "2d9752d0-9276-429d-841f-5319e8112efa",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "diles que no me maten": {
+  "name": "Diles Que No Me Maten",
+  "id": "6dfd0709-1021-4a1a-b4ba-a5a93c5b053a",
+  "tags": [],
+  "checkedAt": "2026-10-29"
  },
  "dirty monitor": {
   "name": "Dirty Monitor",
@@ -1707,6 +1758,45 @@
   "id": "0debb7d2-a090-478c-a099-24381640613b",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "ernia": {
+  "name": "Ernia",
+  "id": "52689f06-8030-460d-bf80-c5a1cda2640f",
+  "tags": [
+   {
+    "name": "hip hop",
+    "count": 2
+   },
+   {
+    "name": "pop rap",
+    "count": 2
+   },
+   {
+    "name": "conscious hip hop",
+    "count": 2
+   },
+   {
+    "name": "pop",
+    "count": 1
+   },
+   {
+    "name": "rap",
+    "count": 1
+   },
+   {
+    "name": "italian pop",
+    "count": 1
+   },
+   {
+    "name": "hardcore hip hop",
+    "count": 1
+   },
+   {
+    "name": "italian rap",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-10-29"
  },
  "etienne daho": {
   "name": "Étienne Daho",
@@ -3398,6 +3488,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "klassiek met de keere sound design in klassieke muziek": {
+  "name": "Klassiek met De Keere: sound design in klassieke muziek",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-10-29"
+ },
  "koala disco": {
   "name": "Koala Disco",
   "id": "fc012a5a-2a30-4765-9057-32b18bb81a9e",
@@ -3632,6 +3728,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "les lapins electriques": {
+  "name": "Les Lapins Electriques",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-10-29"
  },
  "les tetes de l art": {
   "name": "Les têtes de l'art",
@@ -4365,6 +4467,12 @@
   ],
   "checkedAt": "2026-10-27"
  },
+ "motionless in white wage war": {
+  "name": "MOTIONLESS IN WHITE + WAGE WAR",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-10-29"
+ },
  "motorpsycho": {
   "name": "Motorpsycho",
   "id": "5d0764c8-b14a-47fb-adc7-2ba9fb5f0d76",
@@ -4781,6 +4889,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "osees with brigid dawson dmbq": {
+  "name": "OSEES with Brigid Dawson + DMBQ",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-10-29"
+ },
  "other lives": {
   "name": "Other Lives",
   "id": "69ce32a2-dbb1-42c2-98fc-2fbf896ef861",
@@ -4951,6 +5065,12 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "pigeon": {
+  "name": "Pigeon",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-10-29"
  },
  "plain jane": {
   "name": "Plain Jane",
@@ -6182,6 +6302,37 @@
   ],
   "checkedAt": "2026-10-27"
  },
+ "the chats": {
+  "name": "The Chats",
+  "id": "aafe3816-2d68-4528-adda-d68514c940d4",
+  "tags": [
+   {
+    "name": "punk rock",
+    "count": 3
+   },
+   {
+    "name": "hard rock",
+    "count": 1
+   },
+   {
+    "name": "garage punk",
+    "count": 1
+   },
+   {
+    "name": "hardcore punk",
+    "count": 1
+   },
+   {
+    "name": "australia",
+    "count": 1
+   },
+   {
+    "name": "shed rock",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-10-29"
+ },
  "the cinematic orchestra": {
   "name": "The Cinematic Orchestra",
   "id": "7c158ea8-c0aa-410e-bdc1-20bba9759577",
@@ -6232,6 +6383,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "the dark wave": {
+  "name": "The Dark Wave",
+  "id": "6a8ff5a5-81a7-4616-845f-07702ddeb82a",
+  "tags": [],
+  "checkedAt": "2026-10-29"
  },
  "the ex brass unbound": {
   "name": "The Ex & Brass Unbound",
@@ -6401,6 +6558,41 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "the ocean": {
+  "name": "The Ocean",
+  "id": "8d0acf0e-c099-49ac-b4b3-d57ca9eb2561",
+  "tags": [
+   {
+    "name": "progressive metal",
+    "count": 9
+   },
+   {
+    "name": "post-metal",
+    "count": 9
+   },
+   {
+    "name": "sludge metal",
+    "count": 4
+   },
+   {
+    "name": "post-rock",
+    "count": 2
+   },
+   {
+    "name": "atmospheric sludge metal",
+    "count": 2
+   },
+   {
+    "name": "experimental",
+    "count": 1
+   },
+   {
+    "name": "sludge",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-10-29"
  },
  "the prestige": {
   "name": "The Prestige",
@@ -6955,6 +7147,12 @@
   "id": "205bb776-c2b1-4eae-b152-235c9b1d83b3",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "vk unplugged 013": {
+  "name": "VK Unplugged 013",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-10-29"
  },
  "voila": {
   "name": "VOILÀ",
