@@ -1028,6 +1028,45 @@
   "tags": [],
   "checkedAt": "2026-10-29"
  },
+ "christine and the queens": {
+  "name": "Christine and the Queens",
+  "id": "9c90ffbf-b137-4dee-bfcc-b8010787840d",
+  "tags": [
+   {
+    "name": "electropop",
+    "count": 4
+   },
+   {
+    "name": "art pop",
+    "count": 3
+   },
+   {
+    "name": "pop",
+    "count": 2
+   },
+   {
+    "name": "indietronica",
+    "count": 2
+   },
+   {
+    "name": "synthpop",
+    "count": 1
+   },
+   {
+    "name": "alternative",
+    "count": 1
+   },
+   {
+    "name": "synth-pop",
+    "count": 1
+   },
+   {
+    "name": "indie pop",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-10-30"
+ },
  "ciska ciska": {
   "name": "Ciska Ciska",
   "id": "01f8f256-2447-4565-8a93-aff681212ecd",
@@ -1509,6 +1548,17 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "django": {
+  "name": "Django",
+  "id": "30af2286-6617-4029-b623-345eae2fc801",
+  "tags": [
+   {
+    "name": "hip hop",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-10-30"
+ },
  "dope saint jude": {
   "name": "Dope Saint Jude",
   "id": "64103b07-df5d-45ae-93dc-48efc594b878",
@@ -1695,6 +1745,25 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "emei": {
+  "name": "Emei",
+  "id": "33ca1c01-0f4f-454c-8715-4e36908c594b",
+  "tags": [
+   {
+    "name": "alternative pop",
+    "count": 2
+   },
+   {
+    "name": "alternative",
+    "count": 1
+   },
+   {
+    "name": "female vocals",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-10-30"
  },
  "emily wittbrodt sextet presents wearing words": {
   "name": "Emily Wittbrodt Sextet presents Wearing Words",
@@ -4327,6 +4396,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "mike d 5d tony bontana": {
+  "name": "MIKE D 5D + Tony Bontana",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-10-30"
+ },
  "miki jade": {
   "name": "MIKI + JÄDE",
   "id": null,
@@ -4628,6 +4703,12 @@
   "id": "15db54df-a4b5-4f93-9905-62829f492024",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "nightlab session about soukous w dare balogun": {
+  "name": "Nightlab session: About Soukous w/ Dare Balogun",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-10-30"
  },
  "nightlab session it began in ipanema w daniel haaksman": {
   "name": "Nightlab Session: It Began In Ipanema w/ Daniel Haaksman",
