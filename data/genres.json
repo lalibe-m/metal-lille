@@ -1565,6 +1565,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "drag king": {
+  "name": "Drag King",
+  "id": "0f3ad531-90c8-45c1-a8b7-6f8ceda48ae2",
+  "tags": [],
+  "checkedAt": "2026-10-31"
+ },
  "dragonforce europe tour 2027": {
   "name": "DragonForce - Europe Tour 2027",
   "id": null,
@@ -1576,6 +1582,12 @@
   "id": "b3c25193-15a9-49a5-b538-dd29b8146412",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "dressed like boys flora hibberd": {
+  "name": "DRESSED LIKE BOYS + FLORA HIBBERD",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-10-31"
  },
  "dummy": {
   "name": "Dummy",
@@ -3516,6 +3528,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "kick off dj contest": {
+  "name": "Kick-Off : DJ Contest",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-10-31"
  },
  "kid francescoli woody": {
   "name": "KID FRANCESCOLI + WOODY",
@@ -5588,6 +5606,18 @@
   ],
   "checkedAt": "2026-10-27"
  },
+ "resonate curated by nixie day 1 in ab": {
+  "name": "Resonate curated by NiXiE - DAY 1 in AB",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-10-31"
+ },
+ "resonate curated by nixie day 2 in pilar": {
+  "name": "Resonate curated by NiXiE - DAY 2 in Pilar",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-10-31"
+ },
  "revnoir": {
   "name": "Revnoir",
   "id": "553331a9-fcac-47c0-8299-62cbbca5b521",
@@ -5703,6 +5733,12 @@
   "id": "03b0c0ae-cea0-4ffc-9b64-0ee7952ebe37",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "ruthee": {
+  "name": "Ruthee",
+  "id": "c298d519-1a34-457a-a93b-b81f161fec87",
+  "tags": [],
+  "checkedAt": "2026-10-31"
  },
  "sam quealy": {
   "name": "SAM QUEALY",
