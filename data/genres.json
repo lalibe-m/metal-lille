@@ -1663,6 +1663,21 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "eiffel": {
+  "name": "EIFFEL",
+  "id": "f375d757-75c1-4825-8a88-44c8aa65e0b5",
+  "tags": [
+   {
+    "name": "rock",
+    "count": 2
+   },
+   {
+    "name": "french",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-01"
+ },
  "eiv r": {
   "name": "Eivør",
   "id": "cdcc26ed-818f-4c95-b177-b56ac1410f8f",
@@ -6580,6 +6595,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "the meffs": {
+  "name": "The Meffs",
+  "id": "b10161d0-ced0-439f-a12b-579a8a7401be",
+  "tags": [],
+  "checkedAt": "2026-11-01"
  },
  "the meltdown": {
   "name": "The Meltdown",
