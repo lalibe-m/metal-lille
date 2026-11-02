@@ -1096,6 +1096,12 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "clara kimera": {
+  "name": "Clara Kimera",
+  "id": "86d753ea-dd13-4e27-afd5-92b12b1fedab",
+  "tags": [],
+  "checkedAt": "2026-11-02"
+ },
  "clinton fearon chante the gladiators": {
   "name": "Clinton Fearon chante The Gladiators",
   "id": null,
@@ -1419,6 +1425,45 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "die arzte": {
+  "name": "Die Ärzte",
+  "id": "f2fb0ff0-5679-42ec-a55c-15109ce6e320",
+  "tags": [
+   {
+    "name": "german",
+    "count": 9
+   },
+   {
+    "name": "punk",
+    "count": 6
+   },
+   {
+    "name": "punk rock",
+    "count": 6
+   },
+   {
+    "name": "berlin",
+    "count": 5
+   },
+   {
+    "name": "pop punk",
+    "count": 5
+   },
+   {
+    "name": "rock",
+    "count": 2
+   },
+   {
+    "name": "fun-punk",
+    "count": 1
+   },
+   {
+    "name": "neue deutsche welle",
+    "count": 0
+   }
+  ],
+  "checkedAt": "2026-11-02"
+ },
  "digitalism": {
   "name": "Digitalism",
   "id": "7b52603c-a84c-4a76-8dc8-899bb4dd9fa7",
@@ -1558,6 +1603,21 @@
    }
   ],
   "checkedAt": "2026-10-30"
+ },
+ "dope purple": {
+  "name": "Dope Purple",
+  "id": "6a0ff427-65d7-4145-a4f1-e5642ecb0d7b",
+  "tags": [
+   {
+    "name": "psychedelic rock",
+    "count": 1
+   },
+   {
+    "name": "psychedelic",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-02"
  },
  "dope saint jude": {
   "name": "Dope Saint Jude",
@@ -3206,6 +3266,12 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "jezus eik": {
+  "name": "Jezus Eik",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-02"
  },
  "jgrrey": {
   "name": "JGrrey",
@@ -5666,6 +5732,12 @@
   ],
   "checkedAt": "2026-10-27"
  },
+ "robert lester folsom": {
+  "name": "Robert Lester Folsom",
+  "id": "851ed4f5-5754-4175-a566-77ab082f72cc",
+  "tags": [],
+  "checkedAt": "2026-11-02"
+ },
  "rodrigo y gabriela": {
   "name": "Rodrigo y Gabriela",
   "id": "a8ed28e3-5c08-4448-b889-867483e251f5",
@@ -6267,6 +6339,12 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "symptom episode 1": {
+  "name": "Symptom : Episode 1",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-02"
  },
  "takfarinas": {
   "name": "TAKFARINAS",
@@ -7572,6 +7650,12 @@
   "id": "e2e401aa-48a4-4c94-8f21-431a42506a33",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "zola pas comme emile face a": {
+  "name": "ZOLA … PAS COMME EMILE !!! – FACE A",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-02"
  },
  "zornik": {
   "name": "Zornik",
