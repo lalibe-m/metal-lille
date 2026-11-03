@@ -999,6 +999,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "charlotte adigery bolis pupul": {
+  "name": "Charlotte Adigéry & Bolis Pupul",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-03"
+ },
  "cheapjewels": {
   "name": "cheapjewels",
   "id": "69aa386c-ae6d-4fb2-8ef5-8724fbe1ed60",
@@ -2298,6 +2304,21 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "giant rooks": {
+  "name": "Giant Rooks",
+  "id": "917f3950-9a2a-4c0b-804c-06b1ffddd0c5",
+  "tags": [
+   {
+    "name": "rock",
+    "count": 1
+   },
+   {
+    "name": "indie pop",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-03"
+ },
  "gilla band": {
   "name": "Gilla Band",
   "id": "9018ba16-a391-4a08-af8c-21cdc52672c2",
@@ -2793,6 +2814,12 @@
    }
   ],
   "checkedAt": "2026-10-27"
+ },
+ "houpie": {
+  "name": "Houpie",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-03"
  },
  "howlin jaws moundrag": {
   "name": "Howlin' Jaws Moundrag",
@@ -4338,6 +4365,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "matinee concert hendrik lasure presenteert de val": {
+  "name": "Matinee concert: Hendrik Lasure presenteert De Val",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-03"
+ },
  "matinee eric legnini": {
   "name": "Matinee: Eric Legnini",
   "id": null,
@@ -5827,6 +5860,12 @@
   "tags": [],
   "checkedAt": "2026-10-31"
  },
+ "sad madona": {
+  "name": "Sad Madona",
+  "id": "8300e407-c464-4310-8f12-77effce37439",
+  "tags": [],
+  "checkedAt": "2026-11-03"
+ },
  "sam quealy": {
   "name": "SAM QUEALY",
   "id": "f6c94a77-1c13-4ef0-880a-ff9264e5070c",
@@ -5844,6 +5883,37 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "sampa the great": {
+  "name": "Sampa The Great",
+  "id": "9d79c790-9897-464e-aef0-db5bd3290f00",
+  "tags": [
+   {
+    "name": "hip hop",
+    "count": 3
+   },
+   {
+    "name": "rap",
+    "count": 1
+   },
+   {
+    "name": "hip-hop",
+    "count": 1
+   },
+   {
+    "name": "soul",
+    "count": 1
+   },
+   {
+    "name": "r&b",
+    "count": 1
+   },
+   {
+    "name": "hip-hop/rap",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-03"
  },
  "sander boury": {
   "name": "Sander Boury",
@@ -6667,6 +6737,25 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "the interrupters": {
+  "name": "The Interrupters",
+  "id": "f8ed032c-0d34-4ae6-a069-91417097509e",
+  "tags": [
+   {
+    "name": "punk rock",
+    "count": 5
+   },
+   {
+    "name": "ska punk",
+    "count": 5
+   },
+   {
+    "name": "punk",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-03"
  },
  "the klittens library card seedy liars": {
   "name": "THE KLITTENS + LIBRARY CARD + SEEDY LIARS",

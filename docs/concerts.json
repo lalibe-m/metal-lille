@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T12:29:23.043Z",
+  "updatedAt": "2026-11-03T11:59:34.488Z",
   "sources": [
     {
       "id": "concerts-metal",
@@ -24,7 +24,7 @@
       "id": "grand-mix",
       "label": "Le Grand Mix",
       "ok": true,
-      "count": 47
+      "count": 48
     },
     {
       "id": "cave-aux-poetes",
@@ -42,7 +42,7 @@
       "id": "ancienne-belgique",
       "label": "Ancienne Belgique",
       "ok": true,
-      "count": 235
+      "count": 237
     },
     {
       "id": "magasin-4",
@@ -72,7 +72,7 @@
       "id": "kinky-star",
       "label": "Kinky Star",
       "ok": true,
-      "count": 29
+      "count": 28
     },
     {
       "id": "rockerill",
@@ -893,7 +893,7 @@
       "family": "Doom / Stoner",
       "price": "10 €",
       "status": "onsale",
-      "ticketUrl": "https://www.rockerill.com/agenda/hell-is-here-jezus-eik-pigz-lost-reverend-and-the-sinner-sons-52574/",
+      "ticketUrl": "https://shop.utick.net/?pos=ROCKERILL&module=ACTIVITYSERIEDETAILS&s=0619E149-F10D-E15A-ECFF-88D536F8D3D9",
       "sourceUrl": "https://www.rockerill.com/agenda/hell-is-here-jezus-eik-pigz-lost-reverend-and-the-sinner-sons-52574/",
       "sources": [
         "rockerill"
