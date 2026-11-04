@@ -415,6 +415,12 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "baba stiltz": {
+  "name": "Baba Stiltz",
+  "id": "0232892e-48a1-422f-ac3c-ee323e6ba9df",
+  "tags": [],
+  "checkedAt": "2026-11-04"
+ },
  "babe haven": {
   "name": "Babe Haven",
   "id": "526c63a9-842c-4d6c-9aad-e9830fe521e0",
@@ -3075,6 +3081,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "isabel usher": {
+  "name": "Isabèl Usher",
+  "id": "36296839-818e-4ab0-a225-21d1712a7597",
+  "tags": [],
+  "checkedAt": "2026-11-04"
+ },
  "isabel van gelder": {
   "name": "Isabel van Gelder",
   "id": "68662648-340c-4524-8f7a-dd83e8105a2c",
@@ -3795,6 +3807,12 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "la rvfleuze shippeur": {
+  "name": "LA RVFLEUZE + SHIPPEUR",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-04"
  },
  "lambrini girls": {
   "name": "Lambrini Girls",
@@ -4830,6 +4848,17 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "nes": {
+  "name": "NeS",
+  "id": "894080ed-9796-4de0-ad48-263046e500fb",
+  "tags": [
+   {
+    "name": "hip hop",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-04"
+ },
  "nesa azadikhah": {
   "name": "Nesa Azadikhah",
   "id": "15db54df-a4b5-4f93-9905-62829f492024",
@@ -5136,6 +5165,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "p rish": {
+  "name": "PÆRISH",
+  "id": "4c4f9b03-e97f-4803-8225-67e2ac995fd8",
+  "tags": [],
+  "checkedAt": "2026-11-04"
  },
  "p stones of death": {
   "name": "P-stones of death",
