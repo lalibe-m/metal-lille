@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-04T12:13:56.515Z",
+  "updatedAt": "2026-11-05T12:26:14.141Z",
   "sources": [
     {
       "id": "concerts-metal",
       "label": "concerts-metal.com",
       "ok": true,
-      "count": 42
+      "count": 41
     },
     {
       "id": "black-lab",
@@ -17,13 +17,13 @@
       "id": "aeronef",
       "label": "L'Aéronef",
       "ok": true,
-      "count": 71
+      "count": 70
     },
     {
       "id": "grand-mix",
       "label": "Le Grand Mix",
       "ok": true,
-      "count": 47
+      "count": 46
     },
     {
       "id": "cave-aux-poetes",
@@ -41,7 +41,7 @@
       "id": "ancienne-belgique",
       "label": "Ancienne Belgique",
       "ok": true,
-      "count": 238
+      "count": 236
     },
     {
       "id": "magasin-4",
@@ -53,19 +53,19 @@
       "id": "botanique",
       "label": "Botanique",
       "ok": true,
-      "count": 48
+      "count": 49
     },
     {
       "id": "vk-concerts",
       "label": "VK Concerts",
       "ok": true,
-      "count": 21
+      "count": 22
     },
     {
       "id": "wilde-westen",
       "label": "Wilde Westen (De Kreun)",
       "ok": true,
-      "count": 60
+      "count": 61
     },
     {
       "id": "kinky-star",
@@ -81,27 +81,6 @@
     }
   ],
   "events": [
-    {
-      "id": "2026-11-04-malterie-krallice",
-      "date": "2026-11-04",
-      "time": null,
-      "artist": "Krallice",
-      "support": [
-        "Fange"
-      ],
-      "venue": "La Malterie",
-      "city": "Lille",
-      "country": "FR",
-      "genre": "Black Metal",
-      "family": "Death / Black",
-      "price": null,
-      "status": "unknown",
-      "ticketUrl": null,
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_Krallice-253652.html",
-      "sources": [
-        "concerts-metal"
-      ]
-    },
     {
       "id": "2026-11-05-botanique-the-obsessed",
       "date": "2026-11-05",
