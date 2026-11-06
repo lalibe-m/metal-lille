@@ -32,6 +32,21 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "a2h": {
+  "name": "A2h",
+  "id": "58a6df42-b598-4704-a028-fa9e738300bf",
+  "tags": [
+   {
+    "name": "hip hop",
+    "count": 1
+   },
+   {
+    "name": "g-funk",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-06"
+ },
  "accept": {
   "name": "Accept",
   "id": "41f4d85a-0bd7-4602-a3e3-8c47f36efb0a",
@@ -703,6 +718,12 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "blind yeo psalmanazar": {
+  "name": "Blind Yeo Psalmanazar",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-06"
+ },
  "blondshell": {
   "name": "Blondshell",
   "id": "f6621a8d-5644-460a-b0a8-9171cb2c595d",
@@ -823,6 +844,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "braindance 2026 dj heartstring": {
+  "name": "braindance_2026: DJ HEARTSTRING",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-06"
  },
  "brooke combe": {
   "name": "Brooke Combe",
@@ -1005,6 +1032,12 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "chapelier fou": {
+  "name": "Chapelier Fou",
+  "id": "e95d5542-401d-4319-9918-7cbbc507b758",
+  "tags": [],
+  "checkedAt": "2026-11-06"
+ },
  "charles": {
   "name": "Charles",
   "id": null,
@@ -1157,6 +1190,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "collectif ensemble": {
+  "name": "COLLECTIF ENSEMBLE !!!",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-06"
+ },
  "compro oro feat bouton kalanda": {
   "name": "Compro Oro feat. Bouton Kalanda",
   "id": null,
@@ -1250,6 +1289,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "dalaidrama dewaere": {
+  "name": "DALAÏDRAMA Dewaere",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-06"
  },
  "dan english": {
   "name": "Dan English",
@@ -1795,6 +1840,12 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "elke everaert poezie voorstelling": {
+  "name": "Elke Everaert Poëzie Voorstelling",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-06"
+ },
  "elmer": {
   "name": "Elmer",
   "id": "49fc9379-849f-41cf-8a6a-6e075b75ffd0",
@@ -2105,6 +2156,12 @@
    }
   ],
   "checkedAt": "2026-10-28"
+ },
+ "faux real": {
+  "name": "Faux Real",
+  "id": "80a154ea-28d7-42e8-8409-ca7017780e00",
+  "tags": [],
+  "checkedAt": "2026-11-06"
  },
  "feldup the showerheads": {
   "name": "Feldup & The Showerheads",
@@ -3241,6 +3298,45 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "jay jay johanson": {
+  "name": "Jay-Jay Johanson",
+  "id": "99e9b8ff-b8ea-4019-a073-acc9fbc93bbe",
+  "tags": [
+   {
+    "name": "trip hop",
+    "count": 2
+   },
+   {
+    "name": "electronic",
+    "count": 1
+   },
+   {
+    "name": "synthpop",
+    "count": 1
+   },
+   {
+    "name": "pop",
+    "count": 1
+   },
+   {
+    "name": "downbeat",
+    "count": 1
+   },
+   {
+    "name": "electroclash",
+    "count": 1
+   },
+   {
+    "name": "alternative/indie rock",
+    "count": 1
+   },
+   {
+    "name": "adult alternative pop/rock",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-06"
+ },
  "jeanjass": {
   "name": "JeanJass",
   "id": "5ab77d5d-f95f-4d95-b6bf-286ea3bd1a64",
@@ -4331,6 +4427,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "marguerite cheri": {
+  "name": "Marguerite + CHÉRI",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-06"
+ },
  "marichka re connection": {
   "name": "Marichka RE_Connection",
   "id": null,
@@ -4895,6 +4997,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "night lives kristine tj gersen": {
+  "name": "NIGHT LIVES | Kristine Tjøgersen",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-06"
+ },
  "nightlab session about soukous w dare balogun": {
   "name": "Nightlab session: About Soukous w/ Dare Balogun",
   "id": null,
@@ -4984,6 +5092,12 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "nur no man no cry": {
+  "name": "Nûr No man No cry",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-06"
+ },
  "o s t r": {
   "name": "O.S.T.R",
   "id": "99acd557-c4e2-4086-9be9-85f57184dadc",
@@ -5014,6 +5128,12 @@
   "id": "74a7ebef-394e-4cee-90b7-efcc254c6c7a",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "ooralise punchlyn": {
+  "name": "OORALISE Punchlyn",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-06"
  },
  "oorsnoep dark dubstep": {
   "name": "Oorsnoep - Dark Dubstep",
@@ -5109,6 +5229,12 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "oriana ikomo": {
+  "name": "Oriana Ikomo",
+  "id": "c07a6fa6-bc24-4bbe-9ecc-8d9f271ea00e",
+  "tags": [],
+  "checkedAt": "2026-11-06"
  },
  "oscar lindsey": {
   "name": "Oscar Lindsey",
@@ -5830,6 +5956,12 @@
   ],
   "checkedAt": "2026-10-27"
  },
+ "robbing millions": {
+  "name": "Robbing Millions",
+  "id": "0ee36be7-14ca-459a-9953-c85614698a66",
+  "tags": [],
+  "checkedAt": "2026-11-06"
+ },
  "robert lester folsom": {
   "name": "Robert Lester Folsom",
   "id": "851ed4f5-5754-4175-a566-77ab082f72cc",
@@ -5985,6 +6117,12 @@
   "id": "a944b175-b435-444f-931e-283a35c73d22",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "sanguijuelas del guadiana": {
+  "name": "Sanguijuelas del Guadiana",
+  "id": "8f4ebab3-d0f4-4686-9650-a2c19adf3d55",
+  "tags": [],
+  "checkedAt": "2026-11-06"
  },
  "sarah julia": {
   "name": "Sarah Julia",
@@ -6398,6 +6536,29 @@
   "id": "12606bae-9da6-45b3-86f0-6fefae31e3c7",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "surprise": {
+  "name": "Surprise",
+  "id": "85b0fc84-6bdb-4a4c-94c1-e99b41070c09",
+  "tags": [
+   {
+    "name": "hip hop",
+    "count": 1
+   },
+   {
+    "name": "hip house",
+    "count": 1
+   },
+   {
+    "name": "alternative hip hop",
+    "count": 1
+   },
+   {
+    "name": "emo rap",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-06"
  },
  "susobrino": {
   "name": "Susobrino",
@@ -7770,6 +7931,17 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "yndling": {
+  "name": "Yndling",
+  "id": "126b0d48-fe25-4052-946c-cf150f1b50c6",
+  "tags": [
+   {
+    "name": "pop",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-06"
+ },
  "youth l ab presents space station": {
   "name": "Youth L'AB presents: Space Station",
   "id": null,
@@ -7792,6 +7964,33 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "zimmer90": {
+  "name": "Zimmer90",
+  "id": "d7c1cfab-a75e-42e9-bde8-f4e0c031243e",
+  "tags": [
+   {
+    "name": "indie pop",
+    "count": 2
+   },
+   {
+    "name": "electronic",
+    "count": 1
+   },
+   {
+    "name": "indie rock",
+    "count": 1
+   },
+   {
+    "name": "alternative pop",
+    "count": 1
+   },
+   {
+    "name": "indietronica",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-06"
  },
  "zing circle session 2": {
   "name": "ZING: circle session #2",

@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-05T12:26:14.141Z",
+  "updatedAt": "2026-11-06T12:11:46.866Z",
   "sources": [
     {
       "id": "concerts-metal",
       "label": "concerts-metal.com",
       "ok": true,
-      "count": 41
+      "count": 40
     },
     {
       "id": "black-lab",
       "label": "The Black Lab",
       "ok": true,
-      "count": 25
+      "count": 27
     },
     {
       "id": "aeronef",
@@ -23,13 +23,13 @@
       "id": "grand-mix",
       "label": "Le Grand Mix",
       "ok": true,
-      "count": 46
+      "count": 47
     },
     {
       "id": "cave-aux-poetes",
       "label": "La Cave aux Poètes",
       "ok": true,
-      "count": 9
+      "count": 11
     },
     {
       "id": "metaphone",
@@ -41,13 +41,13 @@
       "id": "ancienne-belgique",
       "label": "Ancienne Belgique",
       "ok": true,
-      "count": 236
+      "count": 238
     },
     {
       "id": "magasin-4",
       "label": "Magasin 4",
       "ok": true,
-      "count": 17
+      "count": 16
     },
     {
       "id": "botanique",
@@ -81,25 +81,6 @@
     }
   ],
   "events": [
-    {
-      "id": "2026-11-05-botanique-the-obsessed",
-      "date": "2026-11-05",
-      "time": "18:30",
-      "artist": "The Obsessed",
-      "support": [],
-      "venue": "Botanique",
-      "city": "Bruxelles",
-      "country": "BE",
-      "genre": "Doom metal",
-      "family": "Doom / Stoner",
-      "price": "22.5 €",
-      "status": "onsale",
-      "ticketUrl": "https://botanique.be/fr/concert/obsessed-2026",
-      "sourceUrl": "https://botanique.be/fr/concert/obsessed-2026",
-      "sources": [
-        "botanique"
-      ]
-    },
     {
       "id": "2026-11-06-brat-cave-drops",
       "date": "2026-11-06",
@@ -216,7 +197,7 @@
     {
       "id": "2026-11-09-ancienne-belgique-enter-shikari",
       "date": "2026-11-09",
-      "time": "19:00",
+      "time": "18:30",
       "artist": "Enter Shikari",
       "support": [
         "Holding Absence",
