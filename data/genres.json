@@ -142,6 +142,18 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "aero campus tour 2026": {
+  "name": "AÉRO CAMPUS TOUR 2026",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-07"
+ },
+ "aero teenage tour 2026": {
+  "name": "AERO TEENAGE TOUR 2026",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-07"
+ },
  "afroplug connect": {
   "name": "Afroplug Connect",
   "id": null,
@@ -2163,6 +2175,29 @@
   "tags": [],
   "checkedAt": "2026-11-06"
  },
+ "feeble little horse": {
+  "name": "feeble little horse",
+  "id": "56252a59-5731-4a3b-96d2-fea7fe88a5d6",
+  "tags": [
+   {
+    "name": "indie rock",
+    "count": 2
+   },
+   {
+    "name": "shoegaze",
+    "count": 1
+   },
+   {
+    "name": "post-punk",
+    "count": 1
+   },
+   {
+    "name": "noise pop",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-07"
+ },
  "feldup the showerheads": {
   "name": "Feldup & The Showerheads",
   "id": null,
@@ -2895,6 +2930,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "hypersenses": {
+  "name": "HYPERSENSES",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-07"
  },
  "i m the hug": {
   "name": "I'm the hug",
@@ -3850,6 +3891,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "ku leuven x ab talk music for everyone inclusie in de muzi": {
+  "name": "KU Leuven x AB Talk: Music for Everyone? Inclusie in de muzi",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-07"
+ },
  "l a sagne": {
   "name": "L.A. Sagne",
   "id": "c1e25b84-b24b-4fb2-aafd-29fe606a097a",
@@ -4502,6 +4549,45 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "master boot record": {
+  "name": "MASTER BOOT RECORD",
+  "id": "604dd351-5f3a-479f-b33a-615db3b2dcfb",
+  "tags": [
+   {
+    "name": "chiptune",
+    "count": 12
+   },
+   {
+    "name": "metal",
+    "count": 5
+   },
+   {
+    "name": "industrial metal",
+    "count": 3
+   },
+   {
+    "name": "darksynth",
+    "count": 3
+   },
+   {
+    "name": "tracker music",
+    "count": 3
+   },
+   {
+    "name": "electronic metal",
+    "count": 2
+   },
+   {
+    "name": "synthwave",
+    "count": 2
+   },
+   {
+    "name": "awesomename",
+    "count": 2
+   }
+  ],
+  "checkedAt": "2026-11-07"
  },
  "matinee bela bartok hertog blauwbaards burcht": {
   "name": "Matinee Béla Bartók - Hertog Blauwbaards Burcht",
@@ -5397,6 +5483,25 @@
    }
   ],
   "checkedAt": "2026-10-28"
+ },
+ "pearly drops": {
+  "name": "Pearly Drops",
+  "id": "40acbc57-d70a-470c-8362-d045a36d208d",
+  "tags": [
+   {
+    "name": "experimental",
+    "count": 2
+   },
+   {
+    "name": "alternative pop",
+    "count": 2
+   },
+   {
+    "name": "hyperpop",
+    "count": 2
+   }
+  ],
+  "checkedAt": "2026-11-07"
  },
  "peet": {
   "name": "Peet",
@@ -7124,6 +7229,12 @@
    }
   ],
   "checkedAt": "2026-10-29"
+ },
+ "the ocean a a williams": {
+  "name": "The Ocean + A.A. Williams",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-07"
  },
  "the prestige": {
   "name": "The Prestige",
