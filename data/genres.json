@@ -2892,6 +2892,37 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "horace andy": {
+  "name": "HORACE ANDY",
+  "id": "2027b08d-45b1-4fb5-aa6d-f6ccc4db78e5",
+  "tags": [
+   {
+    "name": "reggae",
+    "count": 3
+   },
+   {
+    "name": "dub",
+    "count": 3
+   },
+   {
+    "name": "electronica",
+    "count": 2
+   },
+   {
+    "name": "roots reggae",
+    "count": 2
+   },
+   {
+    "name": "trip hop",
+    "count": 2
+   },
+   {
+    "name": "classic pop and rock",
+    "count": 0
+   }
+  ],
+  "checkedAt": "2026-11-08"
+ },
  "horse lords claptrap": {
   "name": "HORSE LORDS + CLAPTRAP",
   "id": null,
@@ -4480,6 +4511,12 @@
   "tags": [],
   "checkedAt": "2026-11-06"
  },
+ "maria arnal": {
+  "name": "Maria Arnal",
+  "id": "95abd093-287b-4400-8b9c-3dd4510f016c",
+  "tags": [],
+  "checkedAt": "2026-11-08"
+ },
  "marichka re connection": {
   "name": "Marichka RE_Connection",
   "id": null,
@@ -4820,6 +4857,21 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "moha mmz": {
+  "name": "Moha MMZ",
+  "id": "df281499-947b-4a8e-b211-aa0dc6183c99",
+  "tags": [
+   {
+    "name": "hip hop",
+    "count": 1
+   },
+   {
+    "name": "cloud rap",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-08"
  },
  "montell fish": {
   "name": "Montell Fish",
