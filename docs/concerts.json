@@ -1,11 +1,12 @@
 {
-  "updatedAt": "2026-11-08T11:19:58.081Z",
+  "updatedAt": "2026-11-09T12:56:23.318Z",
   "sources": [
     {
       "id": "concerts-metal",
       "label": "concerts-metal.com",
-      "ok": true,
-      "count": 38
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 403 sur https://lille.concerts-metal.com/"
     },
     {
       "id": "black-lab",
@@ -17,7 +18,7 @@
       "id": "aeronef",
       "label": "L'Aéronef",
       "ok": true,
-      "count": 70
+      "count": 69
     },
     {
       "id": "grand-mix",
@@ -41,7 +42,7 @@
       "id": "ancienne-belgique",
       "label": "Ancienne Belgique",
       "ok": true,
-      "count": 233
+      "count": 232
     },
     {
       "id": "magasin-4",
@@ -59,19 +60,19 @@
       "id": "vk-concerts",
       "label": "VK Concerts",
       "ok": true,
-      "count": 20
+      "count": 21
     },
     {
       "id": "wilde-westen",
       "label": "Wilde Westen (De Kreun)",
       "ok": true,
-      "count": 60
+      "count": 59
     },
     {
       "id": "kinky-star",
       "label": "Kinky Star",
       "ok": true,
-      "count": 25
+      "count": 24
     },
     {
       "id": "rockerill",
@@ -81,28 +82,6 @@
     }
   ],
   "events": [
-    {
-      "id": "2026-11-08-cave-aux-poetes-babe-haven",
-      "date": "2026-11-08",
-      "time": null,
-      "artist": "Babe Haven",
-      "support": [
-        "Latter"
-      ],
-      "venue": "La Cave aux Poètes",
-      "city": "Roubaix",
-      "country": "FR",
-      "genre": "Hardcore Punk",
-      "family": "Core / Hardcore",
-      "price": null,
-      "status": "onsale",
-      "ticketUrl": "https://caveauxpoetes.com/evenement/babe-haven-latter-muddle/",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_Babe_Haven___Latter_-_Tour_2026-278257.html",
-      "sources": [
-        "cave-aux-poetes",
-        "concerts-metal"
-      ]
-    },
     {
       "id": "2026-11-09-ancienne-belgique-enter-shikari",
       "date": "2026-11-09",
@@ -293,21 +272,20 @@
       "time": "20:00",
       "artist": "Cage Fight",
       "support": [
-        "Kabbel",
-        "Soul Splitter"
+        "Soul Splitter",
+        "Kabbel"
       ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Metalcore / Groove Metal",
+      "genre": "Metalcore",
       "family": "Core / Hardcore",
       "price": "26,80 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/cage-fight-soul-splitter-kabbel/",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_Cage_Fight_-_Tour_2026-264536.html",
+      "sourceUrl": "https://theblacklab.fr/agenda/cage-fight-soul-splitter-kabbel/",
       "sources": [
-        "black-lab",
-        "concerts-metal"
+        "black-lab"
       ]
     },
     {
@@ -667,24 +645,18 @@
       "date": "2027-01-14",
       "time": "19:00",
       "artist": "Rhapsody Of Fire",
-      "support": [
-        "Aeon Gods",
-        "Rock Out",
-        "Serious Black",
-        "Subterranean Masquerade"
-      ],
+      "support": [],
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Symphonic Power Metal",
+      "genre": "Power metal",
       "family": "Power / Prog",
       "price": "30 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/rhapsody-of-fire/",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_Motocultor_Across_Europe_Tour_2027-252235.html",
+      "sourceUrl": "https://theblacklab.fr/agenda/rhapsody-of-fire/",
       "sources": [
-        "black-lab",
-        "concerts-metal"
+        "black-lab"
       ]
     },
     {
@@ -772,22 +744,21 @@
       ]
     },
     {
-      "id": "2027-01-28-grand-mix-the-ocean",
+      "id": "2027-01-28-grand-mix-the-ocean-a-a-williams",
       "date": "2027-01-28",
       "time": "20:00",
-      "artist": "The Ocean",
+      "artist": "The Ocean + A.A. Williams",
       "support": [],
       "venue": "Le Grand Mix",
       "city": "Tourcoing",
       "country": "FR",
-      "genre": "Atmospheric Sludge Metal",
-      "family": "Post-metal",
+      "genre": "Metal",
+      "family": "Heavy / Thrash",
       "price": null,
       "status": "onsale",
       "ticketUrl": "https://www.legrandmix.com/agenda/the_ocean",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_The_Ocean_-_Solaris_Tour_2027-277429.html",
+      "sourceUrl": "https://www.legrandmix.com/agenda/the_ocean",
       "sources": [
-        "concerts-metal",
         "grand-mix"
       ]
     },
@@ -797,21 +768,20 @@
       "time": "20:00",
       "artist": "Resolve",
       "support": [
-        "SPLEEN",
-        "Silent Planet"
+        "Silent Planet",
+        "Spleen"
       ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Metalcore",
+      "genre": "Hardcore punk",
       "family": "Core / Hardcore",
       "price": "32 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/resolve-silent-planet-spleen/",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_Resolve_-_Tour_2027-250143.html",
+      "sourceUrl": "https://theblacklab.fr/agenda/resolve-silent-planet-spleen/",
       "sources": [
-        "black-lab",
-        "concerts-metal"
+        "black-lab"
       ]
     },
     {
@@ -845,15 +815,14 @@
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Melodic Death Metal",
+      "genre": "Melodic death metal",
       "family": "Death / Black",
       "price": "27 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/the-black-dahlia-murder/",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_The_Black_Dahlia_Murder_-_Two_Decades_of_Nocturnal_Tour_2027-258160.html",
+      "sourceUrl": "https://theblacklab.fr/agenda/the-black-dahlia-murder/",
       "sources": [
-        "black-lab",
-        "concerts-metal"
+        "black-lab"
       ]
     },
     {
@@ -1053,15 +1022,14 @@
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Black Metal",
+      "genre": "Atmospheric black metal",
       "family": "Death / Black",
       "price": "25 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/houle-can-bardd-galibot/",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_Houle_-_Goelophobia_Tour_2027-279504.html",
+      "sourceUrl": "https://theblacklab.fr/agenda/houle-can-bardd-galibot/",
       "sources": [
-        "black-lab",
-        "concerts-metal"
+        "black-lab"
       ]
     },
     {
@@ -1110,24 +1078,21 @@
       ]
     },
     {
-      "id": "2027-03-19-grand-mix-alcest",
+      "id": "2027-03-19-grand-mix-alcest-agriculture",
       "date": "2027-03-19",
       "time": "20:00",
-      "artist": "Alcest",
-      "support": [
-        "Agriculture"
-      ],
+      "artist": "Alcest + Agriculture",
+      "support": [],
       "venue": "Le Grand Mix",
       "city": "Tourcoing",
       "country": "FR",
-      "genre": "Blackgaze",
-      "family": "Death / Black",
+      "genre": "Metal",
+      "family": "Heavy / Thrash",
       "price": null,
       "status": "onsale",
       "ticketUrl": "https://www.legrandmix.com/agenda/alcest-agriculture",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_Alcest_-_Tour_2027-267478.html",
+      "sourceUrl": "https://www.legrandmix.com/agenda/alcest-agriculture",
       "sources": [
-        "concerts-metal",
         "grand-mix"
       ]
     },
@@ -1135,22 +1100,19 @@
       "id": "2027-03-20-black-lab-uuhai",
       "date": "2027-03-20",
       "time": "19:30",
-      "artist": "Uuhaï",
-      "support": [
-        "Acyl"
-      ],
+      "artist": "Uuhai",
+      "support": [],
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Folk Metal",
+      "genre": "Folk metal",
       "family": "Power / Prog",
       "price": "30 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/uuhai-2/",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_Uuhai___Acyl-255222.html",
+      "sourceUrl": "https://theblacklab.fr/agenda/uuhai-2/",
       "sources": [
-        "black-lab",
-        "concerts-metal"
+        "black-lab"
       ]
     },
     {

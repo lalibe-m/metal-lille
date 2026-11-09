@@ -932,6 +932,29 @@
   ],
   "checkedAt": "2026-10-27"
  },
+ "camel power club": {
+  "name": "Camel Power Club",
+  "id": "50ff982e-6da3-4116-b648-166a87c302bd",
+  "tags": [
+   {
+    "name": "indie",
+    "count": 1
+   },
+   {
+    "name": "electronic surf music",
+    "count": 1
+   },
+   {
+    "name": "pop",
+    "count": 1
+   },
+   {
+    "name": "alternative",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-09"
+ },
  "cameron whitcomb": {
   "name": "Cameron Whitcomb",
   "id": "87ac8ea4-4663-4d81-8f6a-8a80e318e9ec",
@@ -4587,6 +4610,17 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "martin luke brown": {
+  "name": "Martin Luke Brown",
+  "id": "79aaf5c5-c0d8-4f8a-ab80-f5c93b417a53",
+  "tags": [
+   {
+    "name": "martin luke brown",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-09"
+ },
  "master boot record": {
   "name": "MASTER BOOT RECORD",
   "id": "604dd351-5f3a-479f-b33a-615db3b2dcfb",
@@ -7365,6 +7399,29 @@
    }
   ],
   "checkedAt": "2026-10-27"
+ },
+ "the sheepdogs": {
+  "name": "The Sheepdogs",
+  "id": "5b03776b-6987-4ccb-81ed-1c5fe00f9dfa",
+  "tags": [
+   {
+    "name": "southern rock",
+    "count": 2
+   },
+   {
+    "name": "blues rock",
+    "count": 2
+   },
+   {
+    "name": "rock",
+    "count": 2
+   },
+   {
+    "name": "boogie rock",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-09"
  },
  "the sound of the belgian underground": {
   "name": "The Sound of the Belgian Underground",
