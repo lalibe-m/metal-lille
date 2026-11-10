@@ -1,18 +1,17 @@
 {
-  "updatedAt": "2026-11-09T12:56:23.318Z",
+  "updatedAt": "2026-11-10T12:44:01.263Z",
   "sources": [
     {
       "id": "concerts-metal",
       "label": "concerts-metal.com",
-      "ok": false,
-      "count": 0,
-      "error": "HTTP 403 sur https://lille.concerts-metal.com/"
+      "ok": true,
+      "count": 37
     },
     {
       "id": "black-lab",
       "label": "The Black Lab",
       "ok": true,
-      "count": 26
+      "count": 25
     },
     {
       "id": "aeronef",
@@ -24,7 +23,7 @@
       "id": "grand-mix",
       "label": "Le Grand Mix",
       "ok": true,
-      "count": 46
+      "count": 47
     },
     {
       "id": "cave-aux-poetes",
@@ -48,7 +47,7 @@
       "id": "magasin-4",
       "label": "Magasin 4",
       "ok": true,
-      "count": 15
+      "count": 16
     },
     {
       "id": "botanique",
@@ -66,13 +65,13 @@
       "id": "wilde-westen",
       "label": "Wilde Westen (De Kreun)",
       "ok": true,
-      "count": 59
+      "count": 58
     },
     {
       "id": "kinky-star",
       "label": "Kinky Star",
       "ok": true,
-      "count": 24
+      "count": 25
     },
     {
       "id": "rockerill",
@@ -82,28 +81,6 @@
     }
   ],
   "events": [
-    {
-      "id": "2026-11-09-ancienne-belgique-enter-shikari",
-      "date": "2026-11-09",
-      "time": "18:30",
-      "artist": "Enter Shikari",
-      "support": [
-        "Holding Absence",
-        "The Callous Daoboys"
-      ],
-      "venue": "Ancienne Belgique",
-      "city": "Bruxelles",
-      "country": "BE",
-      "genre": "Post-hardcore",
-      "family": "Core / Hardcore",
-      "price": null,
-      "status": "onsale",
-      "ticketUrl": "https://www.abconcerts.be/fr/agenda/enter-shikari/a10Qw00000IRNPZIA5",
-      "sourceUrl": "https://www.abconcerts.be/fr/agenda/enter-shikari/a10Qw00000IRNPZIA5",
-      "sources": [
-        "ancienne-belgique"
-      ]
-    },
     {
       "id": "2026-11-11-theatre-sebastopol-the-5-rosies",
       "date": "2026-11-11",
@@ -272,20 +249,21 @@
       "time": "20:00",
       "artist": "Cage Fight",
       "support": [
-        "Soul Splitter",
-        "Kabbel"
+        "Kabbel",
+        "Soul Splitter"
       ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Metalcore",
+      "genre": "Metalcore / Groove Metal",
       "family": "Core / Hardcore",
       "price": "26,80 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/cage-fight-soul-splitter-kabbel/",
-      "sourceUrl": "https://theblacklab.fr/agenda/cage-fight-soul-splitter-kabbel/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Cage_Fight_-_Tour_2026-264536.html",
       "sources": [
-        "black-lab"
+        "black-lab",
+        "concerts-metal"
       ]
     },
     {
@@ -645,18 +623,24 @@
       "date": "2027-01-14",
       "time": "19:00",
       "artist": "Rhapsody Of Fire",
-      "support": [],
+      "support": [
+        "Aeon Gods",
+        "Rock Out",
+        "Serious Black",
+        "Subterranean Masquerade"
+      ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Power metal",
+      "genre": "Symphonic Power Metal",
       "family": "Power / Prog",
       "price": "30 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/rhapsody-of-fire/",
-      "sourceUrl": "https://theblacklab.fr/agenda/rhapsody-of-fire/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Motocultor_Across_Europe_Tour_2027-252235.html",
       "sources": [
-        "black-lab"
+        "black-lab",
+        "concerts-metal"
       ]
     },
     {
@@ -744,21 +728,22 @@
       ]
     },
     {
-      "id": "2027-01-28-grand-mix-the-ocean-a-a-williams",
+      "id": "2027-01-28-grand-mix-the-ocean",
       "date": "2027-01-28",
       "time": "20:00",
-      "artist": "The Ocean + A.A. Williams",
+      "artist": "The Ocean",
       "support": [],
       "venue": "Le Grand Mix",
       "city": "Tourcoing",
       "country": "FR",
-      "genre": "Metal",
-      "family": "Heavy / Thrash",
+      "genre": "Atmospheric Sludge Metal",
+      "family": "Post-metal",
       "price": null,
       "status": "onsale",
       "ticketUrl": "https://www.legrandmix.com/agenda/the_ocean",
-      "sourceUrl": "https://www.legrandmix.com/agenda/the_ocean",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_The_Ocean_-_Solaris_Tour_2027-277429.html",
       "sources": [
+        "concerts-metal",
         "grand-mix"
       ]
     },
@@ -768,20 +753,21 @@
       "time": "20:00",
       "artist": "Resolve",
       "support": [
-        "Silent Planet",
-        "Spleen"
+        "SPLEEN",
+        "Silent Planet"
       ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Hardcore punk",
+      "genre": "Metalcore",
       "family": "Core / Hardcore",
       "price": "32 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/resolve-silent-planet-spleen/",
-      "sourceUrl": "https://theblacklab.fr/agenda/resolve-silent-planet-spleen/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Resolve_-_Tour_2027-250143.html",
       "sources": [
-        "black-lab"
+        "black-lab",
+        "concerts-metal"
       ]
     },
     {
@@ -815,14 +801,15 @@
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Melodic death metal",
+      "genre": "Melodic Death Metal",
       "family": "Death / Black",
       "price": "27 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/the-black-dahlia-murder/",
-      "sourceUrl": "https://theblacklab.fr/agenda/the-black-dahlia-murder/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_The_Black_Dahlia_Murder_-_Two_Decades_of_Nocturnal_Tour_2027-258160.html",
       "sources": [
-        "black-lab"
+        "black-lab",
+        "concerts-metal"
       ]
     },
     {
@@ -1022,14 +1009,15 @@
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Atmospheric black metal",
+      "genre": "Black Metal",
       "family": "Death / Black",
       "price": "25 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/houle-can-bardd-galibot/",
-      "sourceUrl": "https://theblacklab.fr/agenda/houle-can-bardd-galibot/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Houle_-_Goelophobia_Tour_2027-279504.html",
       "sources": [
-        "black-lab"
+        "black-lab",
+        "concerts-metal"
       ]
     },
     {
@@ -1078,21 +1066,24 @@
       ]
     },
     {
-      "id": "2027-03-19-grand-mix-alcest-agriculture",
+      "id": "2027-03-19-grand-mix-alcest",
       "date": "2027-03-19",
       "time": "20:00",
-      "artist": "Alcest + Agriculture",
-      "support": [],
+      "artist": "Alcest",
+      "support": [
+        "Agriculture"
+      ],
       "venue": "Le Grand Mix",
       "city": "Tourcoing",
       "country": "FR",
-      "genre": "Metal",
-      "family": "Heavy / Thrash",
+      "genre": "Blackgaze",
+      "family": "Death / Black",
       "price": null,
       "status": "onsale",
       "ticketUrl": "https://www.legrandmix.com/agenda/alcest-agriculture",
-      "sourceUrl": "https://www.legrandmix.com/agenda/alcest-agriculture",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Alcest_-_Tour_2027-267478.html",
       "sources": [
+        "concerts-metal",
         "grand-mix"
       ]
     },
@@ -1100,19 +1091,22 @@
       "id": "2027-03-20-black-lab-uuhai",
       "date": "2027-03-20",
       "time": "19:30",
-      "artist": "Uuhai",
-      "support": [],
+      "artist": "Uuhaï",
+      "support": [
+        "Acyl"
+      ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Folk metal",
+      "genre": "Folk Metal",
       "family": "Power / Prog",
       "price": "30 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/uuhai-2/",
-      "sourceUrl": "https://theblacklab.fr/agenda/uuhai-2/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Uuhai___Acyl-255222.html",
       "sources": [
-        "black-lab"
+        "black-lab",
+        "concerts-metal"
       ]
     },
     {
@@ -1212,6 +1206,25 @@
       "sourceUrl": "https://www.kinkystar.com/nl/events/2027-03-26-trve-stvr-leed-be-valknir-be",
       "sources": [
         "kinky-star"
+      ]
+    },
+    {
+      "id": "2027-03-30-ancienne-belgique-the-bronx-mariachi-el-bronx",
+      "date": "2027-03-30",
+      "time": "19:00",
+      "artist": "The Bronx / Mariachi El Bronx",
+      "support": [],
+      "venue": "Ancienne Belgique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Heavy",
+      "family": "Heavy / Thrash",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://www.abconcerts.be/fr/agenda/the-bronx-mariachi-el-bronx/a10Qw00000PZoV3IAL",
+      "sourceUrl": "https://www.abconcerts.be/fr/agenda/the-bronx-mariachi-el-bronx/a10Qw00000PZoV3IAL",
+      "sources": [
+        "ancienne-belgique"
       ]
     },
     {

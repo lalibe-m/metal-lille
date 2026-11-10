@@ -1096,6 +1096,12 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "chest": {
+  "name": "chest.",
+  "id": "0c1a1419-6e6e-4343-ab29-319bbcfb9c4f",
+  "tags": [],
+  "checkedAt": "2026-11-10"
+ },
  "children of simone": {
   "name": "Children Of Simone",
   "id": "bedc7067-3d17-4123-8d24-b8ad1f49677e",
@@ -1815,6 +1821,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "echte vriendskap": {
+  "name": "ECHTE VRIENDSKAP",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-10"
+ },
  "edouard van praet": {
   "name": "Edouard van Praet",
   "id": "63573255-3505-4ca8-9e1a-3da6d266585e",
@@ -2380,6 +2392,12 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "gans cowboy hunters": {
+  "name": "GANS + COWBOY HUNTERS",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-10"
  },
  "gelukkig zijn sessie": {
   "name": "Gelukkig Zijn Sessie",
@@ -3858,6 +3876,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "kick off 2026 dj contest": {
+  "name": "Kick-Off 2026 : DJ CONTEST",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-10"
+ },
  "kick off dj contest": {
   "name": "Kick-Off : DJ Contest",
   "id": null,
@@ -4621,6 +4645,33 @@
   ],
   "checkedAt": "2026-11-09"
  },
+ "maruja": {
+  "name": "Maruja",
+  "id": "91af52ad-77b0-488e-b648-bf65ac695539",
+  "tags": [
+   {
+    "name": "post-rock",
+    "count": 1
+   },
+   {
+    "name": "post-punk",
+    "count": 1
+   },
+   {
+    "name": "jazz rock",
+    "count": 1
+   },
+   {
+    "name": "art rock",
+    "count": 1
+   },
+   {
+    "name": "art punk",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-10"
+ },
  "master boot record": {
   "name": "MASTER BOOT RECORD",
   "id": "604dd351-5f3a-479f-b33a-615db3b2dcfb",
@@ -4891,6 +4942,45 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "moe": {
+  "name": "Moe",
+  "id": "a8099118-8a7a-4548-a423-fd9a190d49aa",
+  "tags": [
+   {
+    "name": "rock",
+    "count": 1
+   },
+   {
+    "name": "alternative rock",
+    "count": 1
+   },
+   {
+    "name": "noiserock",
+    "count": 1
+   },
+   {
+    "name": "sludge",
+    "count": 1
+   },
+   {
+    "name": "avant-garde",
+    "count": 1
+   },
+   {
+    "name": "experiemental",
+    "count": 1
+   },
+   {
+    "name": "noise",
+    "count": 1
+   },
+   {
+    "name": "noise rock",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-10"
  },
  "moha mmz": {
   "name": "Moha MMZ",
@@ -5865,6 +5955,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "prima queen": {
+  "name": "Prima Queen",
+  "id": "2e1c52f0-71c4-47fe-a1a4-fc025b083672",
+  "tags": [],
+  "checkedAt": "2026-11-10"
+ },
  "primero": {
   "name": "Primero",
   "id": "beb0d47d-d6a9-4140-bc5c-a67ee2070acb",
@@ -5995,6 +6091,12 @@
   "id": "be6ba911-4057-4bda-940c-8568cc69ef84",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "queer in roubaix acte 2": {
+  "name": "Queer In Roubaix ACTE 2",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-10"
  },
  "rachel chinouriri": {
   "name": "Rachel Chinouriri",
@@ -6146,6 +6248,36 @@
    }
   ],
   "checkedAt": "2026-10-27"
+ },
+ "ridgeclub": {
+  "name": "Ridgeclub",
+  "id": "f7267ae2-c579-41b5-9fa2-17dab2c2b0f7",
+  "tags": [
+   {
+    "name": "jazz",
+    "count": 1
+   },
+   {
+    "name": "blues",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-10"
+ },
+ "rip magic": {
+  "name": "RIP Magic",
+  "id": "9109582c-cc24-49ae-bc03-ccb9c7c30966",
+  "tags": [
+   {
+    "name": "electronic",
+    "count": 1
+   },
+   {
+    "name": "dance-punk",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-10"
  },
  "robbing millions": {
   "name": "Robbing Millions",
@@ -6999,6 +7131,12 @@
   ],
   "checkedAt": "2026-10-27"
  },
+ "the bronx mariachi el bronx": {
+  "name": "The Bronx / Mariachi El Bronx",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-10"
+ },
  "the chats": {
   "name": "The Chats",
   "id": "aafe3816-2d68-4528-adda-d68514c940d4",
@@ -7086,6 +7224,41 @@
   "id": "6a8ff5a5-81a7-4616-845f-07702ddeb82a",
   "tags": [],
   "checkedAt": "2026-10-29"
+ },
+ "the dead south": {
+  "name": "The Dead South",
+  "id": "ffb316f0-0df3-4f9c-b0e0-945187b6e964",
+  "tags": [
+   {
+    "name": "bluegrass",
+    "count": 4
+   },
+   {
+    "name": "folk",
+    "count": 3
+   },
+   {
+    "name": "americana",
+    "count": 3
+   },
+   {
+    "name": "folk rock",
+    "count": 2
+   },
+   {
+    "name": "rock",
+    "count": 1
+   },
+   {
+    "name": "bluegrass fusion",
+    "count": 1
+   },
+   {
+    "name": "alt-folk",
+    "count": 0
+   }
+  ],
+  "checkedAt": "2026-11-10"
  },
  "the ex brass unbound": {
   "name": "The Ex & Brass Unbound",
@@ -8109,6 +8282,12 @@
    }
   ],
   "checkedAt": "2026-10-27"
+ },
+ "wishy": {
+  "name": "Wishy",
+  "id": "30f10b3a-cd98-414d-b7e5-336931335f42",
+  "tags": [],
+  "checkedAt": "2026-11-10"
  },
  "wisselstroom w jasss rare mamba": {
   "name": "WISSELSTROOM w/ JASSS & Rare Mamba",
