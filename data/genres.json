@@ -1370,6 +1370,17 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "danielle ponder": {
+  "name": "Danielle Ponder",
+  "id": "e7765329-e8ed-4f84-a69b-394212b631dd",
+  "tags": [
+   {
+    "name": "r&b",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-11"
+ },
  "daoud": {
   "name": "daoud",
   "id": "0d56df5b-9a94-42cc-9590-5bb42daecb63",
@@ -1453,6 +1464,21 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "david eugene edwards": {
+  "name": "David Eugene Edwards",
+  "id": "567533af-f026-4923-b5d3-16fd50776b69",
+  "tags": [
+   {
+    "name": "rock",
+    "count": 1
+   },
+   {
+    "name": "gothic americana",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-11"
  },
  "de grote crate records muziekquiz": {
   "name": "De Grote Crate Records Muziekquiz!",
@@ -1663,6 +1689,25 @@
   "id": "469bbabe-e54e-4c9c-b433-1f446237de28",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "dirty projectors": {
+  "name": "Dirty Projectors",
+  "id": "71a94ed8-03cc-459a-bd35-a081ca88a402",
+  "tags": [
+   {
+    "name": "post-rock",
+    "count": 1
+   },
+   {
+    "name": "indie",
+    "count": 1
+   },
+   {
+    "name": "avant-garde",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-11"
  },
  "dirty sound magnet": {
   "name": "Dirty Sound Magnet",
@@ -2280,6 +2325,41 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "flower face": {
+  "name": "Flower Face",
+  "id": "24db1f15-509d-48a4-a410-b33fe131878b",
+  "tags": [
+   {
+    "name": "singer-songwriter",
+    "count": 2
+   },
+   {
+    "name": "indie pop",
+    "count": 2
+   },
+   {
+    "name": "dream pop",
+    "count": 2
+   },
+   {
+    "name": "bedroom pop",
+    "count": 2
+   },
+   {
+    "name": "gothic folk",
+    "count": 0
+   },
+   {
+    "name": "alliteration",
+    "count": 0
+   },
+   {
+    "name": "cinematic indie rock",
+    "count": 0
+   }
+  ],
+  "checkedAt": "2026-11-11"
  },
  "folie s": {
   "name": "Folie's",
@@ -3922,6 +4002,12 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "kinky kapot kristmas": {
+  "name": "KINKY KAPOT KRISTMAS",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-11"
+ },
  "kiwi jr": {
   "name": "Kiwi Jr.",
   "id": "64598fd8-5d7c-441d-a936-e1fc13d5a4f6",
@@ -4132,6 +4218,41 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "laura gibson": {
+  "name": "Laura Gibson",
+  "id": "002379ce-27d5-4084-9a5d-4fd28335d9cb",
+  "tags": [
+   {
+    "name": "american",
+    "count": 1
+   },
+   {
+    "name": "singer",
+    "count": 1
+   },
+   {
+    "name": "usa",
+    "count": 1
+   },
+   {
+    "name": "indie",
+    "count": 1
+   },
+   {
+    "name": "américain",
+    "count": 1
+   },
+   {
+    "name": "indie folk",
+    "count": 1
+   },
+   {
+    "name": "chanteur",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-11"
  },
  "laurene marx rok dudu": {
   "name": "Laurène Marx, Rok&Dudu",
@@ -4880,6 +5001,12 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "mietze conte": {
+  "name": "Mietze Conte",
+  "id": "f9d0095f-7bcc-4992-8cb8-232ec819c41b",
+  "tags": [],
+  "checkedAt": "2026-11-11"
+ },
  "mike d 5d": {
   "name": "MIKE D 5D",
   "id": null,
@@ -5258,6 +5385,12 @@
   "id": "15db54df-a4b5-4f93-9905-62829f492024",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "new wave experience": {
+  "name": "New Wave Experience",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-11"
  },
  "night lives kristine tj gersen": {
   "name": "NIGHT LIVES | Kristine Tjøgersen",
@@ -7752,6 +7885,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "thunderwadde": {
+  "name": "Thunderwadde?",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-11"
+ },
  "thylacine": {
   "name": "THYLACINE",
   "id": "e095407c-4103-4c66-b616-0dab1db05106",
@@ -8065,6 +8204,18 @@
   "id": "c4a6c1ca-0986-4583-8345-d0f23414ea7a",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "v ksaar presents rougheure": {
+  "name": "V-Ksaar presents ROUGHEURE",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-11"
+ },
+ "v kurated 19": {
+  "name": "V-Kurated #19",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-11"
  },
  "vernis rouge": {
   "name": "Vernis Rouge",

@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-11-10T12:44:01.263Z",
+  "updatedAt": "2026-11-11T11:56:05.764Z",
   "sources": [
     {
       "id": "concerts-metal",
       "label": "concerts-metal.com",
       "ok": true,
-      "count": 37
+      "count": 35
     },
     {
       "id": "black-lab",
       "label": "The Black Lab",
       "ok": true,
-      "count": 25
+      "count": 26
     },
     {
       "id": "aeronef",
       "label": "L'Aéronef",
       "ok": true,
-      "count": 69
+      "count": 712
     },
     {
       "id": "grand-mix",
       "label": "Le Grand Mix",
       "ok": true,
-      "count": 47
+      "count": 46
     },
     {
       "id": "cave-aux-poetes",
@@ -41,13 +41,13 @@
       "id": "ancienne-belgique",
       "label": "Ancienne Belgique",
       "ok": true,
-      "count": 232
+      "count": 229
     },
     {
       "id": "magasin-4",
       "label": "Magasin 4",
       "ok": true,
-      "count": 16
+      "count": 15
     },
     {
       "id": "botanique",
@@ -59,7 +59,7 @@
       "id": "vk-concerts",
       "label": "VK Concerts",
       "ok": true,
-      "count": 21
+      "count": 23
     },
     {
       "id": "wilde-westen",
@@ -71,7 +71,7 @@
       "id": "kinky-star",
       "label": "Kinky Star",
       "ok": true,
-      "count": 25
+      "count": 28
     },
     {
       "id": "rockerill",
@@ -595,6 +595,25 @@
       "sourceUrl": "https://www.rockerill.com/agenda/hell-is-here-the-prestige-atum-nophi-51956/",
       "sources": [
         "rockerill"
+      ]
+    },
+    {
+      "id": "2026-12-18-kinky-star-kinky-kapot-kristmas",
+      "date": "2026-12-18",
+      "time": "21:00",
+      "artist": "KINKY KAPOT KRISTMAS",
+      "support": [],
+      "venue": "Kinky Star",
+      "city": "Gent",
+      "country": "BE",
+      "genre": "Rock / Metal",
+      "family": "Heavy / Thrash",
+      "price": "Gratuit",
+      "status": "onsale",
+      "ticketUrl": "https://www.kinkystar.com/nl/events/2026-12-18-kinky-kapot-kristmas",
+      "sourceUrl": "https://www.kinkystar.com/nl/events/2026-12-18-kinky-kapot-kristmas",
+      "sources": [
+        "kinky-star"
       ]
     },
     {
