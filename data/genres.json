@@ -293,6 +293,12 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "ambtenarenbal 2027": {
+  "name": "Ambtenarenbal 2027",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-12"
+ },
  "an evening with avishai cohen": {
   "name": "An evening with Avishai Cohen",
   "id": null,
@@ -810,6 +816,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "bonnacons of doom": {
+  "name": "Bonnacons of Doom",
+  "id": "87b6ebb9-2fa0-4af8-81a5-3f46b1eac6b1",
+  "tags": [],
+  "checkedAt": "2026-11-12"
+ },
  "bonnie prince billy": {
   "name": "Bonnie 'Prince' Billy",
   "id": "7b0a63b2-b8e8-490e-b724-1d30cb5edfe3",
@@ -862,6 +874,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-11-06"
+ },
+ "brainstory": {
+  "name": "Brainstory",
+  "id": "b4b34d3d-acc0-44e9-a55f-1e47d3a0947a",
+  "tags": [],
+  "checkedAt": "2026-11-12"
  },
  "brooke combe": {
   "name": "Brooke Combe",
@@ -1051,6 +1069,12 @@
   "id": "00a8bd6b-4cb2-491c-8fe5-3fca06909973",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "changement de salle cage fight": {
+  "name": "[changement De Salle] Cage Fight",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-12"
  },
  "channel zero": {
   "name": "Channel Zero",
@@ -1331,11 +1355,48 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "dad magic": {
+  "name": "Dad Magic",
+  "id": "f71b203c-45ef-4532-86c1-dc99f8a93e18",
+  "tags": [],
+  "checkedAt": "2026-11-12"
+ },
  "dalaidrama dewaere": {
   "name": "DALAÏDRAMA Dewaere",
   "id": null,
   "tags": [],
   "checkedAt": "2026-11-06"
+ },
+ "dali": {
+  "name": "DALÍ",
+  "id": "c33d50c4-7eca-4922-93a0-ba5fc9ce1733",
+  "tags": [
+   {
+    "name": "metalcore",
+    "count": 3
+   },
+   {
+    "name": "mathcore",
+    "count": 3
+   },
+   {
+    "name": "djent",
+    "count": 3
+   },
+   {
+    "name": "progressive metal",
+    "count": 2
+   },
+   {
+    "name": "progressive",
+    "count": 2
+   },
+   {
+    "name": "progressive metalcore",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-12"
  },
  "dan english": {
   "name": "Dan English",
@@ -1742,6 +1803,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "dizzy dros": {
+  "name": "Dizzy Dros",
+  "id": "02131bee-c8b8-416b-825a-6a4fab77e0bc",
+  "tags": [],
+  "checkedAt": "2026-11-12"
+ },
  "django": {
   "name": "Django",
   "id": "30af2286-6617-4029-b623-345eae2fc801",
@@ -1773,6 +1840,12 @@
   "id": "64103b07-df5d-45ae-93dc-48efc594b878",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "down to insanity": {
+  "name": "Down To Insanity",
+  "id": "46a8041e-7ff0-4faf-a635-c15f0b25b4bc",
+  "tags": [],
+  "checkedAt": "2026-11-12"
  },
  "drag king": {
   "name": "Drag King",
@@ -2679,6 +2752,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "greek": {
+  "name": "greek",
+  "id": "9308287d-5840-487d-8891-58a6d3fe09d9",
+  "tags": [],
+  "checkedAt": "2026-11-12"
  },
  "green crow collective": {
   "name": "Green Crow Collective",
@@ -4469,6 +4548,12 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "lou doillon": {
+  "name": "Lou Doillon",
+  "id": "d0195795-949b-4e8a-bfd5-5cac50345d59",
+  "tags": [],
+  "checkedAt": "2026-11-12"
+ },
  "lovelace": {
   "name": "Lovelace",
   "id": "b9d4c721-9b6f-41dc-9edb-aca2f55a2adc",
@@ -5362,6 +5447,12 @@
   "id": "c3814031-fbea-4e71-9b8b-47392c8df52e",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "nem ensemble pool of sound eerste voorstelling": {
+  "name": "NEMØ ENSEMBLE: POOL OF SOUND (eerste voorstelling)",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-12"
  },
  "neptune": {
   "name": "Neptune",

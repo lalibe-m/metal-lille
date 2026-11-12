@@ -1,11 +1,12 @@
 {
-  "updatedAt": "2026-11-11T11:56:05.764Z",
+  "updatedAt": "2026-11-12T12:47:51.102Z",
   "sources": [
     {
       "id": "concerts-metal",
       "label": "concerts-metal.com",
-      "ok": true,
-      "count": 35
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 403 sur https://lille.concerts-metal.com/"
     },
     {
       "id": "black-lab",
@@ -17,7 +18,7 @@
       "id": "aeronef",
       "label": "L'Aéronef",
       "ok": true,
-      "count": 712
+      "count": 720
     },
     {
       "id": "grand-mix",
@@ -29,7 +30,7 @@
       "id": "cave-aux-poetes",
       "label": "La Cave aux Poètes",
       "ok": true,
-      "count": 11
+      "count": 10
     },
     {
       "id": "metaphone",
@@ -41,13 +42,13 @@
       "id": "ancienne-belgique",
       "label": "Ancienne Belgique",
       "ok": true,
-      "count": 229
+      "count": 228
     },
     {
       "id": "magasin-4",
       "label": "Magasin 4",
       "ok": true,
-      "count": 15
+      "count": 16
     },
     {
       "id": "botanique",
@@ -71,7 +72,7 @@
       "id": "kinky-star",
       "label": "Kinky Star",
       "ok": true,
-      "count": 28
+      "count": 27
     },
     {
       "id": "rockerill",
@@ -81,46 +82,6 @@
     }
   ],
   "events": [
-    {
-      "id": "2026-11-11-theatre-sebastopol-the-5-rosies",
-      "date": "2026-11-11",
-      "time": "20:00",
-      "artist": "The 5 Rosies",
-      "support": [],
-      "venue": "Théâtre Sébastopol",
-      "city": "Lille",
-      "country": "FR",
-      "genre": "Tribute AC/DC",
-      "family": "Tributes",
-      "price": "36 – 55 €",
-      "status": "onsale",
-      "ticketUrl": "https://www.ticketmaster.fr/fr/manifestation/the-5-rosies-tribute-to-ac-dc-billet/idmanif/646664/idtier/6698995",
-      "sourceUrl": "https://theatre-sebastopol.fr/spectacle/the-5-rosies/",
-      "sources": [
-        "manuel"
-      ]
-    },
-    {
-      "id": "2026-11-11-kinky-star-sotabosc",
-      "date": "2026-11-11",
-      "time": "21:00",
-      "artist": "Sotabosc",
-      "support": [
-        "Juneau"
-      ],
-      "venue": "Kinky Star",
-      "city": "Gent",
-      "country": "BE",
-      "genre": "Black metal",
-      "family": "Death / Black",
-      "price": "Gratuit",
-      "status": "onsale",
-      "ticketUrl": "https://www.kinkystar.com/nl/events/2026-11-11-nnc-sotabosc-es-juneau-be",
-      "sourceUrl": "https://www.kinkystar.com/nl/events/2026-11-11-nnc-sotabosc-es-juneau-be",
-      "sources": [
-        "kinky-star"
-      ]
-    },
     {
       "id": "2026-11-12-magasin-4-big-brave",
       "date": "2026-11-12",
@@ -201,18 +162,18 @@
       ]
     },
     {
-      "id": "2026-11-14-rockerill-hippotraktor",
+      "id": "2026-11-14-rockerill-down-to-insanity",
       "date": "2026-11-14",
       "time": "20:00",
-      "artist": "Hippotraktor",
+      "artist": "Down To Insanity",
       "support": [
-        "Down To Insanity"
+        "Hippotraktor"
       ],
       "venue": "Rockerill",
       "city": "Charleroi",
       "country": "BE",
-      "genre": "Progressive metal",
-      "family": "Power / Prog",
+      "genre": "Black Metal / Deathcore / Death Metal / Progressive / Sludge / Brutal",
+      "family": "Death / Black",
       "price": "15 €",
       "status": "onsale",
       "ticketUrl": "https://shop.utick.net/?module=ACTIVITYSERIEDETAILS&pos=ROCKERILL&s=C40D359F-C34D-8725-FD27-EA56613DE784",
@@ -269,7 +230,7 @@
     {
       "id": "2026-11-16-ancienne-belgique-president",
       "date": "2026-11-16",
-      "time": "19:00",
+      "time": "18:30",
       "artist": "PRESIDENT",
       "support": [
         "Vianova",
@@ -598,11 +559,13 @@
       ]
     },
     {
-      "id": "2026-12-18-kinky-star-kinky-kapot-kristmas",
+      "id": "2026-12-18-kinky-star-dad-magic",
       "date": "2026-12-18",
       "time": "21:00",
-      "artist": "KINKY KAPOT KRISTMAS",
-      "support": [],
+      "artist": "Dad Magic",
+      "support": [
+        "Lain Fallow"
+      ],
       "venue": "Kinky Star",
       "city": "Gent",
       "country": "BE",
@@ -610,8 +573,8 @@
       "family": "Heavy / Thrash",
       "price": "Gratuit",
       "status": "onsale",
-      "ticketUrl": "https://www.kinkystar.com/nl/events/2026-12-18-kinky-kapot-kristmas",
-      "sourceUrl": "https://www.kinkystar.com/nl/events/2026-12-18-kinky-kapot-kristmas",
+      "ticketUrl": "https://www.kinkystar.com/nl/events/2026-12-18-kinky-kapot-kristmas-dad-magic-be-lain-fallow-be-",
+      "sourceUrl": "https://www.kinkystar.com/nl/events/2026-12-18-kinky-kapot-kristmas-dad-magic-be-lain-fallow-be-",
       "sources": [
         "kinky-star"
       ]
@@ -642,24 +605,18 @@
       "date": "2027-01-14",
       "time": "19:00",
       "artist": "Rhapsody Of Fire",
-      "support": [
-        "Aeon Gods",
-        "Rock Out",
-        "Serious Black",
-        "Subterranean Masquerade"
-      ],
+      "support": [],
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Symphonic Power Metal",
+      "genre": "Power metal",
       "family": "Power / Prog",
       "price": "30 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/rhapsody-of-fire/",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_Motocultor_Across_Europe_Tour_2027-252235.html",
+      "sourceUrl": "https://theblacklab.fr/agenda/rhapsody-of-fire/",
       "sources": [
-        "black-lab",
-        "concerts-metal"
+        "black-lab"
       ]
     },
     {
@@ -747,22 +704,21 @@
       ]
     },
     {
-      "id": "2027-01-28-grand-mix-the-ocean",
+      "id": "2027-01-28-grand-mix-the-ocean-a-a-williams",
       "date": "2027-01-28",
       "time": "20:00",
-      "artist": "The Ocean",
+      "artist": "The Ocean + A.A. Williams",
       "support": [],
       "venue": "Le Grand Mix",
       "city": "Tourcoing",
       "country": "FR",
-      "genre": "Atmospheric Sludge Metal",
-      "family": "Post-metal",
+      "genre": "Metal",
+      "family": "Heavy / Thrash",
       "price": null,
       "status": "onsale",
       "ticketUrl": "https://www.legrandmix.com/agenda/the_ocean",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_The_Ocean_-_Solaris_Tour_2027-277429.html",
+      "sourceUrl": "https://www.legrandmix.com/agenda/the_ocean",
       "sources": [
-        "concerts-metal",
         "grand-mix"
       ]
     },
@@ -772,21 +728,20 @@
       "time": "20:00",
       "artist": "Resolve",
       "support": [
-        "SPLEEN",
-        "Silent Planet"
+        "Silent Planet",
+        "Spleen"
       ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Metalcore",
+      "genre": "Hardcore punk",
       "family": "Core / Hardcore",
       "price": "32 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/resolve-silent-planet-spleen/",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_Resolve_-_Tour_2027-250143.html",
+      "sourceUrl": "https://theblacklab.fr/agenda/resolve-silent-planet-spleen/",
       "sources": [
-        "black-lab",
-        "concerts-metal"
+        "black-lab"
       ]
     },
     {
@@ -820,15 +775,14 @@
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Melodic Death Metal",
+      "genre": "Melodic death metal",
       "family": "Death / Black",
       "price": "27 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/the-black-dahlia-murder/",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_The_Black_Dahlia_Murder_-_Two_Decades_of_Nocturnal_Tour_2027-258160.html",
+      "sourceUrl": "https://theblacklab.fr/agenda/the-black-dahlia-murder/",
       "sources": [
-        "black-lab",
-        "concerts-metal"
+        "black-lab"
       ]
     },
     {
@@ -1028,15 +982,14 @@
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Black Metal",
+      "genre": "Atmospheric black metal",
       "family": "Death / Black",
       "price": "25 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/houle-can-bardd-galibot/",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_Houle_-_Goelophobia_Tour_2027-279504.html",
+      "sourceUrl": "https://theblacklab.fr/agenda/houle-can-bardd-galibot/",
       "sources": [
-        "black-lab",
-        "concerts-metal"
+        "black-lab"
       ]
     },
     {
@@ -1085,24 +1038,21 @@
       ]
     },
     {
-      "id": "2027-03-19-grand-mix-alcest",
+      "id": "2027-03-19-grand-mix-alcest-agriculture",
       "date": "2027-03-19",
       "time": "20:00",
-      "artist": "Alcest",
-      "support": [
-        "Agriculture"
-      ],
+      "artist": "Alcest + Agriculture",
+      "support": [],
       "venue": "Le Grand Mix",
       "city": "Tourcoing",
       "country": "FR",
-      "genre": "Blackgaze",
-      "family": "Death / Black",
+      "genre": "Metal",
+      "family": "Heavy / Thrash",
       "price": null,
       "status": "onsale",
       "ticketUrl": "https://www.legrandmix.com/agenda/alcest-agriculture",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_Alcest_-_Tour_2027-267478.html",
+      "sourceUrl": "https://www.legrandmix.com/agenda/alcest-agriculture",
       "sources": [
-        "concerts-metal",
         "grand-mix"
       ]
     },
@@ -1110,22 +1060,19 @@
       "id": "2027-03-20-black-lab-uuhai",
       "date": "2027-03-20",
       "time": "19:30",
-      "artist": "Uuhaï",
-      "support": [
-        "Acyl"
-      ],
+      "artist": "Uuhai",
+      "support": [],
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Folk Metal",
+      "genre": "Folk metal",
       "family": "Power / Prog",
       "price": "30 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/uuhai-2/",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_Uuhai___Acyl-255222.html",
+      "sourceUrl": "https://theblacklab.fr/agenda/uuhai-2/",
       "sources": [
-        "black-lab",
-        "concerts-metal"
+        "black-lab"
       ]
     },
     {
@@ -1247,6 +1194,27 @@
       ]
     },
     {
+      "id": "2027-04-16-aeronef-dali",
+      "date": "2027-04-16",
+      "time": "20:00",
+      "artist": "DALÍ",
+      "support": [
+        "Guest"
+      ],
+      "venue": "L'Aéronef",
+      "city": "Lille",
+      "country": "FR",
+      "genre": "Metalcore",
+      "family": "Core / Hardcore",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://aeronef.fr/agenda/dali",
+      "sourceUrl": "https://aeronef.fr/agenda/dali",
+      "sources": [
+        "aeronef"
+      ]
+    },
+    {
       "id": "2027-05-07-black-lab-black-lab-tribute-fest-nu-metal",
       "date": "2027-05-07",
       "time": "19:00",
@@ -1363,6 +1331,25 @@
       "sourceUrl": "https://lille.concerts-metal.com/",
       "sources": [
         "manuel"
+      ]
+    },
+    {
+      "id": "2027-05-22-magasin-4-bonnacons-of-doom",
+      "date": "2027-05-22",
+      "time": "19:30",
+      "artist": "Bonnacons of Doom",
+      "support": [],
+      "venue": "Magasin 4",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Krautrock / Noise Rock",
+      "family": "Hard rock",
+      "price": "15 €",
+      "status": "onsale",
+      "ticketUrl": "https://magasin4.stager.co/shop/default/events/111718028",
+      "sourceUrl": "https://www.magasin4.be/concerts/52877/2027-05-22/",
+      "sources": [
+        "magasin-4"
       ]
     },
     {
