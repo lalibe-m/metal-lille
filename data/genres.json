@@ -356,6 +356,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "anna tsuchiya": {
+  "name": "Anna Tsuchiya",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-13"
+ },
  "anne clark band": {
   "name": "Anne Clark & Band",
   "id": null,
@@ -598,6 +604,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "beyond our sight": {
+  "name": "Beyond Our Sight",
+  "id": "95781b35-1634-4ec2-8a3e-9c6248fd7f32",
+  "tags": [],
+  "checkedAt": "2026-11-13"
  },
  "big brave": {
   "name": "Big Brave",
@@ -1769,6 +1781,12 @@
    }
   ],
   "checkedAt": "2026-11-11"
+ },
+ "dirty projectors solo": {
+  "name": "Dirty Projectors (solo)",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-13"
  },
  "dirty sound magnet": {
   "name": "Dirty Sound Magnet",
@@ -4128,6 +4146,17 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "kojaque": {
+  "name": "Kojaque",
+  "id": "f1b7101e-c968-4843-ad08-9ef5b846c915",
+  "tags": [
+   {
+    "name": "hip hop",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-13"
+ },
  "krullevaar": {
   "name": "Krullevaar",
   "id": null,
@@ -4381,6 +4410,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "les 30 ans de spiritek": {
+  "name": "Les 30 Ans De Spiritek",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-13"
+ },
  "les grandes absentes neiges eternelles 2": {
   "name": "LES GRANDES ABSENTES – Neiges éternelles #2",
   "id": null,
@@ -4469,6 +4504,12 @@
   "id": "9fb537ca-9145-4855-8a18-17b20339f1fc",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "lillarious gong show": {
+  "name": "Lillarious | Gong Show",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-13"
  },
  "loic nottet": {
   "name": "Loïc Nottet",
@@ -5609,6 +5650,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "oliver symons": {
+  "name": "Oliver Symons",
+  "id": "43f1a146-28ec-42ef-b9c4-8a4184cecd0e",
+  "tags": [],
+  "checkedAt": "2026-11-13"
+ },
  "omasta": {
   "name": "Omasta",
   "id": "74a7ebef-394e-4cee-90b7-efcc254c6c7a",
@@ -6581,6 +6628,12 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "rotofil khonaar": {
+  "name": "Rotofil Khonäar",
+  "id": "40216392-8d6c-4058-bb2a-30764d41daa0",
+  "tags": [],
+  "checkedAt": "2026-11-13"
+ },
  "rounhaa": {
   "name": "Rounhaa",
   "id": "1c1d1ff4-d8b9-47d0-832a-c26914e2cec3",
@@ -6763,6 +6816,21 @@
   "id": "092e0ed7-4e65-4264-adc1-42eefeaf0cd6",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "shaking hand": {
+  "name": "Shaking Hand",
+  "id": "060536f6-9bef-4233-898c-57004bc27cdb",
+  "tags": [
+   {
+    "name": "post-rock",
+    "count": 1
+   },
+   {
+    "name": "indie rock",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-13"
  },
  "shit and shine": {
   "name": "Shit and Shine",
@@ -7022,6 +7090,21 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "strongboi": {
+  "name": "strongboi",
+  "id": "fbf6f72f-c8dd-465d-b13e-593bfd9a92c7",
+  "tags": [
+   {
+    "name": "chillwave",
+    "count": 1
+   },
+   {
+    "name": "bedroom pop",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-13"
  },
  "suma": {
   "name": "Suma",
@@ -7820,6 +7903,17 @@
   ],
   "checkedAt": "2026-11-09"
  },
+ "the slow show": {
+  "name": "The Slow Show",
+  "id": "02770532-d734-4f5d-957d-297b03f253eb",
+  "tags": [
+   {
+    "name": "indie pop",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-13"
+ },
  "the sound of the belgian underground": {
   "name": "The Sound of the Belgian Underground",
   "id": null,
@@ -8106,6 +8200,18 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "tuesday violence": {
+  "name": "Tuesday Violence",
+  "id": "db26ca21-a0a7-4e8c-9602-ee3f493f8bfa",
+  "tags": [],
+  "checkedAt": "2026-11-13"
+ },
+ "tujiko noriko": {
+  "name": "Tujiko Noriko",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-13"
  },
  "turbo minus": {
   "name": "Turbo Minus",
