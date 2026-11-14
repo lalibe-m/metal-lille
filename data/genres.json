@@ -172,6 +172,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "afterwork ugly": {
+  "name": "Afterwork : Ugly",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-14"
+ },
  "against the current": {
   "name": "Against The Current",
   "id": "c40a79e9-3b9e-492e-9469-0e5b952ad3e1",
@@ -893,6 +899,12 @@
   "tags": [],
   "checkedAt": "2026-11-12"
  },
+ "broken back": {
+  "name": "BROKEN BACK",
+  "id": "40b8d9ed-072f-4f32-8fa6-137a298d883a",
+  "tags": [],
+  "checkedAt": "2026-11-14"
+ },
  "brooke combe": {
   "name": "Brooke Combe",
   "id": "7621d315-cc2e-40c5-ac86-9a62fa8accb0",
@@ -1150,6 +1162,37 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "chloe slater": {
+  "name": "Chloe Slater",
+  "id": "ee93d61d-67c3-4a58-80b1-2ecf346d767e",
+  "tags": [
+   {
+    "name": "pop",
+    "count": 1
+   },
+   {
+    "name": "british",
+    "count": 1
+   },
+   {
+    "name": "singer-songwriter",
+    "count": 1
+   },
+   {
+    "name": "indie rock",
+    "count": 1
+   },
+   {
+    "name": "indie",
+    "count": 1
+   },
+   {
+    "name": "indie pop",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-14"
+ },
  "chorale flash avec yolande bashing": {
   "name": "Chorale Flash avec Yolande Bashing",
   "id": null,
@@ -1366,6 +1409,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "cyelle": {
+  "name": "Cyelle",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-14"
  },
  "dad magic": {
   "name": "Dad Magic",
@@ -3889,6 +3938,12 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "judith kiddo": {
+  "name": "Judith Kiddo",
+  "id": "1b77f389-35bc-437f-b845-15ff6386628e",
+  "tags": [],
+  "checkedAt": "2026-11-14"
+ },
  "judy vendredi": {
   "name": "Judy Vendredi",
   "id": null,
@@ -4767,6 +4822,33 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "makala": {
+  "name": "Makala",
+  "id": "631fbbab-7bc2-48d2-a5ae-9ddc71756806",
+  "tags": [
+   {
+    "name": "rap",
+    "count": 1
+   },
+   {
+    "name": "hip hop",
+    "count": 1
+   },
+   {
+    "name": "alternative hip hop",
+    "count": 1
+   },
+   {
+    "name": "experimental hip hop",
+    "count": 1
+   },
+   {
+    "name": "french rap",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-14"
  },
  "mammal hands": {
   "name": "Mammal Hands",
@@ -8642,6 +8724,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "yaeger": {
+  "name": "Yaeger",
+  "id": "2fb1495b-25ef-4807-bb33-8efa81d29b6e",
+  "tags": [],
+  "checkedAt": "2026-11-14"
  },
  "yasmine hamdan": {
   "name": "Yasmine Hamdan",
