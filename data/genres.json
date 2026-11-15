@@ -4566,6 +4566,12 @@
   "tags": [],
   "checkedAt": "2026-11-13"
  },
+ "liturgy solo": {
+  "name": "Liturgy (solo)",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-15"
+ },
  "loic nottet": {
   "name": "Loïc Nottet",
   "id": "20607ae1-bc68-42b9-b727-ed58ae6f4318",
@@ -8788,6 +8794,21 @@
   "id": "2d0ee72f-8c7d-47e2-aaa8-80a710555e22",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "zelie": {
+  "name": "Zélie",
+  "id": "6a46ef30-fbe6-4889-9b9c-f128ef1488d0",
+  "tags": [
+   {
+    "name": "pop",
+    "count": 1
+   },
+   {
+    "name": "teen pop",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-15"
  },
  "zelo": {
   "name": "ZELO",
