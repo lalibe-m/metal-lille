@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T12:00:20.892Z",
+  "updatedAt": "2026-11-16T12:49:43.635Z",
   "sources": [
     {
       "id": "concerts-metal",
@@ -12,7 +12,7 @@
       "id": "black-lab",
       "label": "The Black Lab",
       "ok": true,
-      "count": 26
+      "count": 25
     },
     {
       "id": "aeronef",
@@ -42,13 +42,13 @@
       "id": "ancienne-belgique",
       "label": "Ancienne Belgique",
       "ok": true,
-      "count": 223
+      "count": 219
     },
     {
       "id": "magasin-4",
       "label": "Magasin 4",
       "ok": true,
-      "count": 14
+      "count": 15
     },
     {
       "id": "botanique",
@@ -66,7 +66,7 @@
       "id": "wilde-westen",
       "label": "Wilde Westen (De Kreun)",
       "ok": true,
-      "count": 56
+      "count": 55
     },
     {
       "id": "kinky-star",
@@ -82,29 +82,6 @@
     }
   ],
   "events": [
-    {
-      "id": "2026-11-15-black-lab-cage-fight",
-      "date": "2026-11-15",
-      "time": "20:00",
-      "artist": "Cage Fight",
-      "support": [
-        "Kabbel",
-        "Soul Splitter"
-      ],
-      "venue": "The Black Lab",
-      "city": "Wasquehal",
-      "country": "FR",
-      "genre": "Metalcore / Groove Metal",
-      "family": "Core / Hardcore",
-      "price": "26,80 €",
-      "status": "onsale",
-      "ticketUrl": "https://theblacklab.fr/agenda/cage-fight-soul-splitter-kabbel/",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_Cage_Fight_-_Tour_2026-264536.html",
-      "sources": [
-        "black-lab",
-        "concerts-metal"
-      ]
-    },
     {
       "id": "2026-11-16-ancienne-belgique-president",
       "date": "2026-11-16",
@@ -196,7 +173,7 @@
     {
       "id": "2026-11-22-de-kreun-pothamus",
       "date": "2026-11-22",
-      "time": "20:00",
+      "time": "19:30",
       "artist": "Pothamus",
       "support": [
         "Hippotraktor"
@@ -392,6 +369,28 @@
       "sourceUrl": "https://www.abconcerts.be/fr/agenda/accept/a10Qw00000Acyv8IAB",
       "sources": [
         "ancienne-belgique"
+      ]
+    },
+    {
+      "id": "2026-12-17-magasin-4-maria-violenza",
+      "date": "2026-12-17",
+      "time": "19:30",
+      "artist": "Maria Violenza",
+      "support": [
+        "JESSICA93",
+        "La Scroafa Emputecida"
+      ],
+      "venue": "Magasin 4",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Synth Punk / Shoegaze / Black Metal",
+      "family": "Death / Black",
+      "price": "15 €",
+      "status": "onsale",
+      "ticketUrl": "https://magasin4.stager.co/shop/default/events/111722065",
+      "sourceUrl": "https://www.magasin4.be/concerts/53337/2026-12-17/",
+      "sources": [
+        "magasin-4"
       ]
     },
     {

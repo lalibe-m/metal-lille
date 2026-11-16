@@ -1,4 +1,10 @@
 {
+ "10 yrs stroom weekender": {
+  "name": "10 YRS STROOM Weekender",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-16"
+ },
  "47ter": {
   "name": "47ter",
   "id": "d3812f13-0962-42a8-bbcd-0e64c873b2eb",
@@ -3888,6 +3894,12 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "jose gonzalez augusta": {
+  "name": "JOSÉ GONZÁLEZ + AUGUSTA",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-16"
+ },
  "joshua idehen": {
   "name": "Joshua Idehen",
   "id": "3fc0070f-6b5b-4fc3-b5d3-afc87c80354a",
@@ -4898,6 +4910,12 @@
   "id": "95abd093-287b-4400-8b9c-3dd4510f016c",
   "tags": [],
   "checkedAt": "2026-11-08"
+ },
+ "maria violenza": {
+  "name": "Maria Violenza",
+  "id": "f68bb859-2161-47c4-94aa-7874342dc8c2",
+  "tags": [],
+  "checkedAt": "2026-11-16"
  },
  "marichka re connection": {
   "name": "Marichka RE_Connection",
@@ -8508,6 +8526,45 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "vitalic": {
+  "name": "VITALIC",
+  "id": "1f064e2d-aa55-4631-8f62-e2c14bbe1f4e",
+  "tags": [
+   {
+    "name": "electroclash",
+    "count": 4
+   },
+   {
+    "name": "french",
+    "count": 3
+   },
+   {
+    "name": "techno",
+    "count": 2
+   },
+   {
+    "name": "france",
+    "count": 2
+   },
+   {
+    "name": "electronic",
+    "count": 1
+   },
+   {
+    "name": "synth-pop",
+    "count": 1
+   },
+   {
+    "name": "progressive house",
+    "count": 1
+   },
+   {
+    "name": "electro house",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-16"
+ },
  "vk unplugged 013": {
   "name": "VK Unplugged 013",
   "id": null,
@@ -8820,6 +8877,12 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "ziggy alberts": {
+  "name": "Ziggy Alberts",
+  "id": "413ca455-cdc1-4188-8cac-70f7e6c72394",
+  "tags": [],
+  "checkedAt": "2026-11-16"
  },
  "zimmer90": {
   "name": "Zimmer90",
