@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T12:49:43.635Z",
+  "updatedAt": "2026-11-17T13:31:47.818Z",
   "sources": [
     {
       "id": "concerts-metal",
@@ -42,7 +42,7 @@
       "id": "ancienne-belgique",
       "label": "Ancienne Belgique",
       "ok": true,
-      "count": 219
+      "count": 221
     },
     {
       "id": "magasin-4",
@@ -66,13 +66,13 @@
       "id": "wilde-westen",
       "label": "Wilde Westen (De Kreun)",
       "ok": true,
-      "count": 55
+      "count": 57
     },
     {
       "id": "kinky-star",
       "label": "Kinky Star",
       "ok": true,
-      "count": 26
+      "count": 27
     },
     {
       "id": "rockerill",
@@ -82,28 +82,6 @@
     }
   ],
   "events": [
-    {
-      "id": "2026-11-16-ancienne-belgique-president",
-      "date": "2026-11-16",
-      "time": "18:30",
-      "artist": "PRESIDENT",
-      "support": [
-        "Vianova",
-        "Dreamwake"
-      ],
-      "venue": "Ancienne Belgique",
-      "city": "Bruxelles",
-      "country": "BE",
-      "genre": "Heavy",
-      "family": "Heavy / Thrash",
-      "price": null,
-      "status": "onsale",
-      "ticketUrl": "https://www.abconcerts.be/fr/agenda/president/a10Qw00000Fj5NtIAJ",
-      "sourceUrl": "https://www.abconcerts.be/fr/agenda/president/a10Qw00000Fj5NtIAJ",
-      "sources": [
-        "ancienne-belgique"
-      ]
-    },
     {
       "id": "2026-11-17-ancienne-belgique-eluveitie",
       "date": "2026-11-17",
@@ -446,7 +424,7 @@
       "venue": "Kinky Star",
       "city": "Gent",
       "country": "BE",
-      "genre": "Rock / Metal",
+      "genre": "Metal / Rock",
       "family": "Heavy / Thrash",
       "price": "Gratuit",
       "status": "onsale",
@@ -725,6 +703,25 @@
       "sourceUrl": "https://www.abconcerts.be/fr/agenda/uncle-acid-the-deadbeats/a10Qw00000FPW45IAH",
       "sources": [
         "ancienne-belgique"
+      ]
+    },
+    {
+      "id": "2027-02-13-kinky-star-guilt",
+      "date": "2027-02-13",
+      "time": "21:00",
+      "artist": "Guilt",
+      "support": [],
+      "venue": "Kinky Star",
+      "city": "Gent",
+      "country": "BE",
+      "genre": "Experimental / Wave",
+      "family": "Core / Hardcore",
+      "price": "Gratuit",
+      "status": "onsale",
+      "ticketUrl": "https://www.kinkystar.com/nl/events/2027-02-13-kinky-electronics-guilt-be-release",
+      "sourceUrl": "https://www.kinkystar.com/nl/events/2027-02-13-kinky-electronics-guilt-be-release",
+      "sources": [
+        "kinky-star"
       ]
     },
     {

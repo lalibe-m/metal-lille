@@ -698,6 +698,12 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "black saturday xiv alt nye d k 80s p y": {
+  "name": "BLACK SATURDAY XIV • alt NYE • DΛЯK𐕣80s𐕣PΛЯ𐕣Y",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-17"
+ },
  "black veil brides": {
   "name": "Black Veil Brides",
   "id": "33319aed-9bd7-4cd1-903c-716845c1b7cd",
@@ -1683,6 +1689,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "dewaere dalaidrama": {
+  "name": "Dewaere DALAÏDRAMA",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-17"
+ },
  "die arzte": {
   "name": "Die Ärzte",
   "id": "f2fb0ff0-5679-42ec-a55c-15109ce6e320",
@@ -1931,6 +1943,21 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "drake milligan": {
+  "name": "Drake Milligan",
+  "id": "6487e412-6453-4d9a-8842-1c17b292c08c",
+  "tags": [
+   {
+    "name": "country",
+    "count": 1
+   },
+   {
+    "name": "rock and roll",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-17"
  },
  "dressed like boys": {
   "name": "Dressed Like Boys",
@@ -2287,6 +2314,12 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "evanora unlimited": {
+  "name": "Evanora Unlimited",
+  "id": "cc76256b-7571-46aa-90bc-a2e7e45db857",
+  "tags": [],
+  "checkedAt": "2026-11-17"
  },
  "ezra collective": {
   "name": "Ezra Collective",
@@ -2754,6 +2787,37 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "glaive": {
+  "name": "glaive",
+  "id": "fd36f43e-5bd1-488e-b844-0e059250ef78",
+  "tags": [
+   {
+    "name": "pop",
+    "count": 1
+   },
+   {
+    "name": "alternative pop",
+    "count": 1
+   },
+   {
+    "name": "emo pop",
+    "count": 1
+   },
+   {
+    "name": "hyperpop",
+    "count": 1
+   },
+   {
+    "name": "digicore",
+    "count": 1
+   },
+   {
+    "name": "poggers",
+    "count": 0
+   }
+  ],
+  "checkedAt": "2026-11-17"
+ },
  "glenn jones liam grant": {
   "name": "Glenn Jones & Liam Grant",
   "id": null,
@@ -2855,6 +2919,29 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "guilt": {
+  "name": "Guilt",
+  "id": "29efbd18-864c-4e68-99f1-7ba587701483",
+  "tags": [
+   {
+    "name": "hardcore",
+    "count": 1
+   },
+   {
+    "name": "metalcore",
+    "count": 1
+   },
+   {
+    "name": "nu metal",
+    "count": 1
+   },
+   {
+    "name": "screamo",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-17"
  },
  "guilt trip": {
   "name": "Guilt Trip",
@@ -5654,6 +5741,45 @@
   "tags": [],
   "checkedAt": "2026-10-28"
  },
+ "ninajirachi": {
+  "name": "Ninajirachi",
+  "id": "6897b46a-9236-4480-9ed7-300f6b85d62f",
+  "tags": [
+   {
+    "name": "edm",
+    "count": 7
+   },
+   {
+    "name": "electronic",
+    "count": 5
+   },
+   {
+    "name": "electropop",
+    "count": 4
+   },
+   {
+    "name": "electro house",
+    "count": 3
+   },
+   {
+    "name": "house",
+    "count": 2
+   },
+   {
+    "name": "bubblegum bass",
+    "count": 2
+   },
+   {
+    "name": "rock",
+    "count": 1
+   },
+   {
+    "name": "trance",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-17"
+ },
  "noa lee": {
   "name": "Noa Lee",
   "id": "f854fc13-ec40-4f6b-ade3-ab848aa73785",
@@ -7185,6 +7311,25 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "steel pulse": {
+  "name": "STEEL PULSE",
+  "id": "37367b2f-69e4-4df2-9e64-75ca6204764b",
+  "tags": [
+   {
+    "name": "reggae",
+    "count": 2
+   },
+   {
+    "name": "roots reggae",
+    "count": 2
+   },
+   {
+    "name": "soul and reggae",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-17"
+ },
  "steel pulse guest": {
   "name": "STEEL PULSE + Guest",
   "id": null,
@@ -7509,6 +7654,12 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "the big star quintet": {
+  "name": "The Big Star Quintet",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-17"
+ },
  "the black dahlia murder": {
   "name": "The Black Dahlia Murder",
   "id": "21f3573f-10cf-44b3-aeaa-26cccd8448b5",
@@ -7544,11 +7695,56 @@
   ],
   "checkedAt": "2026-10-27"
  },
+ "the black wizards pt": {
+  "name": "The Black Wizards (PT)",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-17"
+ },
  "the bronx mariachi el bronx": {
   "name": "The Bronx / Mariachi El Bronx",
   "id": null,
   "tags": [],
   "checkedAt": "2026-11-10"
+ },
+ "the cat empire": {
+  "name": "The Cat Empire",
+  "id": "a530492f-8806-4bd7-9c14-80c237eb92fe",
+  "tags": [
+   {
+    "name": "jazz",
+    "count": 4
+   },
+   {
+    "name": "ska",
+    "count": 4
+   },
+   {
+    "name": "reggae",
+    "count": 2
+   },
+   {
+    "name": "alternative",
+    "count": 2
+   },
+   {
+    "name": "melbourne",
+    "count": 2
+   },
+   {
+    "name": "rock",
+    "count": 1
+   },
+   {
+    "name": "folk",
+    "count": 1
+   },
+   {
+    "name": "australian",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-17"
  },
  "the chats": {
   "name": "The Chats",
