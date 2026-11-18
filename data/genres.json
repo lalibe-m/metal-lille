@@ -172,6 +172,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "afterwork jonathan personne": {
+  "name": "Afterwork : Jonathan Personne",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-18"
+ },
  "afterwork them flying monkeys": {
   "name": "Afterwork : Them Flying Monkeys",
   "id": null,
@@ -183,6 +189,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-11-14"
+ },
+ "afterwork world news": {
+  "name": "Afterwork : World News",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-18"
  },
  "against the current": {
   "name": "Against The Current",
@@ -361,6 +373,12 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "andrew claes stuff hermesensemble cymatics 2 0": {
+  "name": "Andrew Claes (Stuff.) & Hermesensemble: Cymatics 2.0",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-18"
  },
  "angel bat dawid": {
   "name": "Angel Bat Dawid",
@@ -593,6 +611,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "bedouine": {
+  "name": "Bedouine",
+  "id": "a3bc4e59-18bd-4936-b605-2b01e33a6da9",
+  "tags": [],
+  "checkedAt": "2026-11-18"
+ },
  "belgian beatbox championship 2026": {
   "name": "Belgian Beatbox Championship 2026",
   "id": null,
@@ -682,6 +706,12 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "bl ndman drums fractals": {
+  "name": "Bl!ndman [drums]: Fractals",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-18"
  },
  "black box revelation": {
   "name": "Black Box Revelation",
@@ -899,6 +929,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "boy harsher choir boy after zaatar": {
+  "name": "BOY HARSHER + CHOIR BOY + after ZAATAR",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-18"
+ },
  "braindance 2026 dj heartstring": {
   "name": "braindance_2026: DJ HEARTSTRING",
   "id": null,
@@ -1054,6 +1090,12 @@
   "id": "52b27910-93ef-4a6f-8eca-05dcb3772c2b",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "cappella mariana metamorfosi dialogue des voix": {
+  "name": "Cappella Mariana: Metamorfosi, Dialogue Des Voix",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-18"
  },
  "carpenter brut": {
   "name": "Carpenter Brut",
@@ -2204,6 +2246,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "enjoy the game": {
+  "name": "Enjoy The Game",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-18"
+ },
  "enter shikari": {
   "name": "Enter Shikari",
   "id": "329f95db-f02e-40bf-a5f7-0dea11529ce3",
@@ -2487,6 +2535,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "fireplace": {
+  "name": "Fireplace",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-18"
+ },
  "fixkes": {
   "name": "FIXKES",
   "id": "24d93680-b1db-4eac-9032-c24c3c01ba01",
@@ -2707,6 +2761,17 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "ghinzu": {
+  "name": "Ghinzu",
+  "id": "2b1c601f-4c4c-4654-959e-2d243a4d4eab",
+  "tags": [
+   {
+    "name": "indie rock",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-18"
  },
  "giant rooks": {
   "name": "Giant Rooks",
@@ -4049,6 +4114,33 @@
   "tags": [],
   "checkedAt": "2026-11-05"
  },
+ "julia wolf": {
+  "name": "Julia Wolf",
+  "id": "f4e4a8c2-4ee8-42eb-9c6a-0c21a06097a6",
+  "tags": [
+   {
+    "name": "alternative rock",
+    "count": 1
+   },
+   {
+    "name": "electropop",
+    "count": 1
+   },
+   {
+    "name": "post-grunge",
+    "count": 1
+   },
+   {
+    "name": "indie pop",
+    "count": 1
+   },
+   {
+    "name": "alternative pop",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-18"
+ },
  "julien tassin": {
   "name": "Julien Tassin",
   "id": "e6fbd03e-93ec-4824-88e7-03f3eca87b27",
@@ -4328,6 +4420,12 @@
   "id": "c1e25b84-b24b-4fb2-aafd-29fe606a097a",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "l entourloop": {
+  "name": "L' Entourloop",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-18"
  },
  "la jungle": {
   "name": "La Jungle",
@@ -5151,6 +5249,12 @@
   ],
   "checkedAt": "2026-11-07"
  },
+ "mathlovsky": {
+  "name": "MATHLOVSKY",
+  "id": "78d54669-3bb2-4ef9-aa1b-66f34ceeb91c",
+  "tags": [],
+  "checkedAt": "2026-11-18"
+ },
  "matinee bela bartok hertog blauwbaards burcht": {
   "name": "Matinee Béla Bartók - Hertog Blauwbaards Burcht",
   "id": null,
@@ -5687,6 +5791,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-11-12"
+ },
+ "nem ensemble pool of sound tweede voorstelling": {
+  "name": "NEMØ ENSEMBLE: POOL OF SOUND (tweede voorstelling)",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-18"
  },
  "neptune": {
   "name": "Neptune",
@@ -6961,6 +7071,21 @@
   "id": "2f82270c-a4a1-4376-802c-d24aabe1ee88",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "sasha keable": {
+  "name": "Sasha Keable",
+  "id": "c2b7f5ad-0db8-4e6d-b228-5598d6b17717",
+  "tags": [
+   {
+    "name": "soul",
+    "count": 1
+   },
+   {
+    "name": "r&b",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-18"
  },
  "saumon sauvage": {
   "name": "Saumon Sauvage",
@@ -8366,6 +8491,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "the yummy mouths": {
+  "name": "The Yummy Mouths",
+  "id": "9b32dfb9-b1d1-43ff-861a-1c46f37df421",
+  "tags": [],
+  "checkedAt": "2026-11-18"
+ },
  "this is the omen": {
   "name": "This Is The Omen",
   "id": "7cc4eb8e-d465-43ff-8653-9044daf9b4b5",
@@ -8515,6 +8646,12 @@
   "tags": [],
   "checkedAt": "2026-11-13"
  },
+ "tumblejack": {
+  "name": "TumbleJack",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-18"
+ },
  "turbo minus": {
   "name": "Turbo Minus",
   "id": null,
@@ -8556,6 +8693,12 @@
   "id": "ca0c380a-110c-47e7-91ce-0023140376e9",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "ultra haute frequence": {
+  "name": "Ultra Haute Fréquence",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-18"
  },
  "ultra sunn": {
   "name": "Ultra Sunn",
@@ -8716,6 +8859,17 @@
   "tags": [],
   "checkedAt": "2026-11-11"
  },
+ "vacra": {
+  "name": "VACRA",
+  "id": "1a22b304-afa9-4d5c-ab0d-c6d717534af7",
+  "tags": [
+   {
+    "name": "hip hop",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-18"
+ },
  "vernis rouge": {
   "name": "Vernis Rouge",
   "id": "205bb776-c2b1-4eae-b152-235c9b1d83b3",
@@ -8766,6 +8920,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-29"
+ },
+ "vlaams radiokoor nadar ensemble polyphonies voiceless mass": {
+  "name": "Vlaams Radiokoor & Nadar Ensemble: Polyphonies & Voiceless Mass",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-18"
  },
  "voila": {
   "name": "VOILÀ",
