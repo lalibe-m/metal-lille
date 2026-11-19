@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T13:08:48.061Z",
+  "updatedAt": "2026-11-19T13:15:04.166Z",
   "sources": [
     {
       "id": "concerts-metal",
@@ -17,13 +17,13 @@
       "id": "aeronef",
       "label": "L'Aéronef",
       "ok": true,
-      "count": 696
+      "count": 712
     },
     {
       "id": "grand-mix",
       "label": "Le Grand Mix",
       "ok": true,
-      "count": 562
+      "count": 552
     },
     {
       "id": "cave-aux-poetes",
@@ -59,13 +59,13 @@
       "id": "vk-concerts",
       "label": "VK Concerts",
       "ok": true,
-      "count": 21
+      "count": 20
     },
     {
       "id": "wilde-westen",
       "label": "Wilde Westen (De Kreun)",
       "ok": true,
-      "count": 65
+      "count": 64
     },
     {
       "id": "kinky-star",
@@ -401,7 +401,7 @@
       "venue": "Kinky Star",
       "city": "Gent",
       "country": "BE",
-      "genre": "Metal / Rock",
+      "genre": "Rock / Metal",
       "family": "Heavy / Thrash",
       "price": "Gratuit",
       "status": "onsale",
@@ -512,7 +512,7 @@
       "venue": "Rockerill",
       "city": "Charleroi",
       "country": "BE",
-      "genre": "Noise / Doom métal / Sludge / Rock psyché",
+      "genre": "Noise / Doom metal / Sludge / Rock psyché",
       "family": "Doom / Stoner",
       "price": "10 €",
       "status": "onsale",
@@ -616,7 +616,7 @@
       "venue": "Kinky Star",
       "city": "Gent",
       "country": "BE",
-      "genre": "Electronic / Experimental / Metal / Punk / Rock",
+      "genre": "Rock / Metal / Electronic / Experimental / Punk",
       "family": "Heavy / Thrash",
       "price": "Gratuit",
       "status": "onsale",
@@ -659,7 +659,7 @@
       "venue": "Kinky Star",
       "city": "Gent",
       "country": "BE",
-      "genre": "Experimental / Metal / Rock",
+      "genre": "Rock / Metal / Experimental",
       "family": "Heavy / Thrash",
       "price": "Gratuit",
       "status": "onsale",

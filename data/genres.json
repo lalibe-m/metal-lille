@@ -2668,6 +2668,18 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "frenetik": {
+  "name": "Frenetik",
+  "id": "105e3ab0-adef-458e-823d-908fa0872c67",
+  "tags": [],
+  "checkedAt": "2026-11-19"
+ },
+ "from baroque to hip hop": {
+  "name": "From Baroque to Hip-Hop",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-19"
+ },
  "frontier people buleshkaj decock": {
   "name": "Frontier People - Buleshkaj & Decock",
   "id": null,
@@ -4357,11 +4369,54 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "klassiek met de keere happy birthday philip glass": {
+  "name": "Klassiek met De Keere: Happy Birthday Philip Glass!",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-19"
+ },
+ "klassiek met de keere hollywood here we come klassiek op": {
+  "name": "Klassiek met De Keere: Hollywood, here we come! Klassiek op",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-19"
+ },
  "klassiek met de keere sound design in klassieke muziek": {
   "name": "Klassiek met De Keere: sound design in klassieke muziek",
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-29"
+ },
+ "klassiek met de keere van beethoven 200": {
+  "name": "Klassiek met De Keere: Van Beethoven 200!",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-19"
+ },
+ "knives": {
+  "name": "Knives",
+  "id": "9419548f-7322-41e1-813e-8ff8114a2eab",
+  "tags": [
+   {
+    "name": "punk",
+    "count": 2
+   },
+   {
+    "name": "nu metal",
+    "count": 2
+   },
+   {
+    "name": "post-punk",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-19"
+ },
+ "knives l a sagne": {
+  "name": "KNIVES + L.A.SAGNE",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-19"
  },
  "koala disco": {
   "name": "Koala Disco",
@@ -4949,6 +5004,12 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "madeleine": {
+  "name": "MADELEINE",
+  "id": "21e44762-8838-4bf2-af30-72ff955f261c",
+  "tags": [],
+  "checkedAt": "2026-11-19"
+ },
  "madison mcferrin": {
   "name": "Madison McFerrin",
   "id": "cb5171f5-506a-4032-b99e-295e085bde19",
@@ -5255,6 +5316,12 @@
   "tags": [],
   "checkedAt": "2026-11-18"
  },
+ "matinee anacronia haydn in the cracks": {
+  "name": "Matinee: Anacronia: Haydn In The Cracks",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-19"
+ },
  "matinee bela bartok hertog blauwbaards burcht": {
   "name": "Matinee Béla Bartók - Hertog Blauwbaards Burcht",
   "id": null,
@@ -5547,6 +5614,21 @@
   ],
   "checkedAt": "2026-11-08"
  },
+ "monolithe noir": {
+  "name": "Monolithe Noir",
+  "id": "c3668980-19a4-4e19-b091-9c22385af633",
+  "tags": [
+   {
+    "name": "electronic",
+    "count": 1
+   },
+   {
+    "name": "drone",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-19"
+ },
  "montell fish": {
   "name": "Montell Fish",
   "id": "20634ec0-4bdb-47dc-9bf4-07ed76f8154a",
@@ -5792,11 +5874,23 @@
   "tags": [],
   "checkedAt": "2026-11-12"
  },
+ "nem ensemble pool of sound eerste voorstelling 18u30": {
+  "name": "NEMØ ENSEMBLE: POOL OF SOUND (eerste voorstelling, 18u30)",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-19"
+ },
  "nem ensemble pool of sound tweede voorstelling": {
   "name": "NEMØ ENSEMBLE: POOL OF SOUND (tweede voorstelling)",
   "id": null,
   "tags": [],
   "checkedAt": "2026-11-18"
+ },
+ "nem ensemble pool of sound tweede voorstelling 20u30": {
+  "name": "NEMØ ENSEMBLE: POOL OF SOUND (tweede voorstelling, 20u30)",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-19"
  },
  "neptune": {
   "name": "Neptune",
@@ -7004,6 +7098,45 @@
   "id": "8300e407-c464-4310-8f12-77effce37439",
   "tags": [],
   "checkedAt": "2026-11-03"
+ },
+ "saint etienne": {
+  "name": "Saint Etienne",
+  "id": "3997d4a6-c2bd-4191-8406-eb07f0abb5d2",
+  "tags": [
+   {
+    "name": "alternative dance",
+    "count": 3
+   },
+   {
+    "name": "synthpop",
+    "count": 2
+   },
+   {
+    "name": "indie pop",
+    "count": 2
+   },
+   {
+    "name": "dance-pop",
+    "count": 2
+   },
+   {
+    "name": "dream pop",
+    "count": 2
+   },
+   {
+    "name": "indietronica",
+    "count": 2
+   },
+   {
+    "name": "rock",
+    "count": 1
+   },
+   {
+    "name": "downtempo",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-19"
  },
  "sam quealy": {
   "name": "SAM QUEALY",
