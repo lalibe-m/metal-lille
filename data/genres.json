@@ -490,6 +490,29 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "ayra starr": {
+  "name": "Ayra Starr",
+  "id": "c4ac4b97-2eac-46f6-85ae-f916c93847e4",
+  "tags": [
+   {
+    "name": "neo soul",
+    "count": 1
+   },
+   {
+    "name": "alternative r&b",
+    "count": 1
+   },
+   {
+    "name": "afrobeats",
+    "count": 1
+   },
+   {
+    "name": "alté",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-20"
+ },
  "baba stiltz": {
   "name": "Baba Stiltz",
   "id": "0232892e-48a1-422f-ac3c-ee323e6ba9df",
@@ -507,6 +530,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-27"
+ },
+ "balik": {
+  "name": "Balik",
+  "id": "4de3ed1a-0100-476e-ac7d-2765c3bc2fb6",
+  "tags": [],
+  "checkedAt": "2026-11-20"
  },
  "bamby": {
   "name": "BAMBY",
@@ -2600,6 +2629,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "fragile adieu soleil": {
+  "name": "Fragile + Adieu Soleil",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-20"
+ },
  "frazey ford": {
   "name": "Frazey Ford",
   "id": "c455e254-994c-40d3-a953-4ff6954c3557",
@@ -3523,6 +3558,45 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "imperial triumphant": {
+  "name": "Imperial Triumphant",
+  "id": "d475788f-837d-4f96-9eec-2f5e32d7d163",
+  "tags": [
+   {
+    "name": "avant-garde metal",
+    "count": 5
+   },
+   {
+    "name": "dissonant death metal",
+    "count": 4
+   },
+   {
+    "name": "progressive metal",
+    "count": 2
+   },
+   {
+    "name": "black metal",
+    "count": 2
+   },
+   {
+    "name": "technical death metal",
+    "count": 2
+   },
+   {
+    "name": "progressive black metal",
+    "count": 2
+   },
+   {
+    "name": "avant-garde black metal",
+    "count": 2
+   },
+   {
+    "name": "dissonant black metal",
+    "count": 2
+   }
+  ],
+  "checkedAt": "2026-11-20"
+ },
  "impro night aladar": {
   "name": "Impro'Night Aladar",
   "id": null,
@@ -3752,6 +3826,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "j bernardt noonzy": {
+  "name": "J.BERNARDT + NOONZY",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-20"
  },
  "jade": {
   "name": "Jäde",
@@ -4687,6 +4767,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "le premier dimanche de decembre": {
+  "name": "Le premier dimanche de décembre",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-20"
+ },
  "le premier dimanche de novembre": {
   "name": "Le premier dimanche de novembre",
   "id": null,
@@ -4818,6 +4904,12 @@
   "tags": [],
   "checkedAt": "2026-11-13"
  },
+ "listening session divee presents little miss lost": {
+  "name": "Listening Session: Divee presents 'Little Miss Lost'",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-20"
+ },
  "liturgy solo": {
   "name": "Liturgy (solo)",
   "id": null,
@@ -4858,6 +4950,33 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "loka and the moonshiners": {
+  "name": "LoKa And The Moonshiners",
+  "id": "987b1fc9-8f0e-419d-bec5-90f26c1b58c8",
+  "tags": [
+   {
+    "name": "rock",
+    "count": 1
+   },
+   {
+    "name": "freak folk",
+    "count": 1
+   },
+   {
+    "name": "tropical garage psych",
+    "count": 1
+   },
+   {
+    "name": "psychedelic rock",
+    "count": 1
+   },
+   {
+    "name": "garage",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-20"
  },
  "lonnie holley w nelson patton indre jurgeleviciute": {
   "name": "Lonnie Holley w/ Nelson Patton & Indré Jurgeleviciute",
@@ -6336,6 +6455,12 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "panteros666 live 100 eurotrance": {
+  "name": "Panteros666 live 100% Eurotrance",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-20"
+ },
  "paolo": {
   "name": "Paolo.",
   "id": null,
@@ -6457,6 +6582,12 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "pierre de maere mado": {
+  "name": "PIERRE DE MAERE + MADO",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-20"
  },
  "pigeon": {
   "name": "Pigeon",
@@ -7322,6 +7453,17 @@
   ],
   "checkedAt": "2026-11-13"
  },
+ "sheng": {
+  "name": "Sheng",
+  "id": "fbf8dcb1-8a69-4935-8292-112ceca430a0",
+  "tags": [
+   {
+    "name": "hip hop",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-20"
+ },
  "shit and shine": {
   "name": "Shit and Shine",
   "id": "eed2aea2-a7ae-4fcb-81da-2792227fb502",
@@ -7774,6 +7916,25 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "syd matters": {
+  "name": "Syd Matters",
+  "id": "20e70b5b-42b8-44da-960b-3040a01223a3",
+  "tags": [
+   {
+    "name": "indie pop",
+    "count": 2
+   },
+   {
+    "name": "french",
+    "count": 1
+   },
+   {
+    "name": "indie rock",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-20"
  },
  "symptom episode 1": {
   "name": "Symptom : Episode 1",
