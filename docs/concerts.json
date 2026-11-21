@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T12:58:47.816Z",
+  "updatedAt": "2026-11-21T12:43:23.820Z",
   "sources": [
     {
       "id": "concerts-metal",
@@ -18,13 +18,13 @@
       "id": "aeronef",
       "label": "L'Aéronef",
       "ok": true,
-      "count": 704
+      "count": 696
     },
     {
       "id": "grand-mix",
       "label": "Le Grand Mix",
       "ok": true,
-      "count": 552
+      "count": 541
     },
     {
       "id": "cave-aux-poetes",
@@ -42,13 +42,13 @@
       "id": "ancienne-belgique",
       "label": "Ancienne Belgique",
       "ok": true,
-      "count": 222
+      "count": 220
     },
     {
       "id": "magasin-4",
       "label": "Magasin 4",
       "ok": true,
-      "count": 14
+      "count": 13
     },
     {
       "id": "botanique",
@@ -66,44 +66,22 @@
       "id": "wilde-westen",
       "label": "Wilde Westen (De Kreun)",
       "ok": true,
-      "count": 63
+      "count": 62
     },
     {
       "id": "kinky-star",
       "label": "Kinky Star",
       "ok": true,
-      "count": 28
+      "count": 27
     },
     {
       "id": "rockerill",
       "label": "Rockerill",
       "ok": true,
-      "count": 9
+      "count": 8
     }
   ],
   "events": [
-    {
-      "id": "2026-11-20-magasin-4-intercourse",
-      "date": "2026-11-20",
-      "time": "19:30",
-      "artist": "Intercourse",
-      "support": [
-        "Hyena",
-        "Fiona"
-      ],
-      "venue": "Magasin 4",
-      "city": "Bruxelles",
-      "country": "BE",
-      "genre": "Noise Rock / Sludge / Post-Hardcore",
-      "family": "Core / Hardcore",
-      "price": "15 €",
-      "status": "onsale",
-      "ticketUrl": "https://magasin4.stager.co/shop/default/events/111674551",
-      "sourceUrl": "https://www.magasin4.be/concerts/51576/2026-11-20/",
-      "sources": [
-        "magasin-4"
-      ]
-    },
     {
       "id": "2026-11-22-de-kreun-pothamus",
       "date": "2026-11-22",
@@ -165,6 +143,27 @@
       "sourceUrl": "https://www.magasin4.be/concerts/51041/2026-11-24/",
       "sources": [
         "magasin-4"
+      ]
+    },
+    {
+      "id": "2026-11-26-botanique-liturgy-solo",
+      "date": "2026-11-26",
+      "time": "18:30",
+      "artist": "Liturgy (solo)",
+      "support": [
+        "Js Donny"
+      ],
+      "venue": "Botanique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Classical / Experimental / Metal",
+      "family": "Heavy / Thrash",
+      "price": "22.5 €",
+      "status": "onsale",
+      "ticketUrl": "https://botanique.be/fr/concert/liturgy-solo-js-donny-2026",
+      "sourceUrl": "https://botanique.be/fr/concert/liturgy-solo-js-donny-2026",
+      "sources": [
+        "botanique"
       ]
     },
     {

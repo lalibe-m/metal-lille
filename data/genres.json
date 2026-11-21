@@ -423,6 +423,12 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "artist talk w fatoumata diawara": {
+  "name": "Artist Talk w/Fatoumata Diawara",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-21"
+ },
  "asian persuasion": {
   "name": "Asian Persuasion",
   "id": null,
@@ -6109,6 +6115,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "noezhai": {
+  "name": "NOÉZHAI",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-21"
+ },
  "nouvelle vague": {
   "name": "Nouvelle Vague",
   "id": "b017a7ae-e5ee-4675-bb13-c83346134971",
@@ -7509,6 +7521,29 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "sian able": {
+  "name": "Sïan Able",
+  "id": "6df0393c-e3e0-487d-aab3-f9bf46980ec4",
+  "tags": [
+   {
+    "name": "dark wave",
+    "count": 1
+   },
+   {
+    "name": "indietronica",
+    "count": 1
+   },
+   {
+    "name": "emo pop",
+    "count": 1
+   },
+   {
+    "name": "darksynth",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-21"
  },
  "sicko": {
   "name": "Sicko",
