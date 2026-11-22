@@ -4315,6 +4315,37 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "kadavar": {
+  "name": "Kadavar",
+  "id": "aa262bd7-2217-4590-b2e3-38d148508916",
+  "tags": [
+   {
+    "name": "psychedelic rock",
+    "count": 2
+   },
+   {
+    "name": "stoner rock",
+    "count": 2
+   },
+   {
+    "name": "heavy psych",
+    "count": 2
+   },
+   {
+    "name": "hard rock",
+    "count": 1
+   },
+   {
+    "name": "death metal",
+    "count": 1
+   },
+   {
+    "name": "psychedelic/stoner-rock",
+    "count": 0
+   }
+  ],
+  "checkedAt": "2026-11-22"
+ },
  "kanonenfieber": {
   "name": "Kanonenfieber",
   "id": "b0016af8-3953-47ce-b865-475a770d7b17",
@@ -8831,6 +8862,17 @@
   "id": "7cc4eb8e-d465-43ff-8653-9044daf9b4b5",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "thk": {
+  "name": "Thk",
+  "id": "dee32df0-d47e-404d-ace6-7e42a9f91444",
+  "tags": [
+   {
+    "name": "warp",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-22"
  },
  "thunderwadde": {
   "name": "Thunderwadde?",
