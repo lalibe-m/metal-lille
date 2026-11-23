@@ -323,6 +323,41 @@
   "tags": [],
   "checkedAt": "2026-11-12"
  },
+ "amenra": {
+  "name": "Amenra",
+  "id": "e7af1101-e51a-4eaf-ae2e-b4de760bd428",
+  "tags": [
+   {
+    "name": "sludge metal",
+    "count": 5
+   },
+   {
+    "name": "post-hardcore",
+    "count": 4
+   },
+   {
+    "name": "post-metal",
+    "count": 4
+   },
+   {
+    "name": "doom metal",
+    "count": 2
+   },
+   {
+    "name": "metal",
+    "count": 0
+   },
+   {
+    "name": "sludge",
+    "count": 0
+   },
+   {
+    "name": "post-core",
+    "count": 0
+   }
+  ],
+  "checkedAt": "2026-11-23"
+ },
  "an evening with avishai cohen": {
   "name": "An evening with Avishai Cohen",
   "id": null,
@@ -882,6 +917,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "bob doug": {
+  "name": "Bob Doug",
+  "id": "f55f71b4-a046-4fc6-93bb-b59a9fa4828e",
+  "tags": [],
+  "checkedAt": "2026-11-23"
+ },
  "bodega": {
   "name": "BODEGA",
   "id": "8a08d77c-d796-4546-8143-abca7ff9b62e",
@@ -1398,6 +1439,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "cold phase friends": {
+  "name": "Cold Phase & Friends",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-23"
  },
  "collectif ensemble": {
   "name": "COLLECTIF ENSEMBLE !!!",
@@ -4422,6 +4469,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "kevin atwater": {
+  "name": "Kevin Atwater",
+  "id": "448665cd-e62d-4e48-abf6-096e9d1a71fb",
+  "tags": [],
+  "checkedAt": "2026-11-23"
+ },
  "kevin richard martin presents sub zero": {
   "name": "Kevin Richard Martin presents 'Sub Zero'",
   "id": null,
@@ -6638,6 +6691,37 @@
   "tags": [],
   "checkedAt": "2026-10-29"
  },
+ "piss": {
+  "name": "PISS",
+  "id": "eda3c010-7950-47cf-acee-ef6dd4fdb7c7",
+  "tags": [
+   {
+    "name": "noise",
+    "count": 2
+   },
+   {
+    "name": "punk",
+    "count": 2
+   },
+   {
+    "name": "noise rock",
+    "count": 2
+   },
+   {
+    "name": "hardcore punk",
+    "count": 1
+   },
+   {
+    "name": "noisecore",
+    "count": 1
+   },
+   {
+    "name": "emotional",
+    "count": 0
+   }
+  ],
+  "checkedAt": "2026-11-23"
+ },
  "plain jane": {
   "name": "Plain Jane",
   "id": "a320ed9f-1a41-4451-a252-9af0366fc54e",
@@ -6927,6 +7011,12 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "puppetmastaz": {
+  "name": "Puppetmastaz",
+  "id": "ffe53025-23f7-4c80-ac9d-442a3275d4a6",
+  "tags": [],
+  "checkedAt": "2026-11-23"
  },
  "puscifer": {
   "name": "Puscifer",
@@ -8765,6 +8855,37 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "the wailers": {
+  "name": "The Wailers",
+  "id": "c9e99d40-4a2c-4ca7-ac5b-e842264ee271",
+  "tags": [
+   {
+    "name": "ska",
+    "count": 4
+   },
+   {
+    "name": "reggae",
+    "count": 4
+   },
+   {
+    "name": "rocksteady",
+    "count": 4
+   },
+   {
+    "name": "roots reggae",
+    "count": 3
+   },
+   {
+    "name": "jamaican ska",
+    "count": 2
+   },
+   {
+    "name": "garage rock",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-23"
+ },
  "the warning": {
   "name": "The Warning",
   "id": "7f625f35-7e53-4f08-9201-16643979484b",
@@ -8894,6 +9015,12 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "thylacine cecile lacharme": {
+  "name": "THYLACINE + CÉCILE LACHARME",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-23"
  },
  "tiger rodeo": {
   "name": "Tiger Rodeo",

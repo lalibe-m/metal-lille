@@ -1,11 +1,12 @@
 {
-  "updatedAt": "2026-11-22T12:39:26.520Z",
+  "updatedAt": "2026-11-23T14:45:12.455Z",
   "sources": [
     {
       "id": "concerts-metal",
       "label": "concerts-metal.com",
-      "ok": true,
-      "count": 32
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 403 sur https://lille.concerts-metal.com/"
     },
     {
       "id": "black-lab",
@@ -17,13 +18,13 @@
       "id": "aeronef",
       "label": "L'Aéronef",
       "ok": true,
-      "count": 696
+      "count": 688
     },
     {
       "id": "grand-mix",
       "label": "Le Grand Mix",
       "ok": true,
-      "count": 530
+      "count": 541
     },
     {
       "id": "cave-aux-poetes",
@@ -41,7 +42,7 @@
       "id": "ancienne-belgique",
       "label": "Ancienne Belgique",
       "ok": true,
-      "count": 217
+      "count": 218
     },
     {
       "id": "magasin-4",
@@ -53,7 +54,7 @@
       "id": "botanique",
       "label": "Botanique",
       "ok": true,
-      "count": 49
+      "count": 50
     },
     {
       "id": "vk-concerts",
@@ -65,13 +66,13 @@
       "id": "wilde-westen",
       "label": "Wilde Westen (De Kreun)",
       "ok": true,
-      "count": 60
+      "count": 59
     },
     {
       "id": "kinky-star",
       "label": "Kinky Star",
       "ok": true,
-      "count": 25
+      "count": 26
     },
     {
       "id": "rockerill",
@@ -81,27 +82,6 @@
     }
   ],
   "events": [
-    {
-      "id": "2026-11-22-de-kreun-pothamus",
-      "date": "2026-11-22",
-      "time": "19:30",
-      "artist": "Pothamus",
-      "support": [
-        "Hippotraktor"
-      ],
-      "venue": "De Kreun",
-      "city": "Kortrijk",
-      "country": "BE",
-      "genre": "Post-metal",
-      "family": "Post-metal",
-      "price": "22 €",
-      "status": "onsale",
-      "ticketUrl": "https://apps.ticketmatic.com/widgets/wilde_westen/addtickets?event=204611186959&l=nl",
-      "sourceUrl": "https://www.wildewesten.be/nl/event/pothamus-hippotraktor",
-      "sources": [
-        "wilde-westen"
-      ]
-    },
     {
       "id": "2026-11-23-splendid-arabrot",
       "date": "2026-11-23",
@@ -420,7 +400,7 @@
       "venue": "Kinky Star",
       "city": "Gent",
       "country": "BE",
-      "genre": "Rock / Metal",
+      "genre": "Metal / Rock",
       "family": "Heavy / Thrash",
       "price": "Gratuit",
       "status": "onsale",
@@ -477,24 +457,18 @@
       "date": "2027-01-14",
       "time": "19:00",
       "artist": "Rhapsody Of Fire",
-      "support": [
-        "Aeon Gods",
-        "Rock Out",
-        "Serious Black",
-        "Subterranean Masquerade"
-      ],
+      "support": [],
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Symphonic Power Metal",
+      "genre": "Power metal",
       "family": "Power / Prog",
       "price": "30 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/rhapsody-of-fire/",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_Motocultor_Across_Europe_Tour_2027-252235.html",
+      "sourceUrl": "https://theblacklab.fr/agenda/rhapsody-of-fire/",
       "sources": [
-        "black-lab",
-        "concerts-metal"
+        "black-lab"
       ]
     },
     {
@@ -582,22 +556,21 @@
       ]
     },
     {
-      "id": "2027-01-28-grand-mix-the-ocean",
+      "id": "2027-01-28-grand-mix-the-ocean-a-a-williams",
       "date": "2027-01-28",
       "time": "20:00",
-      "artist": "The Ocean",
+      "artist": "The Ocean + A.A. Williams",
       "support": [],
       "venue": "Le Grand Mix",
       "city": "Tourcoing",
       "country": "FR",
-      "genre": "Atmospheric Sludge Metal",
-      "family": "Post-metal",
+      "genre": "Metal",
+      "family": "Heavy / Thrash",
       "price": null,
       "status": "onsale",
       "ticketUrl": "https://www.legrandmix.com/agenda/the_ocean",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_The_Ocean_-_Solaris_Tour_2027-277429.html",
+      "sourceUrl": "https://www.legrandmix.com/agenda/the_ocean",
       "sources": [
-        "concerts-metal",
         "grand-mix"
       ]
     },
@@ -607,21 +580,20 @@
       "time": "20:00",
       "artist": "Resolve",
       "support": [
-        "SPLEEN",
-        "Silent Planet"
+        "Silent Planet",
+        "Spleen"
       ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Metalcore",
+      "genre": "Hardcore punk",
       "family": "Core / Hardcore",
       "price": "32 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/resolve-silent-planet-spleen/",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_Resolve_-_Tour_2027-250143.html",
+      "sourceUrl": "https://theblacklab.fr/agenda/resolve-silent-planet-spleen/",
       "sources": [
-        "black-lab",
-        "concerts-metal"
+        "black-lab"
       ]
     },
     {
@@ -635,7 +607,7 @@
       "venue": "Kinky Star",
       "city": "Gent",
       "country": "BE",
-      "genre": "Rock / Metal / Electronic / Experimental / Punk",
+      "genre": "Metal / Punk / Electronic / Experimental / Rock",
       "family": "Heavy / Thrash",
       "price": "Gratuit",
       "status": "onsale",
@@ -678,7 +650,7 @@
       "venue": "Kinky Star",
       "city": "Gent",
       "country": "BE",
-      "genre": "Rock / Metal / Experimental",
+      "genre": "Metal / Experimental / Rock",
       "family": "Heavy / Thrash",
       "price": "Gratuit",
       "status": "onsale",
@@ -697,15 +669,14 @@
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Melodic Death Metal",
+      "genre": "Melodic death metal",
       "family": "Death / Black",
       "price": "27 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/the-black-dahlia-murder/",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_The_Black_Dahlia_Murder_-_Two_Decades_of_Nocturnal_Tour_2027-258160.html",
+      "sourceUrl": "https://theblacklab.fr/agenda/the-black-dahlia-murder/",
       "sources": [
-        "black-lab",
-        "concerts-metal"
+        "black-lab"
       ]
     },
     {
@@ -863,15 +834,14 @@
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Stoner Rock",
+      "genre": "Stoner psyché",
       "family": "Doom / Stoner",
       "price": "25 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/colour-haze-smokemaster/",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_Colour_Haze___Smokemaster-283672.html",
+      "sourceUrl": "https://theblacklab.fr/agenda/colour-haze-smokemaster/",
       "sources": [
         "black-lab",
-        "concerts-metal",
         "manuel"
       ]
     },
@@ -925,15 +895,14 @@
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Black Metal",
+      "genre": "Atmospheric black metal",
       "family": "Death / Black",
       "price": "25 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/houle-can-bardd-galibot/",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_Houle_-_Goelophobia_Tour_2027-279504.html",
+      "sourceUrl": "https://theblacklab.fr/agenda/houle-can-bardd-galibot/",
       "sources": [
-        "black-lab",
-        "concerts-metal"
+        "black-lab"
       ]
     },
     {
@@ -982,24 +951,40 @@
       ]
     },
     {
-      "id": "2027-03-19-grand-mix-alcest",
+      "id": "2027-03-09-botanique-piss",
+      "date": "2027-03-09",
+      "time": null,
+      "artist": "PISS",
+      "support": [],
+      "venue": "Botanique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Noise rock",
+      "family": "Hard rock",
+      "price": null,
+      "status": "soldout",
+      "ticketUrl": "https://botanique.be/fr/concert/piss-2027",
+      "sourceUrl": "https://botanique.be/fr/concert/piss-2027",
+      "sources": [
+        "botanique"
+      ]
+    },
+    {
+      "id": "2027-03-19-grand-mix-alcest-agriculture",
       "date": "2027-03-19",
       "time": "20:00",
-      "artist": "Alcest",
-      "support": [
-        "Agriculture"
-      ],
+      "artist": "Alcest + Agriculture",
+      "support": [],
       "venue": "Le Grand Mix",
       "city": "Tourcoing",
       "country": "FR",
-      "genre": "Blackgaze",
-      "family": "Death / Black",
+      "genre": "Metal",
+      "family": "Heavy / Thrash",
       "price": null,
       "status": "onsale",
       "ticketUrl": "https://www.legrandmix.com/agenda/alcest-agriculture",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_Alcest_-_Tour_2027-267478.html",
+      "sourceUrl": "https://www.legrandmix.com/agenda/alcest-agriculture",
       "sources": [
-        "concerts-metal",
         "grand-mix"
       ]
     },
@@ -1007,22 +992,19 @@
       "id": "2027-03-20-black-lab-uuhai",
       "date": "2027-03-20",
       "time": "19:30",
-      "artist": "Uuhaï",
-      "support": [
-        "Acyl"
-      ],
+      "artist": "Uuhai",
+      "support": [],
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Folk Metal",
+      "genre": "Folk metal",
       "family": "Power / Prog",
       "price": "30 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/uuhai-2/",
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_Uuhai___Acyl-255222.html",
+      "sourceUrl": "https://theblacklab.fr/agenda/uuhai-2/",
       "sources": [
-        "black-lab",
-        "concerts-metal"
+        "black-lab"
       ]
     },
     {
@@ -1323,6 +1305,25 @@
       ]
     },
     {
+      "id": "2027-06-04-kinky-star-cold-phase-friends",
+      "date": "2027-06-04",
+      "time": "21:00",
+      "artist": "Cold Phase & Friends",
+      "support": [],
+      "venue": "Kinky Star",
+      "city": "Gent",
+      "country": "BE",
+      "genre": "Hardcore / Metal / Punk",
+      "family": "Core / Hardcore",
+      "price": "Gratuit",
+      "status": "onsale",
+      "ticketUrl": "https://www.kinkystar.com/nl/events/2027-06-04-kinky-kore-cold-phase-fr-friends",
+      "sourceUrl": "https://www.kinkystar.com/nl/events/2027-06-04-kinky-kore-cold-phase-fr-friends",
+      "sources": [
+        "kinky-star"
+      ]
+    },
+    {
       "id": "2027-06-21-aeronef-motionless-in-white",
       "date": "2027-06-21",
       "time": "20:00",
@@ -1342,6 +1343,25 @@
       "sources": [
         "aeronef",
         "concerts-metal"
+      ]
+    },
+    {
+      "id": "2027-10-31-ancienne-belgique-amenra",
+      "date": "2027-10-31",
+      "time": "19:00",
+      "artist": "Amenra",
+      "support": [],
+      "venue": "Ancienne Belgique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Sludge metal",
+      "family": "Doom / Stoner",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://www.abconcerts.be/fr/agenda/amenra/a10Qw00000Hx5zgIAB",
+      "sourceUrl": "https://www.abconcerts.be/fr/agenda/amenra/a10Qw00000Hx5zgIAB",
+      "sources": [
+        "ancienne-belgique"
       ]
     },
     {
