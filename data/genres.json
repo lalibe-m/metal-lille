@@ -2451,6 +2451,29 @@
   "tags": [],
   "checkedAt": "2026-11-17"
  },
+ "ex re": {
+  "name": "Ex:Re",
+  "id": "f0c4c98f-8f30-4b57-bcdd-a7f88c449641",
+  "tags": [
+   {
+    "name": "alternative rock",
+    "count": 1
+   },
+   {
+    "name": "indietronica",
+    "count": 1
+   },
+   {
+    "name": "singer-songwriter",
+    "count": 1
+   },
+   {
+    "name": "indie rock",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-24"
+ },
  "ezra collective": {
   "name": "Ezra Collective",
   "id": "d51acca9-a88b-4f5c-a2fe-f069de70ca1d",
@@ -2934,6 +2957,12 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "girl in the year above": {
+  "name": "Girl in the Year Above",
+  "id": "e115f2cd-e4d3-465d-bcca-5d4f568e654f",
+  "tags": [],
+  "checkedAt": "2026-11-24"
+ },
  "girls in hawaii coup dur": {
   "name": "GIRLS IN HAWAII + COUP DUR",
   "id": null,
@@ -3066,6 +3095,25 @@
   "id": "b2bcfb9f-b1eb-4b89-85d5-9cf1e2ef29f0",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "greg freeman": {
+  "name": "Greg Freeman",
+  "id": "d0abfd67-483b-4a2a-bf31-b525036d9401",
+  "tags": [
+   {
+    "name": "indie rock",
+    "count": 1
+   },
+   {
+    "name": "alternative country",
+    "count": 1
+   },
+   {
+    "name": "slacker rock",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-24"
  },
  "greg mendez": {
   "name": "Greg Mendez",
@@ -3289,6 +3337,12 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "hendrik lasure": {
+  "name": "Hendrik Lasure",
+  "id": "7ead3f2a-03f1-47cb-840f-53be2c30556d",
+  "tags": [],
+  "checkedAt": "2026-11-24"
  },
  "hendrik lasure presenteert de val": {
   "name": "Hendrik Lasure presenteert De Val",
@@ -7689,6 +7743,45 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "skinshape": {
+  "name": "Skinshape",
+  "id": "848e0d89-4696-4c7b-a74c-a8e45292df6c",
+  "tags": [
+   {
+    "name": "alternative rock",
+    "count": 1
+   },
+   {
+    "name": "folk",
+    "count": 1
+   },
+   {
+    "name": "experimental",
+    "count": 1
+   },
+   {
+    "name": "british",
+    "count": 1
+   },
+   {
+    "name": "alternative",
+    "count": 1
+   },
+   {
+    "name": "psychedelic rock",
+    "count": 1
+   },
+   {
+    "name": "psychedelic",
+    "count": 1
+   },
+   {
+    "name": "bedroom pop",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-24"
+ },
  "skip the use": {
   "name": "Skip the Use",
   "id": "1c346a43-0fba-4702-bc1b-c198f07e3da4",
@@ -7913,6 +8006,12 @@
   ],
   "checkedAt": "2026-11-13"
  },
+ "sulaf": {
+  "name": "Sulaf",
+  "id": "2fbfc069-acb9-4c5a-ac86-6e8a890d922b",
+  "tags": [],
+  "checkedAt": "2026-11-24"
+ },
  "suma": {
   "name": "Suma",
   "id": "c30efb5c-9c5d-43de-8e41-2d4817e971bb",
@@ -7973,6 +8072,12 @@
   "id": "12606bae-9da6-45b3-86f0-6fefae31e3c7",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "supremnova": {
+  "name": "Supremnova",
+  "id": "64f91100-77e7-4434-9123-6cd7a43f7912",
+  "tags": [],
+  "checkedAt": "2026-11-24"
  },
  "surprise": {
   "name": "Surprise",
@@ -8144,6 +8249,12 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "tara": {
+  "name": "TÄRA",
+  "id": "b665314c-8a9c-4d04-be56-c37696dc0f65",
+  "tags": [],
+  "checkedAt": "2026-11-24"
+ },
  "teddybear": {
   "name": "TeddyBear",
   "id": "3a358686-7a68-4980-bc02-7fcc6c357aaf",
@@ -8155,6 +8266,33 @@
   "id": "d54095ef-d58f-4fcf-91b9-5b0877a4fe17",
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "tella": {
+  "name": "Σtella",
+  "id": "b0a53552-bddc-4c04-9839-be03f42b4cdf",
+  "tags": [
+   {
+    "name": "indie pop",
+    "count": 3
+   },
+   {
+    "name": "synth-pop",
+    "count": 1
+   },
+   {
+    "name": "r&b",
+    "count": 1
+   },
+   {
+    "name": "retro soul",
+    "count": 1
+   },
+   {
+    "name": "greek indie",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-24"
  },
  "temples": {
   "name": "Temples",
@@ -9028,6 +9166,27 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "tks 2g": {
+  "name": "TKS 2G",
+  "id": "b1e92688-062d-4f04-9e4b-ecce38f95bde",
+  "tags": [
+   {
+    "name": "hip hop",
+    "count": 1
+   },
+   {
+    "name": "zouk",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-24"
+ },
+ "tom frager": {
+  "name": "Tom Frager",
+  "id": "74a48e30-37f9-40fb-a30f-116c83f1e773",
+  "tags": [],
+  "checkedAt": "2026-11-24"
+ },
  "tommigun": {
   "name": "Tommigun",
   "id": "25a71a2b-b9c8-4d60-9764-23a962ba8e7c",
@@ -9584,6 +9743,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "white corbeau": {
+  "name": "White Corbeau",
+  "id": "f75be7d0-48eb-4c99-a366-63856ba489d2",
+  "tags": [],
+  "checkedAt": "2026-11-24"
+ },
  "wia": {
   "name": "WIA",
   "id": null,
@@ -9647,6 +9812,21 @@
   "id": "2fb1495b-25ef-4807-bb33-8efa81d29b6e",
   "tags": [],
   "checkedAt": "2026-11-14"
+ },
+ "yaniss odua": {
+  "name": "Yaniss Odua",
+  "id": "c332d8d7-9f93-40eb-891b-05d060850d65",
+  "tags": [
+   {
+    "name": "reggae",
+    "count": 2
+   },
+   {
+    "name": "dancehall",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-24"
  },
  "yasmine hamdan": {
   "name": "Yasmine Hamdan",

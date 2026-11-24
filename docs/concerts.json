@@ -1,18 +1,17 @@
 {
-  "updatedAt": "2026-11-23T14:45:12.455Z",
+  "updatedAt": "2026-11-24T14:56:45.103Z",
   "sources": [
     {
       "id": "concerts-metal",
       "label": "concerts-metal.com",
-      "ok": false,
-      "count": 0,
-      "error": "HTTP 403 sur https://lille.concerts-metal.com/"
+      "ok": true,
+      "count": 36
     },
     {
       "id": "black-lab",
       "label": "The Black Lab",
       "ok": true,
-      "count": 25
+      "count": 26
     },
     {
       "id": "aeronef",
@@ -42,7 +41,7 @@
       "id": "ancienne-belgique",
       "label": "Ancienne Belgique",
       "ok": true,
-      "count": 218
+      "count": 219
     },
     {
       "id": "magasin-4",
@@ -60,7 +59,7 @@
       "id": "vk-concerts",
       "label": "VK Concerts",
       "ok": true,
-      "count": 19
+      "count": 20
     },
     {
       "id": "wilde-westen",
@@ -72,7 +71,7 @@
       "id": "kinky-star",
       "label": "Kinky Star",
       "ok": true,
-      "count": 26
+      "count": 25
     },
     {
       "id": "rockerill",
@@ -82,27 +81,6 @@
     }
   ],
   "events": [
-    {
-      "id": "2026-11-23-splendid-arabrot",
-      "date": "2026-11-23",
-      "time": "20:00",
-      "artist": "Årabrot",
-      "support": [
-        "Lost in Kyiv"
-      ],
-      "venue": "Le Splendid",
-      "city": "Lille",
-      "country": "FR",
-      "genre": "Noise rock / post-metal",
-      "family": "Post-metal",
-      "price": "dès 29 €",
-      "status": "onsale",
-      "ticketUrl": "https://www.ticketmaster.fr/fr/manifestation/arabrot-et-lost-in-kyiv-billet/idmanif/669227/idseance/4391120/idtier/13073454",
-      "sourceUrl": "https://www.le-splendid.com/arabrot-lost-in-kyiv",
-      "sources": [
-        "manuel"
-      ]
-    },
     {
       "id": "2026-11-24-magasin-4-suma",
       "date": "2026-11-24",
@@ -307,6 +285,27 @@
       ]
     },
     {
+      "id": "2026-12-12-high-voltage-angry-bearded",
+      "date": "2026-12-12",
+      "time": null,
+      "artist": "Angry Bearded",
+      "support": [
+        "Ziard Breakers"
+      ],
+      "venue": "High Voltage",
+      "city": "Lille",
+      "country": "FR",
+      "genre": "Metal Covers Of Pop Classics",
+      "family": "Heavy / Thrash",
+      "price": null,
+      "status": "unknown",
+      "ticketUrl": null,
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Angry_Bearded___Ziard_Breakers_au_High_Voltage_bar-285405.html",
+      "sources": [
+        "concerts-metal"
+      ]
+    },
+    {
       "id": "2026-12-13-ancienne-belgique-accept",
       "date": "2026-12-13",
       "time": "19:00",
@@ -400,7 +399,7 @@
       "venue": "Kinky Star",
       "city": "Gent",
       "country": "BE",
-      "genre": "Metal / Rock",
+      "genre": "Rock / Metal",
       "family": "Heavy / Thrash",
       "price": "Gratuit",
       "status": "onsale",
@@ -457,18 +456,24 @@
       "date": "2027-01-14",
       "time": "19:00",
       "artist": "Rhapsody Of Fire",
-      "support": [],
+      "support": [
+        "Aeon Gods",
+        "Rock Out",
+        "Serious Black",
+        "Subterranean Masquerade"
+      ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Power metal",
+      "genre": "Symphonic Power Metal",
       "family": "Power / Prog",
       "price": "30 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/rhapsody-of-fire/",
-      "sourceUrl": "https://theblacklab.fr/agenda/rhapsody-of-fire/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Motocultor_Across_Europe_Tour_2027-252235.html",
       "sources": [
-        "black-lab"
+        "black-lab",
+        "concerts-metal"
       ]
     },
     {
@@ -556,21 +561,22 @@
       ]
     },
     {
-      "id": "2027-01-28-grand-mix-the-ocean-a-a-williams",
+      "id": "2027-01-28-grand-mix-the-ocean",
       "date": "2027-01-28",
       "time": "20:00",
-      "artist": "The Ocean + A.A. Williams",
+      "artist": "The Ocean",
       "support": [],
       "venue": "Le Grand Mix",
       "city": "Tourcoing",
       "country": "FR",
-      "genre": "Metal",
-      "family": "Heavy / Thrash",
+      "genre": "Atmospheric Sludge Metal",
+      "family": "Post-metal",
       "price": null,
       "status": "onsale",
       "ticketUrl": "https://www.legrandmix.com/agenda/the_ocean",
-      "sourceUrl": "https://www.legrandmix.com/agenda/the_ocean",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_The_Ocean_-_Solaris_Tour_2027-277429.html",
       "sources": [
+        "concerts-metal",
         "grand-mix"
       ]
     },
@@ -580,20 +586,21 @@
       "time": "20:00",
       "artist": "Resolve",
       "support": [
-        "Silent Planet",
-        "Spleen"
+        "SPLEEN",
+        "Silent Planet"
       ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Hardcore punk",
+      "genre": "Metalcore",
       "family": "Core / Hardcore",
       "price": "32 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/resolve-silent-planet-spleen/",
-      "sourceUrl": "https://theblacklab.fr/agenda/resolve-silent-planet-spleen/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Resolve_-_Tour_2027-250143.html",
       "sources": [
-        "black-lab"
+        "black-lab",
+        "concerts-metal"
       ]
     },
     {
@@ -607,7 +614,7 @@
       "venue": "Kinky Star",
       "city": "Gent",
       "country": "BE",
-      "genre": "Metal / Punk / Electronic / Experimental / Rock",
+      "genre": "Rock / Metal / Electronic / Experimental / Punk",
       "family": "Heavy / Thrash",
       "price": "Gratuit",
       "status": "onsale",
@@ -650,7 +657,7 @@
       "venue": "Kinky Star",
       "city": "Gent",
       "country": "BE",
-      "genre": "Metal / Experimental / Rock",
+      "genre": "Rock / Metal / Experimental",
       "family": "Heavy / Thrash",
       "price": "Gratuit",
       "status": "onsale",
@@ -669,14 +676,15 @@
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Melodic death metal",
+      "genre": "Melodic Death Metal",
       "family": "Death / Black",
       "price": "27 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/the-black-dahlia-murder/",
-      "sourceUrl": "https://theblacklab.fr/agenda/the-black-dahlia-murder/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_The_Black_Dahlia_Murder_-_Two_Decades_of_Nocturnal_Tour_2027-258160.html",
       "sources": [
-        "black-lab"
+        "black-lab",
+        "concerts-metal"
       ]
     },
     {
@@ -834,14 +842,15 @@
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Stoner psyché",
+      "genre": "Stoner Rock",
       "family": "Doom / Stoner",
       "price": "25 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/colour-haze-smokemaster/",
-      "sourceUrl": "https://theblacklab.fr/agenda/colour-haze-smokemaster/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Colour_Haze___Smokemaster-283672.html",
       "sources": [
         "black-lab",
+        "concerts-metal",
         "manuel"
       ]
     },
@@ -895,14 +904,15 @@
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Atmospheric black metal",
+      "genre": "Black Metal",
       "family": "Death / Black",
       "price": "25 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/houle-can-bardd-galibot/",
-      "sourceUrl": "https://theblacklab.fr/agenda/houle-can-bardd-galibot/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Houle_-_Goelophobia_Tour_2027-279504.html",
       "sources": [
-        "black-lab"
+        "black-lab",
+        "concerts-metal"
       ]
     },
     {
@@ -970,21 +980,24 @@
       ]
     },
     {
-      "id": "2027-03-19-grand-mix-alcest-agriculture",
+      "id": "2027-03-19-grand-mix-alcest",
       "date": "2027-03-19",
       "time": "20:00",
-      "artist": "Alcest + Agriculture",
-      "support": [],
+      "artist": "Alcest",
+      "support": [
+        "Agriculture"
+      ],
       "venue": "Le Grand Mix",
       "city": "Tourcoing",
       "country": "FR",
-      "genre": "Metal",
-      "family": "Heavy / Thrash",
+      "genre": "Blackgaze",
+      "family": "Death / Black",
       "price": null,
       "status": "onsale",
       "ticketUrl": "https://www.legrandmix.com/agenda/alcest-agriculture",
-      "sourceUrl": "https://www.legrandmix.com/agenda/alcest-agriculture",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Alcest_-_Tour_2027-267478.html",
       "sources": [
+        "concerts-metal",
         "grand-mix"
       ]
     },
@@ -992,19 +1005,22 @@
       "id": "2027-03-20-black-lab-uuhai",
       "date": "2027-03-20",
       "time": "19:30",
-      "artist": "Uuhai",
-      "support": [],
+      "artist": "Uuhaï",
+      "support": [
+        "Acyl"
+      ],
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Folk metal",
+      "genre": "Folk Metal",
       "family": "Power / Prog",
       "price": "30 €",
       "status": "onsale",
       "ticketUrl": "https://theblacklab.fr/agenda/uuhai-2/",
-      "sourceUrl": "https://theblacklab.fr/agenda/uuhai-2/",
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Uuhai___Acyl-255222.html",
       "sources": [
-        "black-lab"
+        "black-lab",
+        "concerts-metal"
       ]
     },
     {
@@ -1188,6 +1204,27 @@
       "sources": [
         "black-lab",
         "manuel"
+      ]
+    },
+    {
+      "id": "2027-05-13-black-lab-1000mods",
+      "date": "2027-05-13",
+      "time": null,
+      "artist": "1000mods",
+      "support": [
+        "The Well"
+      ],
+      "venue": "The Black Lab",
+      "city": "Wasquehal",
+      "country": "FR",
+      "genre": "Stoner Rock",
+      "family": "Doom / Stoner",
+      "price": null,
+      "status": "unknown",
+      "ticketUrl": null,
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_1000mods_-_Europe__27-284968.html",
+      "sources": [
+        "concerts-metal"
       ]
     },
     {
