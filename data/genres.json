@@ -24,7 +24,7 @@
   "name": "A beginner's guide to Charles Mingus door Guy Peters",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "a beginner s guide to miles davis door guy peters": {
   "name": "A beginner's guide to Miles Davis door Guy Peters",
@@ -36,7 +36,7 @@
   "name": "A Postcard from MORTIMER",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "a2h": {
   "name": "A2h",
@@ -96,13 +96,13 @@
   "name": "Acid Arab (Live)",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "adam la nuit": {
   "name": "Adam La Nuit",
   "id": "ccbe92cf-11fc-4b1a-8175-6e92cc5a4f5a",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "adele castillon": {
   "name": "Adèle Castillon",
@@ -182,7 +182,7 @@
   "name": "Afterwork : Them Flying Monkeys",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "afterwork ugly": {
   "name": "Afterwork : Ugly",
@@ -254,7 +254,7 @@
   "name": "Aili & Orson",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "air traffic": {
   "name": "Air Traffic",
@@ -293,7 +293,7 @@
   "name": "Alice Mae",
   "id": "620ec99c-2d1d-4be2-89d4-9376486d9493",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "aloise sauvage": {
   "name": "ALOISE SAUVAGE",
@@ -362,7 +362,7 @@
   "name": "An evening with Avishai Cohen",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "anacronia haydn in the cracks": {
   "name": "Anacronia: Haydn In The Cracks",
@@ -431,13 +431,52 @@
   "name": "Anne Clark & Band",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
+ },
+ "anthrax": {
+  "name": "Anthrax",
+  "id": "b616d6f0-ec1f-4c69-8a79-12a97ece7372",
+  "tags": [
+   {
+    "name": "thrash metal",
+    "count": 22
+   },
+   {
+    "name": "heavy metal",
+    "count": 11
+   },
+   {
+    "name": "groove metal",
+    "count": 7
+   },
+   {
+    "name": "speed metal",
+    "count": 5
+   },
+   {
+    "name": "alternative metal",
+    "count": 4
+   },
+   {
+    "name": "rap metal",
+    "count": 1
+   },
+   {
+    "name": "rock",
+    "count": 0
+   },
+   {
+    "name": "80s",
+    "count": 0
+   }
+  ],
+  "checkedAt": "2026-11-25"
  },
  "ao": {
   "name": "Ão",
   "id": "b672a1b2-2f34-4a60-acdb-630be0cef623",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "arkane": {
   "name": "Arkane",
@@ -489,13 +528,13 @@
   "name": "Avondcursus podiumtechniek: installatietechniek geluid",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "avondcursus podiumtechniek installatietechniek licht": {
   "name": "Avondcursus podiumtechniek: installatietechniek licht",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "ax and the hatchetmen": {
   "name": "Ax and the Hatchetmen",
@@ -599,7 +638,7 @@
   "name": "Bandit Bandit Madam Nûr NO MAN NO CRY",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "baratro": {
   "name": "Baratro",
@@ -611,7 +650,7 @@
   "name": "Bart Peeters & De Ideale Mannen: première ‘We Zijn Ermee",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "basement": {
   "name": "Basement",
@@ -691,13 +730,13 @@
   "name": "Belgian Beatbox Championship 2026",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "belgian junglists night": {
   "name": "Belgian Junglists Night",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "beret": {
   "name": "Beret",
@@ -760,7 +799,7 @@
   "name": "Big Muffin",
   "id": "93123a6d-5802-49cb-8d42-9ef86562d9b1",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "bilal": {
   "name": "Bilal",
@@ -950,7 +989,7 @@
   "name": "Body Horror",
   "id": "194c412e-a454-469d-a40f-82f658061506",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "bonnacons of doom": {
   "name": "Bonnacons of Doom",
@@ -1039,7 +1078,7 @@
   "name": "BRUX",
   "id": "a0767698-3bc2-499b-8536-d5f1243d7dd3",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "bunt": {
   "name": "BUNT.",
@@ -1144,7 +1183,7 @@
   "name": "Camille Yembe",
   "id": "69105e65-6adc-4364-bf61-bcb3fbd1256a",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "can t be blue": {
   "name": "can't be blue",
@@ -1165,7 +1204,7 @@
   "name": "Cancervo",
   "id": "52b27910-93ef-4a6f-8eca-05dcb3772c2b",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "cappella mariana metamorfosi dialogue des voix": {
   "name": "Cappella Mariana: Metamorfosi, Dialogue Des Voix",
@@ -1255,7 +1294,7 @@
   "name": "Charles",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "charlotte adigery bolis pupul": {
   "name": "Charlotte Adigéry & Bolis Pupul",
@@ -1284,13 +1323,13 @@
   "name": "Children Of Simone",
   "id": "bedc7067-3d17-4123-8d24-b8ad1f49677e",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "chilly gonzales la rumeur": {
   "name": "CHILLY GONZALES / LA RUMEUR",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "chloe slater": {
   "name": "Chloe Slater",
@@ -1372,7 +1411,7 @@
   "name": "Ciska Ciska",
   "id": "01f8f256-2447-4565-8a93-aff681212ecd",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "clap your hands say yeah": {
   "name": "CLAP YOUR HANDS SAY YEAH",
@@ -1407,13 +1446,13 @@
   "name": "Clinton Fearon chante The Gladiators",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "cluster gent 2026": {
   "name": "CLUSTER GENT 2026",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "codeine": {
   "name": "Codeine",
@@ -1456,7 +1495,7 @@
   "name": "Compro Oro feat. Bouton Kalanda",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "conversations soniques w aiitf": {
   "name": "Conversations soniques w/AIITF",
@@ -1493,7 +1532,7 @@
   "name": "Cul Zag",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "cult of luna": {
   "name": "Cult of Luna",
@@ -1544,7 +1583,7 @@
   "name": "CURVER & WOOD BOY ENTERTAINMENT",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "cyelle": {
   "name": "Cyelle",
@@ -1742,13 +1781,13 @@
   "name": "De Grote Crate Records Muziekquiz!",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "de kleine boterhammen presenteert camilo donoso": {
   "name": "De Kleine Boterhammen presenteert Camilo Donoso",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "de kleine boterhammen presenteert frans kalf": {
   "name": "De Kleine Boterhammen presenteert Frans Kalf",
@@ -1760,13 +1799,13 @@
   "name": "De Kleine Boterhammen presenteert Michiel Libberecht (Mooney",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "de zwaarste band": {
   "name": "De Zwaarste Band",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "deaf kids": {
   "name": "Deaf Kids",
@@ -1940,7 +1979,7 @@
   "name": "DIKKE",
   "id": "2d9752d0-9276-429d-841f-5319e8112efa",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "diles que no me maten": {
   "name": "Diles Que No Me Maten",
@@ -1952,7 +1991,7 @@
   "name": "Dirty Monitor",
   "id": "469bbabe-e54e-4c9c-b433-1f446237de28",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "dirty projectors": {
   "name": "Dirty Projectors",
@@ -2066,7 +2105,7 @@
   "name": "DragonForce - Europe Tour 2027",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "drake milligan": {
   "name": "Drake Milligan",
@@ -2087,7 +2126,7 @@
   "name": "Dressed Like Boys",
   "id": "b3c25193-15a9-49a5-b538-dd29b8146412",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "dressed like boys flora hibberd": {
   "name": "DRESSED LIKE BOYS + FLORA HIBBERD",
@@ -2138,7 +2177,7 @@
   "name": "Dyna, Lewis & The Soul Caravan",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "dynamite shakers": {
   "name": "Dynamite Shakers",
@@ -2155,7 +2194,7 @@
   "name": "Ebbb",
   "id": "efaf62b6-0f94-4a1b-a82a-dc386a7fd947",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "echafaudages ole": {
   "name": "ECHAFAUDAGES olé",
@@ -2173,7 +2212,7 @@
   "name": "Edouard van Praet",
   "id": "63573255-3505-4ca8-9e1a-3da6d266585e",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "eiffel": {
   "name": "EIFFEL",
@@ -2314,19 +2353,19 @@
   "name": "Emily Wittbrodt Sextet presents Wearing Words",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "emma prat theo kaiser": {
   "name": "Emma Prat & Theo Kaiser",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "emma ruth rundle cinder well": {
   "name": "EMMA RUTH RUNDLE + CINDER WELL",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "enjoy the game": {
   "name": "Enjoy The Game",
@@ -2377,7 +2416,7 @@
   "name": "Eosine",
   "id": "0debb7d2-a090-478c-a099-24381640613b",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "ernia": {
   "name": "Ernia",
@@ -2614,19 +2653,19 @@
   "name": "Feldup & The Showerheads",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "felicette": {
   "name": "Félicette",
   "id": "a5a29ae1-2485-4424-a6dc-bdf6e758fa53",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "ferdi": {
   "name": "Ferdi",
   "id": "fa629e96-a6ac-4b05-b0ef-a9fb7fec9a50",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "finale humo s rock rally 2026": {
   "name": "Finale Humo's Rock Rally 2026",
@@ -2638,7 +2677,7 @@
   "name": "Finn Loxbo",
   "id": "b9171020-bda9-441b-82c1-a3b989523ad7",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "fireplace": {
   "name": "Fireplace",
@@ -2650,19 +2689,19 @@
   "name": "FIXKES",
   "id": "24d93680-b1db-4eac-9032-c24c3c01ba01",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "flip kowlier": {
   "name": "Flip Kowlier",
   "id": "59db5f29-4d76-49e3-9f60-be7c7ed6c4bf",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "flora fishbach": {
   "name": "FLORA FISHBACH",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "flower face": {
   "name": "Flower Face",
@@ -2703,13 +2742,19 @@
   "name": "Folie's",
   "id": "e132494a-9138-49b4-a64e-874974729ef1",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "fragile adieu soleil": {
   "name": "Fragile + Adieu Soleil",
   "id": null,
   "tags": [],
   "checkedAt": "2026-11-20"
+ },
+ "frances soen": {
+  "name": "Frances Soen",
+  "id": "cfef4085-6e34-4fbd-8d5e-985fb2eb5953",
+  "tags": [],
+  "checkedAt": "2026-11-25"
  },
  "frazey ford": {
   "name": "Frazey Ford",
@@ -2795,13 +2840,13 @@
   "name": "Frontier People - Buleshkaj & Decock",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "froukje kijk je naar mij albumtour 2026": {
   "name": "Froukje - 'Kijk Je Naar Mij?' Albumtour 2026",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "gallowstreet": {
   "name": "Gallowstreet",
@@ -2839,13 +2884,13 @@
   "name": "Gelukkig Zijn Sessie",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "gelukkig zijn sessies finale": {
   "name": "Gelukkig Zijn Sessies - Finale",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "get well soon": {
   "name": "GET WELL SOON",
@@ -2973,13 +3018,13 @@
   "name": "Girls In Hawaii presents Eldorado",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "gla55 10 movements to the music of philip glass": {
   "name": "GLA55 - 10 Movements to the Music of Philip Glass",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "glaive": {
   "name": "glaive",
@@ -3076,13 +3121,13 @@
   "name": "Gotu Jim",
   "id": "2c3c4483-17ff-4074-98a9-af261cf9d94b",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "graveyard blues pills": {
   "name": "Graveyard & Blues Pills",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "greek": {
   "name": "greek",
@@ -3094,7 +3139,7 @@
   "name": "Green Crow Collective",
   "id": "b2bcfb9f-b1eb-4b89-85d5-9cf1e2ef29f0",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "greg freeman": {
   "name": "Greg Freeman",
@@ -3125,7 +3170,7 @@
   "name": "Grieg - De Klank Van Het Noorden",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "grow your talent van track tot tour": {
   "name": "Grow Your Talent: Van Track Tot Tour!",
@@ -3198,7 +3243,7 @@
   "name": "GURRIERS + ENOLA GAY",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "guy2bezbar drb safoi 2": {
   "name": "GUY2BEZBAR + DRB + SAFOI 2",
@@ -3210,7 +3255,7 @@
   "name": "Gwendoline + Yolande Bashing",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "h jeunecrack": {
   "name": "H JeuneCrack",
@@ -3233,7 +3278,7 @@
   "name": "Harry Descamps",
   "id": "8da21c71-0b5a-4695-a3a4-be2926193708",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "hatik": {
   "name": "HATIK",
@@ -3291,13 +3336,13 @@
   "name": "Hedera Helix",
   "id": "e2e0b81b-cd4c-4b4e-ba7c-1d934a1c940e",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "helena casella": {
   "name": "Helena Casella",
   "id": "e7e27572-d1cf-4b8d-8c86-3749cac6cfb7",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "helena deland": {
   "name": "Helena Deland",
@@ -3348,7 +3393,7 @@
   "name": "Hendrik Lasure presenteert De Val",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "heretoir": {
   "name": "Heretoir",
@@ -3448,7 +3493,7 @@
   "name": "Hollywood Porn Stars",
   "id": "4d57757d-c334-444f-b94e-d5bad5190600",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "home front": {
   "name": "Home Front",
@@ -3705,10 +3750,10 @@
   "checkedAt": "2026-11-20"
  },
  "impro night aladar": {
-  "name": "Impro'Night Aladar",
+  "name": "Impro 'Night Aladar",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "infinity song": {
   "name": "Infinity Song",
@@ -3787,7 +3832,7 @@
   "name": "INTERNET GIRL + COOPER T",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "isaac delusion": {
   "name": "ISAAC DELUSION",
@@ -3832,7 +3877,7 @@
   "name": "Isaac Roux",
   "id": "d8700ade-364d-4966-8ab4-e48f05196421",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "isabel usher": {
   "name": "Isabèl Usher",
@@ -3889,7 +3934,7 @@
   "name": "Isïa",
   "id": "db4ff288-8a31-43e2-ba98-8a08767aee47",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "iskander moon": {
   "name": "Iskander Moon",
@@ -3926,13 +3971,13 @@
   "name": "Iztok Koren & Raphael Roginski",
   "id": "1499611f-badc-46a4-b4f6-b37a98367e05",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "j bernardt": {
-  "name": "J.BERNARDT",
+  "name": "J.Bernardt",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "j bernardt noonzy": {
   "name": "J.BERNARDT + NOONZY",
@@ -3982,17 +4027,28 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "jake xerxes fussell": {
+  "name": "Jake Xerxes Fussell",
+  "id": "fbc3a7a5-e602-4e7e-b730-af63a232f87d",
+  "tags": [
+   {
+    "name": "americana",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-25"
+ },
  "james marriott": {
   "name": "James Marriott",
   "id": "afe148c6-63ed-43c7-9db1-36fb7c87a44f",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "jan bas band": {
   "name": "Jan Bas & Band",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "jay jay johanson": {
   "name": "Jay-Jay Johanson",
@@ -4165,7 +4221,7 @@
   "name": "Joe Yorke",
   "id": "de5a35ea-a2ba-46b2-aac3-5c00fe5d0904",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "john coltrane 100 joe lovano x melissa aldana x nduduzo m": {
   "name": "(John) Coltrane 100: Joe Lovano x Melissa Aldana x Nduduzo M",
@@ -4192,7 +4248,7 @@
   "name": "Jojo Bepop",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "jonathan kaspar": {
   "name": "Jonathan Kaspar",
@@ -4204,7 +4260,7 @@
   "name": "Joobieseaz Belljars",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "jose gonzalez": {
   "name": "JOSÉ GONZÁLEZ",
@@ -4344,7 +4400,7 @@
   "name": "Julien Tassin",
   "id": "e6fbd03e-93ec-4824-88e7-03f3eca87b27",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "june mcdoom": {
   "name": "June McDoom",
@@ -4408,13 +4464,13 @@
   "name": "Ka'Una",
   "id": "4711a924-2c98-4ffc-bf58-a58ef9e6f0b7",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "kaat van stralen": {
   "name": "Kaat Van Stralen",
   "id": "05529f33-3bf6-494b-a841-b783ad760651",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "kadavar": {
   "name": "Kadavar",
@@ -4486,11 +4542,38 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "karnivool": {
+  "name": "Karnivool",
+  "id": "9ee2638f-c3a3-4532-bc08-54d397241c2a",
+  "tags": [
+   {
+    "name": "progressive rock",
+    "count": 2
+   },
+   {
+    "name": "heavy prog",
+    "count": 2
+   },
+   {
+    "name": "rock",
+    "count": 1
+   },
+   {
+    "name": "alternative rock",
+    "count": 1
+   },
+   {
+    "name": "australian",
+    "count": 0
+   }
+  ],
+  "checkedAt": "2026-11-25"
+ },
  "keinevision": {
   "name": "Keinevision",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "kelsey lu": {
   "name": "Kelsey Lu",
@@ -4557,7 +4640,7 @@
   "name": "KID KAPICHI + DEMOB HAPPY",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "kids with buns": {
   "name": "Kids With Buns",
@@ -4740,7 +4823,7 @@
   "name": "LA PRIEST",
   "id": "576136d1-4733-4d98-8292-a7a3c4cffb83",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "la rue ketanou": {
   "name": "LA RUE KETANOU",
@@ -4817,7 +4900,7 @@
   "name": "Lander Gyselinck - Hihats In Trees",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "lane 8": {
   "name": "Lane 8",
@@ -4897,7 +4980,7 @@
   "name": "Laurène Marx, Rok&Dudu",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "lc h": {
   "name": "LC&H",
@@ -4909,7 +4992,7 @@
   "name": "Le goûter concert d'Ão",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "le premier dimanche de decembre": {
   "name": "Le premier dimanche de décembre",
@@ -4933,19 +5016,19 @@
   "name": "LEED",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "lelee": {
   "name": "Lelee",
   "id": "63985baa-8b82-4da1-89be-ded73c03c96b",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "lenny lenny": {
   "name": "Lenny Lenny",
   "id": "1e2f6364-bf57-44b0-b15c-765e78f836cf",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "les 30 ans de spiritek": {
   "name": "Les 30 Ans De Spiritek",
@@ -5023,7 +5106,7 @@
   "name": "LEWIS OFMAN",
   "id": "f0963a9e-0250-4c97-a26f-e6915034fc9d",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "lezard": {
   "name": "Lézard",
@@ -5059,6 +5142,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-11-15"
+ },
+ "lo bailly": {
+  "name": "Lo Bailly",
+  "id": "f7d2b86f-2534-406b-b566-a9f87e728d57",
+  "tags": [],
+  "checkedAt": "2026-11-25"
  },
  "loic nottet": {
   "name": "Loïc Nottet",
@@ -5132,7 +5221,7 @@
   "name": "LOS BITCHOS & Friends + SINKANE",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "los piranas": {
   "name": "Los Piranas",
@@ -5181,7 +5270,7 @@
   "name": "Lushe",
   "id": "aaa50b0c-237f-445a-aba4-f08bd045c83e",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "luther": {
   "name": "Luther",
@@ -5226,7 +5315,7 @@
   "name": "MACONDO TRIO ft. BRAM DE LOOZE",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "macy gray": {
   "name": "Macy Gray",
@@ -5400,13 +5489,13 @@
   "name": "Manassé",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "marguerite": {
   "name": "Marguerite",
   "id": "27d186f5-db55-4e98-bf64-06a43d20bf76",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "marguerite cheri": {
   "name": "Marguerite + CHÉRI",
@@ -5494,7 +5583,7 @@
   "name": "Marka solo",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "martin luke brown": {
   "name": "Martin Luke Brown",
@@ -5573,6 +5662,45 @@
   ],
   "checkedAt": "2026-11-07"
  },
+ "mastodon": {
+  "name": "Mastodon",
+  "id": "bc5e2ad6-0a4a-4d90-b911-e9a7e6861727",
+  "tags": [
+   {
+    "name": "progressive metal",
+    "count": 13
+   },
+   {
+    "name": "sludge metal",
+    "count": 8
+   },
+   {
+    "name": "heavy metal",
+    "count": 6
+   },
+   {
+    "name": "metal",
+    "count": 6
+   },
+   {
+    "name": "alternative metal",
+    "count": 3
+   },
+   {
+    "name": "metalcore",
+    "count": 1
+   },
+   {
+    "name": "hard rock",
+    "count": 1
+   },
+   {
+    "name": "stoner metal",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-25"
+ },
  "mathlovsky": {
   "name": "MATHLOVSKY",
   "id": "78d54669-3bb2-4ef9-aa1b-66f34ceeb91c",
@@ -5589,13 +5717,13 @@
   "name": "Matinee Béla Bartók - Hertog Blauwbaards Burcht",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "matinee breath in motion ventus duo": {
   "name": "Matinee: Breath In Motion - Ventus Duo",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "matinee concert hendrik lasure presenteert de val": {
   "name": "Matinee concert: Hendrik Lasure presenteert De Val",
@@ -5607,19 +5735,19 @@
   "name": "Matinee: Eric Legnini",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "matinee pianokwintetten ryelandt en shostakovich": {
   "name": "Matinee: Pianokwintetten Ryelandt En Shostakovich",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "matinee seaven tear s dowland retold": {
   "name": "Matinee: Seaven Tear S. Dowland Retold",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "matinee sterre decru aglica trio": {
   "name": "Matinee: Sterre Decru & Aglica Trio",
@@ -5631,7 +5759,7 @@
   "name": "Matinéeconcert: Herman van Veen",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "matthew and the atlas": {
   "name": "Matthew And The Atlas",
@@ -5664,25 +5792,31 @@
   "name": "Mattias De Craene ft. Black Koyo",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "mattiel": {
   "name": "Mattiel",
   "id": "4dbf34ad-4156-4587-8532-4219cb4fa373",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
+ },
+ "mazeys": {
+  "name": "Mazeys",
+  "id": "b653b9a7-3844-4261-b0ce-a72e22ace67f",
+  "tags": [],
+  "checkedAt": "2026-11-25"
  },
  "me gusta tu": {
   "name": "Me Gusta Tu",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "medium build": {
   "name": "Medium Build",
   "id": "fbce62fb-53e1-4fb7-8d5d-f77a1b72a4e7",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "melanie c": {
   "name": "Melanie C",
@@ -5719,13 +5853,13 @@
   "name": "Meltheads",
   "id": "5f32f19b-e308-4047-8af4-1b469b8319a6",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "mengers": {
   "name": "Mengers",
   "id": "e0a15893-a805-4b54-b593-1ef4ab41a43a",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "merol": {
   "name": "Merol",
@@ -5753,6 +5887,12 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "micromagisch": {
+  "name": "Micromagisch",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-25"
  },
  "mietze conte": {
   "name": "Mietze Conte",
@@ -5877,6 +6017,12 @@
   ],
   "checkedAt": "2026-11-08"
  },
+ "monodriver": {
+  "name": "Monodriver",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-25"
+ },
  "monolithe noir": {
   "name": "Monolithe Noir",
   "id": "c3668980-19a4-4e19-b091-9c22385af633",
@@ -5907,7 +6053,7 @@
   "name": "Morgan",
   "id": "6dff0382-de9d-4695-b221-5eac7b3c5ef5",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "mormor": {
   "name": "MorMor",
@@ -6058,7 +6204,7 @@
   "name": "MUZIEKBARBAR met o.a. Filip Tanghe en Yungsnem",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "my first time": {
   "name": "My First Time",
@@ -6105,7 +6251,7 @@
   "name": "Namiddagconcert: Johan Verminnen, Afscheid Van Een Zanger",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "narkose": {
   "name": "Narkose",
@@ -6117,13 +6263,13 @@
   "name": "Natty Bo & The Top Cats",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "nausca the story of lung ta": {
   "name": "Nausca: The Story Of Lung-Ta",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "nayte": {
   "name": "Nayte",
@@ -6159,7 +6305,7 @@
   "name": "Neptune",
   "id": "6476845b-1fb0-4ac1-bd1d-22f45a2d6bef",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "nes": {
   "name": "NeS",
@@ -6176,7 +6322,7 @@
   "name": "Nesa Azadikhah",
   "id": "15db54df-a4b5-4f93-9905-62829f492024",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "new wave experience": {
   "name": "New Wave Experience",
@@ -6251,7 +6397,7 @@
   "name": "Noa Lee",
   "id": "f854fc13-ec40-4f6b-ade3-ab848aa73785",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "noezhai": {
   "name": "NOÉZHAI",
@@ -6365,7 +6511,7 @@
   "name": "Omasta",
   "id": "74a7ebef-394e-4cee-90b7-efcc254c6c7a",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "ooralise punchlyn": {
   "name": "OORALISE Punchlyn",
@@ -6570,13 +6716,13 @@
   "name": "P-stones of death",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "paak": {
-  "name": "Paak",
+  "name": "PAAK",
   "id": "b5639c92-230e-4ab2-a7b7-a214576bce71",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "palaye royale": {
   "name": "Palaye Royale",
@@ -6615,13 +6761,13 @@
   "name": "Paolo.",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "passi neg marrons": {
   "name": "Passi & Neg' Marrons",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "peaches": {
   "name": "PEACHES",
@@ -6671,7 +6817,7 @@
   "name": "PETER DOHERTY (solo)",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "peter the test tube babies": {
   "name": "Peter & The Test Tube Babies",
@@ -6704,7 +6850,7 @@
   "name": "Phoenician Drive",
   "id": "7869a099-dd38-4347-963c-b1f340654f2f",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "pierre de maere": {
   "name": "PIERRE DE MAERE",
@@ -6966,7 +7112,7 @@
   "name": "Poulycroc",
   "id": "a870cff1-f15e-4606-bb39-42365ea84cc7",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "president": {
   "name": "PRESIDENT",
@@ -7162,7 +7308,7 @@
   "name": "Radwan Ghazi Moumneh & Frederic Oberland present 'Eternal Li",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "razorlight": {
   "name": "Razorlight",
@@ -7246,6 +7392,12 @@
   "id": "553331a9-fcac-47c0-8299-62cbbca5b521",
   "tags": [],
   "checkedAt": "2026-10-27"
+ },
+ "rewilding": {
+  "name": "Rewilding",
+  "id": "e3bfa21c-0d42-45bb-8404-148a8ac1d33e",
+  "tags": [],
+  "checkedAt": "2026-11-25"
  },
  "rhapsody of fire": {
   "name": "Rhapsody Of Fire",
@@ -7359,7 +7511,7 @@
   "name": "RODRIGO Y GABRIELA + Midori Jaeger",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "roni": {
   "name": "RONI",
@@ -7403,7 +7555,7 @@
   "name": "Rover",
   "id": "03b0c0ae-cea0-4ffc-9b64-0ee7952ebe37",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "ruthee": {
   "name": "Ruthee",
@@ -7460,13 +7612,13 @@
   "name": "SAM QUEALY",
   "id": "f6c94a77-1c13-4ef0-880a-ff9264e5070c",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "sam sauvage": {
   "name": "Sam Sauvage",
   "id": "53ceabc4-9e4c-4dd2-b067-c212e9f70062",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "sam sauvage adahy": {
   "name": "SAM SAUVAGE + ADAHY",
@@ -7509,7 +7661,7 @@
   "name": "Sander Boury",
   "id": "a944b175-b435-444f-931e-283a35c73d22",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "sanguijuelas del guadiana": {
   "name": "Sanguijuelas del Guadiana",
@@ -7587,7 +7739,7 @@
   "name": "SCATTERED RHYMES - ZEFIRO TORNA & FRANK VAGANéE TRIO",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "schur": {
   "name": "Schur",
@@ -7599,7 +7751,7 @@
   "name": "Scientist performing 'Scientist Rids the World of the Evil C",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "screening the dome sessions 2025 by firas el hallak": {
   "name": "Screening: The Dome Sessions (2025) by Firas El Hallak",
@@ -7735,13 +7887,13 @@
   "name": "Sietepè: Gabriel Ríos",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "siloe": {
   "name": "Siloé",
   "id": "88f0bc3b-48aa-4723-bbc7-dbcdd16b36eb",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "skinshape": {
   "name": "Skinshape",
@@ -7869,7 +8021,7 @@
   "name": "SOCIALS VOOR ARTIESTEN met FRAUKE VAN COILE",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "sonic city 2026": {
   "name": "Sonic City 2026",
@@ -7900,7 +8052,7 @@
   "name": "SPIDER ZED + JUSTENIELS",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "sports": {
   "name": "Sports",
@@ -7989,7 +8141,7 @@
   "name": "Stefan Maier & Yuki Nakagawa",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "strongboi": {
   "name": "strongboi",
@@ -8053,7 +8205,7 @@
   "name": "Sunday Morning concert: Catharina Evens",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "sunday morning concert daimon eric thielemans jozef dumo": {
   "name": "Sunday Morning concert: Daimon (Eric Thielemans & Jozef Dumo",
@@ -8065,7 +8217,7 @@
   "name": "Sunday Morning Concert: Jean J. Boudart",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "sunset images": {
   "name": "Sunset Images",
@@ -8106,7 +8258,7 @@
   "name": "Susobrino",
   "id": "b7d2c081-4856-4caa-81a3-25e9040fde41",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "suzane": {
   "name": "Suzane",
@@ -8259,7 +8411,7 @@
   "name": "TeddyBear",
   "id": "3a358686-7a68-4980-bc02-7fcc6c357aaf",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "teledetente 666": {
   "name": "Télédétente 666",
@@ -8673,7 +8825,7 @@
   "name": "THE KLITTENS + LIBRARY CARD + SEEDY LIARS",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "the meffs": {
   "name": "The Meffs",
@@ -9108,7 +9260,7 @@
   "name": "The Wolf Banes",
   "id": "9a27fce5-77e1-45cd-8488-04ac0d2e0865",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "the yummy mouths": {
   "name": "The Yummy Mouths",
@@ -9120,7 +9272,7 @@
   "name": "This Is The Omen",
   "id": "7cc4eb8e-d465-43ff-8653-9044daf9b4b5",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "thk": {
   "name": "Thk",
@@ -9191,7 +9343,7 @@
   "name": "Tommigun",
   "id": "25a71a2b-b9c8-4d60-9764-23a962ba8e7c",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "tomoki sanders": {
   "name": "Tomoki Sanders",
@@ -9209,13 +9361,13 @@
   "name": "Tracy De sÁ iNi",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "tramhaus": {
   "name": "Tramhaus",
   "id": "dace0d40-f90f-4b3b-99da-aa99be756920",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "trentem ller": {
   "name": "Trentemøller",
@@ -9283,7 +9435,7 @@
   "name": "Tröckener Kecks",
   "id": "dcf7e8d8-d3c0-4004-84bb-554895062604",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "trouille bleue": {
   "name": "TROUILLE BLEUE",
@@ -9319,19 +9471,19 @@
   "name": "Typhee",
   "id": "43a788b7-35f9-4b84-99ed-72837d4e3978",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "u uk uk1mat u yousuke yukimatsu brussels": {
   "name": "¥ØU$UK€ ¥UK1MAT$U (Yousuke Yukimatsu) – Brussels",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "ub40 feat ali campbell": {
   "name": "UB40 feat Ali Campbell",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "uche yara": {
   "name": "UCHE YARA",
@@ -9384,7 +9536,7 @@
   "name": "Ultrasunn",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "uncle acid the deadbeats": {
   "name": "Uncle Acid & The Deadbeats",
@@ -9427,6 +9579,12 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "underscore presents ad he mar werend van den bossche": {
+  "name": "Underscore_ Presents: Ad.he.mar & Werend Van Den Bossche",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-25"
  },
  "underscores": {
   "name": "underscores",
@@ -9477,7 +9635,7 @@
   "name": "Unsafe Space Garden",
   "id": "1ac0ad0b-516b-437e-876c-1452b9e78bda",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "uuhai": {
   "name": "Uuhai",
@@ -9502,7 +9660,7 @@
   "name": "uwase",
   "id": "c4a6c1ca-0986-4583-8345-d0f23414ea7a",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "v ksaar presents rougheure": {
   "name": "V-Ksaar presents ROUGHEURE",
@@ -9531,7 +9689,13 @@
   "name": "Vernis Rouge",
   "id": "205bb776-c2b1-4eae-b152-235c9b1d83b3",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
+ },
+ "verpest": {
+  "name": "VerpesT",
+  "id": "acbdaa19-552d-4909-86b5-3a90ccac1918",
+  "tags": [],
+  "checkedAt": "2026-11-25"
  },
  "vitalic": {
   "name": "VITALIC",
@@ -9615,7 +9779,13 @@
   "name": "Vulves Assassines + Poésie Zéro",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
+ },
+ "w fesdt 2 didt komdt niedt op dteevee": {
+  "name": "W-fesdt 2: Didt komdt niedt op dteevee.",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-25"
  },
  "wallace cleaver": {
   "name": "Wallace Cleaver",
@@ -9644,19 +9814,19 @@
   "name": "Ward Dhoore",
   "id": "07289d63-d9b8-4890-b203-2380ecbcba1a",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "warhaus": {
-  "name": "WARHAUS",
+  "name": "Warhaus",
   "id": "d9fccd7c-a14c-4c1a-8a3b-17d05b2f549c",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "warm me up antenox": {
   "name": "WARM ME UP : ANTENOX",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "wat doet een booker programmator": {
   "name": "Wat Doet Een Booker & Programmator?",
@@ -9782,7 +9952,7 @@
   "name": "Wild Classical Music Ensemble & Fournèz",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "willow avalon": {
   "name": "Willow Avalon",
@@ -9805,7 +9975,7 @@
   "name": "WISSELSTROOM w/ JASSS & Rare Mamba",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "yaeger": {
   "name": "Yaeger",
@@ -9874,6 +10044,12 @@
   ],
   "checkedAt": "2026-11-06"
  },
+ "yokai": {
+  "name": "Yôkaï",
+  "id": "917e3c94-deeb-4341-a06e-a1fd139aae86",
+  "tags": [],
+  "checkedAt": "2026-11-25"
+ },
  "youth l ab presents space station": {
   "name": "Youth L'AB presents: Space Station",
   "id": null,
@@ -9884,7 +10060,7 @@
   "name": "YUSTON XIII",
   "id": "2d0ee72f-8c7d-47e2-aaa8-80a710555e22",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-25"
  },
  "zelie": {
   "name": "Zélie",
@@ -9962,6 +10138,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-11-02"
+ },
+ "zoonra claudien white lion": {
+  "name": "Zoonra Claudien White Lion",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-25"
  },
  "zornik": {
   "name": "Zornik",

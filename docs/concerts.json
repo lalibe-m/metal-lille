@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-24T14:56:45.103Z",
+  "updatedAt": "2026-11-25T14:39:14.198Z",
   "sources": [
     {
       "id": "concerts-metal",
       "label": "concerts-metal.com",
       "ok": true,
-      "count": 36
+      "count": 38
     },
     {
       "id": "black-lab",
       "label": "The Black Lab",
       "ok": true,
-      "count": 26
+      "count": 25
     },
     {
       "id": "aeronef",
@@ -29,7 +29,7 @@
       "id": "cave-aux-poetes",
       "label": "La Cave aux Poètes",
       "ok": true,
-      "count": 8
+      "count": 9
     },
     {
       "id": "metaphone",
@@ -41,13 +41,13 @@
       "id": "ancienne-belgique",
       "label": "Ancienne Belgique",
       "ok": true,
-      "count": 219
+      "count": 223
     },
     {
       "id": "magasin-4",
       "label": "Magasin 4",
       "ok": true,
-      "count": 13
+      "count": 12
     },
     {
       "id": "botanique",
@@ -71,7 +71,7 @@
       "id": "kinky-star",
       "label": "Kinky Star",
       "ok": true,
-      "count": 25
+      "count": 32
     },
     {
       "id": "rockerill",
@@ -81,27 +81,6 @@
     }
   ],
   "events": [
-    {
-      "id": "2026-11-24-magasin-4-suma",
-      "date": "2026-11-24",
-      "time": "19:30",
-      "artist": "Suma",
-      "support": [
-        "divided"
-      ],
-      "venue": "Magasin 4",
-      "city": "Bruxelles",
-      "country": "BE",
-      "genre": "Sludge / Doom / Post-Hardcore",
-      "family": "Core / Hardcore",
-      "price": "15 €",
-      "status": "onsale",
-      "ticketUrl": "https://magasin4.stager.co/shop/default/events/111660018",
-      "sourceUrl": "https://www.magasin4.be/concerts/51041/2026-11-24/",
-      "sources": [
-        "magasin-4"
-      ]
-    },
     {
       "id": "2026-11-26-botanique-liturgy-solo",
       "date": "2026-11-26",
@@ -399,12 +378,33 @@
       "venue": "Kinky Star",
       "city": "Gent",
       "country": "BE",
-      "genre": "Rock / Metal",
+      "genre": "Metal / Rock",
       "family": "Heavy / Thrash",
       "price": "Gratuit",
       "status": "onsale",
       "ticketUrl": "https://www.kinkystar.com/nl/events/2026-12-18-kinky-kapot-kristmas-dad-magic-be-lain-fallow-be-",
       "sourceUrl": "https://www.kinkystar.com/nl/events/2026-12-18-kinky-kapot-kristmas-dad-magic-be-lain-fallow-be-",
+      "sources": [
+        "kinky-star"
+      ]
+    },
+    {
+      "id": "2026-12-31-kinky-star-rewilding",
+      "date": "2026-12-31",
+      "time": "21:00",
+      "artist": "Rewilding",
+      "support": [
+        "Kinky All Stars All Night Long"
+      ],
+      "venue": "Kinky Star",
+      "city": "Gent",
+      "country": "BE",
+      "genre": "Metal / Rock / Rave / Hip Hop",
+      "family": "Heavy / Thrash",
+      "price": "Gratuit",
+      "status": "onsale",
+      "ticketUrl": "https://www.kinkystar.com/nl/events/2026-12-31-kinky-star-nye-rewilding-be-kinky-all-stars-all-night-long",
+      "sourceUrl": "https://www.kinkystar.com/nl/events/2026-12-31-kinky-star-nye-rewilding-be-kinky-all-stars-all-night-long",
       "sources": [
         "kinky-star"
       ]
@@ -521,6 +521,25 @@
       ]
     },
     {
+      "id": "2027-01-20-kinky-star-w-fesdt-2-didt-komdt-niedt-op-dteevee",
+      "date": "2027-01-20",
+      "time": "19:45",
+      "artist": "W-fesdt 2: Didt komdt niedt op dteevee.",
+      "support": [],
+      "venue": "Kinky Star",
+      "city": "Gent",
+      "country": "BE",
+      "genre": "Jazz / Wave / Reggae / Hardcore / Metal / Rock / Electronic / Experimental / Punk / Blues / Classical / Downtempo / Ambient / Folk / Industrial / Psychedelic / World / Gentse Feesten / JonGeduld / Plan.K / Pop / Rave / Comedy / Hip Hop",
+      "family": "Core / Hardcore",
+      "price": "Gratuit",
+      "status": "onsale",
+      "ticketUrl": "https://www.kinkystar.com/nl/events/2027-01-20-w-fesdt-2-didt-komdt-niedt-op-dteevee",
+      "sourceUrl": "https://www.kinkystar.com/nl/events/2027-01-20-w-fesdt-2-didt-komdt-niedt-op-dteevee",
+      "sources": [
+        "kinky-star"
+      ]
+    },
+    {
       "id": "2027-01-21-ancienne-belgique-black-veil-brides",
       "date": "2027-01-21",
       "time": "19:00",
@@ -614,7 +633,7 @@
       "venue": "Kinky Star",
       "city": "Gent",
       "country": "BE",
-      "genre": "Rock / Metal / Electronic / Experimental / Punk",
+      "genre": "Metal / Rock / Electronic / Experimental / Punk",
       "family": "Heavy / Thrash",
       "price": "Gratuit",
       "status": "onsale",
@@ -657,7 +676,7 @@
       "venue": "Kinky Star",
       "city": "Gent",
       "country": "BE",
-      "genre": "Rock / Metal / Experimental",
+      "genre": "Metal / Rock / Experimental",
       "family": "Heavy / Thrash",
       "price": "Gratuit",
       "status": "onsale",
@@ -972,9 +991,30 @@
       "genre": "Noise rock",
       "family": "Hard rock",
       "price": null,
-      "status": "soldout",
+      "status": "onsale",
       "ticketUrl": "https://botanique.be/fr/concert/piss-2027",
       "sourceUrl": "https://botanique.be/fr/concert/piss-2027",
+      "sources": [
+        "botanique"
+      ]
+    },
+    {
+      "id": "2027-03-12-botanique-guilt",
+      "date": "2027-03-12",
+      "time": null,
+      "artist": "Guilt",
+      "support": [
+        "Lovesome"
+      ],
+      "venue": "Botanique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Hardcore",
+      "family": "Core / Hardcore",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://botanique.be/fr/concert/guilt-lovesome-2027",
+      "sourceUrl": "https://botanique.be/fr/concert/guilt-lovesome-2027",
       "sources": [
         "botanique"
       ]
@@ -1162,6 +1202,46 @@
       ]
     },
     {
+      "id": "2027-04-05-ancienne-belgique-mastodon",
+      "date": "2027-04-05",
+      "time": "19:00",
+      "artist": "Mastodon",
+      "support": [
+        "Monolord"
+      ],
+      "venue": "Ancienne Belgique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Progressive metal",
+      "family": "Power / Prog",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://www.abconcerts.be/fr/agenda/mastodon/a10Qw00000OQSUJIA5",
+      "sourceUrl": "https://www.abconcerts.be/fr/agenda/mastodon/a10Qw00000OQSUJIA5",
+      "sources": [
+        "ancienne-belgique"
+      ]
+    },
+    {
+      "id": "2027-04-09-ancienne-belgique-anthrax",
+      "date": "2027-04-09",
+      "time": "19:00",
+      "artist": "Anthrax",
+      "support": [],
+      "venue": "Ancienne Belgique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Thrash metal",
+      "family": "Heavy / Thrash",
+      "price": null,
+      "status": "unknown",
+      "ticketUrl": "https://www.abconcerts.be/fr/agenda/anthrax/a10Qw00000Kdg2HIAR",
+      "sourceUrl": "https://www.abconcerts.be/fr/agenda/anthrax/a10Qw00000Kdg2HIAR",
+      "sources": [
+        "ancienne-belgique"
+      ]
+    },
+    {
       "id": "2027-04-16-aeronef-dali",
       "date": "2027-04-16",
       "time": "20:00",
@@ -1180,6 +1260,27 @@
       "sourceUrl": "https://aeronef.fr/agenda/dali",
       "sources": [
         "aeronef"
+      ]
+    },
+    {
+      "id": "2027-04-17-brat-cave-misanthrope",
+      "date": "2027-04-17",
+      "time": null,
+      "artist": "Misanthrope",
+      "support": [
+        "Monolithe"
+      ],
+      "venue": "La Brat Cave",
+      "city": "Lille",
+      "country": "FR",
+      "genre": "Melodic Death Metal",
+      "family": "Death / Black",
+      "price": null,
+      "status": "unknown",
+      "ticketUrl": null,
+      "sourceUrl": "https://www.concerts-metal.com/concert_-_Misanthrope___Monolithe-286015.html",
+      "sources": [
+        "concerts-metal"
       ]
     },
     {
@@ -1394,9 +1495,28 @@
       "genre": "Sludge metal",
       "family": "Doom / Stoner",
       "price": null,
-      "status": "onsale",
+      "status": "soldout",
       "ticketUrl": "https://www.abconcerts.be/fr/agenda/amenra/a10Qw00000Hx5zgIAB",
       "sourceUrl": "https://www.abconcerts.be/fr/agenda/amenra/a10Qw00000Hx5zgIAB",
+      "sources": [
+        "ancienne-belgique"
+      ]
+    },
+    {
+      "id": "2027-11-01-ancienne-belgique-amenra",
+      "date": "2027-11-01",
+      "time": "19:00",
+      "artist": "Amenra",
+      "support": [],
+      "venue": "Ancienne Belgique",
+      "city": "Bruxelles",
+      "country": "BE",
+      "genre": "Sludge metal",
+      "family": "Doom / Stoner",
+      "price": null,
+      "status": "onsale",
+      "ticketUrl": "https://www.abconcerts.be/fr/agenda/amenra/a10Qw00000Hx5zhIAB",
+      "sourceUrl": "https://www.abconcerts.be/fr/agenda/amenra/a10Qw00000Hx5zhIAB",
       "sources": [
         "ancienne-belgique"
       ]
