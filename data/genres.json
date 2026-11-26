@@ -283,17 +283,62 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "ak chamel": {
+  "name": "Ak'chamel",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-26"
+ },
  "alcest agriculture": {
   "name": "Alcest + Agriculture",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-27"
+  "checkedAt": "2026-11-26"
  },
  "alice mae": {
   "name": "Alice Mae",
   "id": "620ec99c-2d1d-4be2-89d4-9376486d9493",
   "tags": [],
   "checkedAt": "2026-11-25"
+ },
+ "allah las": {
+  "name": "Allah-Las",
+  "id": "cfd1fdcc-3c1d-4854-a500-31d96a6d5184",
+  "tags": [
+   {
+    "name": "rock",
+    "count": 1
+   },
+   {
+    "name": "psychedelic",
+    "count": 1
+   },
+   {
+    "name": "psychedelic pop",
+    "count": 1
+   },
+   {
+    "name": "garage rock",
+    "count": 1
+   },
+   {
+    "name": "rock and roll",
+    "count": 1
+   },
+   {
+    "name": "surf",
+    "count": 1
+   },
+   {
+    "name": "indie surf",
+    "count": 1
+   },
+   {
+    "name": "seen live",
+    "count": 0
+   }
+  ],
+  "checkedAt": "2026-11-26"
  },
  "aloise sauvage": {
   "name": "ALOISE SAUVAGE",
@@ -610,6 +655,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-27"
+ },
+ "bai kamara jr": {
+  "name": "Bai Kamara Jr",
+  "id": "473c8daa-2b75-4b2b-8269-60eace3a3d04",
+  "tags": [],
+  "checkedAt": "2026-11-26"
  },
  "balik": {
   "name": "Balik",
@@ -1577,7 +1628,7 @@
   "name": "CULT OF LUNA + BRUIT ≤ + YOUTH CODE",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-27"
+  "checkedAt": "2026-11-26"
  },
  "curver wood boy entertainment": {
   "name": "CURVER & WOOD BOY ENTERTAINMENT",
@@ -3274,6 +3325,12 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "hand some men drag show for drag kings": {
+  "name": "Hand Some Men: Drag Show for Drag Kings",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-26"
+ },
  "harry descamps": {
   "name": "Harry Descamps",
   "id": "8da21c71-0b5a-4695-a3a4-be2926193708",
@@ -3940,7 +3997,7 @@
   "name": "Iskander Moon",
   "id": "e336f7a8-46cb-454e-b303-8779a5b46c4a",
   "tags": [],
-  "checkedAt": "2026-10-27"
+  "checkedAt": "2026-11-26"
  },
  "izeah": {
   "name": "Izeah",
@@ -4049,6 +4106,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-11-25"
+ },
+ "jaune toujours special 30y on stage": {
+  "name": "Jaune Toujours special 30y on stage",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-26"
  },
  "jay jay johanson": {
   "name": "Jay-Jay Johanson",
@@ -4616,7 +4679,7 @@
   "name": "Kevin Richard Martin presents 'Sub Zero'",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-26"
  },
  "kick off 2026 dj contest": {
   "name": "Kick-Off 2026 : DJ CONTEST",
@@ -5017,6 +5080,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-11-25"
+ },
+ "lela soto": {
+  "name": "Lela Soto",
+  "id": "cd937b1e-41a0-45c7-8c15-3e9cb53459b4",
+  "tags": [],
+  "checkedAt": "2026-11-26"
  },
  "lelee": {
   "name": "Lelee",
@@ -6275,7 +6344,7 @@
   "name": "Nayte",
   "id": "c3814031-fbea-4e71-9b8b-47392c8df52e",
   "tags": [],
-  "checkedAt": "2026-10-26"
+  "checkedAt": "2026-11-26"
  },
  "nem ensemble pool of sound eerste voorstelling": {
   "name": "NEMØ ENSEMBLE: POOL OF SOUND (eerste voorstelling)",
@@ -7136,7 +7205,7 @@
   "name": "PRIMITIVE RING + FEDERALE",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-27"
+  "checkedAt": "2026-11-26"
  },
  "prison religion": {
   "name": "Prison Religion",
@@ -7360,6 +7429,12 @@
   ],
   "checkedAt": "2026-10-26"
  },
+ "reporte symptom episode 1": {
+  "name": "[reporté] Symptom : Episode 1",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-26"
+ },
  "resolve": {
   "name": "Resolve",
   "id": "63fd8bca-41b5-45d4-afc3-ee63ffcb507a",
@@ -7391,7 +7466,7 @@
   "name": "Revnoir",
   "id": "553331a9-fcac-47c0-8299-62cbbca5b521",
   "tags": [],
-  "checkedAt": "2026-10-27"
+  "checkedAt": "2026-11-26"
  },
  "rewilding": {
   "name": "Rewilding",
@@ -7996,7 +8071,7 @@
   "name": "SLIFT + HEY COLOSSUS + MYAR",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-27"
+  "checkedAt": "2026-11-26"
  },
  "sniper": {
   "name": "Sniper",
@@ -8022,6 +8097,29 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-11-25"
+ },
+ "sofie royer": {
+  "name": "Sofie Royer",
+  "id": "82392a3e-a389-4fd2-93cc-9a5796206648",
+  "tags": [
+   {
+    "name": "synth-pop",
+    "count": 1
+   },
+   {
+    "name": "female vocals",
+    "count": 1
+   },
+   {
+    "name": "soft rock",
+    "count": 1
+   },
+   {
+    "name": "italo-disco",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-26"
  },
  "sonic city 2026": {
   "name": "Sonic City 2026",
@@ -8142,6 +8240,41 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-11-25"
+ },
+ "stick to your guns": {
+  "name": "Stick To Your Guns",
+  "id": "07ef6bdd-20c8-4f2b-ac87-463f65b90768",
+  "tags": [
+   {
+    "name": "hardcore punk",
+    "count": 3
+   },
+   {
+    "name": "metalcore",
+    "count": 2
+   },
+   {
+    "name": "melodic metalcore",
+    "count": 2
+   },
+   {
+    "name": "melodic hardcore",
+    "count": 2
+   },
+   {
+    "name": "hardcore",
+    "count": 2
+   },
+   {
+    "name": "metal",
+    "count": 2
+   },
+   {
+    "name": "punk",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-26"
  },
  "strongboi": {
   "name": "strongboi",
@@ -8290,6 +8423,21 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "svaneborg kardyb": {
+  "name": "Svaneborg Kardyb",
+  "id": "c2b967c8-e9b5-40a0-86f9-c2941d7434d2",
+  "tags": [
+   {
+    "name": "electronic",
+    "count": 1
+   },
+   {
+    "name": "jazz",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-26"
  },
  "swing": {
   "name": "Swing",
@@ -9318,6 +9466,21 @@
   "tags": [],
   "checkedAt": "2026-10-26"
  },
+ "tiny habits": {
+  "name": "Tiny Habits",
+  "id": "6f38418e-4695-4e20-a792-431929e95ee5",
+  "tags": [
+   {
+    "name": "pop",
+    "count": 1
+   },
+   {
+    "name": "indie pop",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-26"
+ },
  "tks 2g": {
   "name": "TKS 2G",
   "id": "b1e92688-062d-4f04-9e4b-ecce38f95bde",
@@ -9356,6 +9519,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-10-26"
+ },
+ "tony the kiki": {
+  "name": "Tony & The Kiki",
+  "id": "5991407f-0e25-41f3-8083-ec215532f5df",
+  "tags": [],
+  "checkedAt": "2026-11-26"
  },
  "tracy de sa ini": {
   "name": "Tracy De sÁ iNi",
@@ -9465,7 +9634,7 @@
   "name": "Turbo Minus",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-27"
+  "checkedAt": "2026-11-26"
  },
  "typhee": {
   "name": "Typhee",
