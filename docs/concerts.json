@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T13:58:05.873Z",
+  "updatedAt": "2026-11-27T13:57:01.259Z",
   "sources": [
     {
       "id": "concerts-metal",
@@ -12,25 +12,25 @@
       "id": "black-lab",
       "label": "The Black Lab",
       "ok": true,
-      "count": 26
+      "count": 28
     },
     {
       "id": "aeronef",
       "label": "L'Aéronef",
       "ok": true,
-      "count": 696
+      "count": 688
     },
     {
       "id": "grand-mix",
       "label": "Le Grand Mix",
       "ok": true,
-      "count": 541
+      "count": 530
     },
     {
       "id": "cave-aux-poetes",
       "label": "La Cave aux Poètes",
       "ok": true,
-      "count": 9
+      "count": 8
     },
     {
       "id": "metaphone",
@@ -42,7 +42,7 @@
       "id": "ancienne-belgique",
       "label": "Ancienne Belgique",
       "ok": true,
-      "count": 222
+      "count": 221
     },
     {
       "id": "magasin-4",
@@ -54,7 +54,7 @@
       "id": "botanique",
       "label": "Botanique",
       "ok": true,
-      "count": 50
+      "count": 49
     },
     {
       "id": "vk-concerts",
@@ -83,27 +83,6 @@
   ],
   "events": [
     {
-      "id": "2026-11-26-botanique-liturgy-solo",
-      "date": "2026-11-26",
-      "time": "18:30",
-      "artist": "Liturgy (solo)",
-      "support": [
-        "Js Donny"
-      ],
-      "venue": "Botanique",
-      "city": "Bruxelles",
-      "country": "BE",
-      "genre": "Classical / Experimental / Metal",
-      "family": "Heavy / Thrash",
-      "price": "22.5 €",
-      "status": "onsale",
-      "ticketUrl": "https://botanique.be/fr/concert/liturgy-solo-js-donny-2026",
-      "sourceUrl": "https://botanique.be/fr/concert/liturgy-solo-js-donny-2026",
-      "sources": [
-        "botanique"
-      ]
-    },
-    {
       "id": "2026-11-28-espace-culturel-allende-ashen",
       "date": "2026-11-28",
       "time": null,
@@ -127,7 +106,7 @@
     {
       "id": "2026-12-03-botanique-imperial-triumphant",
       "date": "2026-12-03",
-      "time": null,
+      "time": "18:30",
       "artist": "Imperial Triumphant",
       "support": [
         "Knoll"
@@ -135,9 +114,9 @@
       "venue": "Botanique",
       "city": "Bruxelles",
       "country": "BE",
-      "genre": "Avant-garde metal",
+      "genre": "Experimental / Jazz / Avantgarde metal",
       "family": "Death / Black",
-      "price": null,
+      "price": "24.65 €",
       "status": "onsale",
       "ticketUrl": "https://botanique.be/fr/concert/imperial-triumphant-knoll-2026",
       "sourceUrl": "https://botanique.be/fr/concert/imperial-triumphant-knoll-2026",
@@ -379,7 +358,7 @@
       "venue": "Kinky Star",
       "city": "Gent",
       "country": "BE",
-      "genre": "Rock / Metal",
+      "genre": "Metal / Rock",
       "family": "Heavy / Thrash",
       "price": "Gratuit",
       "status": "onsale",
@@ -400,7 +379,7 @@
       "venue": "Kinky Star",
       "city": "Gent",
       "country": "BE",
-      "genre": "Rock / Rave / Hip Hop / Metal",
+      "genre": "Rave / Hip Hop / Metal / Rock",
       "family": "Heavy / Thrash",
       "price": "Gratuit",
       "status": "onsale",
@@ -524,7 +503,7 @@
       "venue": "Kinky Star",
       "city": "Gent",
       "country": "BE",
-      "genre": "Experimental / Punk / Rock / Blues / Classical / Downtempo / Ambient / Folk / Industrial / Psychedelic / World / Gentse Feesten / JonGeduld / Plan.K / Pop / Rave / Comedy / Hip Hop / Jazz / Wave / Reggae / Hardcore / Metal / Electronic",
+      "genre": "Electronic / Experimental / Punk / Classical / Downtempo / Ambient / Folk / Industrial / Pop / Psychedelic / World / Gentse Feesten / JonGeduld / Plan.K / Rave / Comedy / Hip Hop / Jazz / Wave / Reggae / Hardcore / Metal / Blues / Rock",
       "family": "Core / Hardcore",
       "price": "Gratuit",
       "status": "onsale",
@@ -626,7 +605,7 @@
       "venue": "Kinky Star",
       "city": "Gent",
       "country": "BE",
-      "genre": "Experimental / Punk / Rock / Metal / Electronic",
+      "genre": "Electronic / Experimental / Punk / Metal / Rock",
       "family": "Heavy / Thrash",
       "price": "Gratuit",
       "status": "onsale",
@@ -669,7 +648,7 @@
       "venue": "Kinky Star",
       "city": "Gent",
       "country": "BE",
-      "genre": "Experimental / Rock / Metal",
+      "genre": "Experimental / Metal / Rock",
       "family": "Heavy / Thrash",
       "price": "Gratuit",
       "status": "onsale",
@@ -1313,7 +1292,7 @@
     {
       "id": "2027-05-13-black-lab-1000mods",
       "date": "2027-05-13",
-      "time": null,
+      "time": "19:00",
       "artist": "1000mods",
       "support": [
         "The Well"
@@ -1321,14 +1300,14 @@
       "venue": "The Black Lab",
       "city": "Wasquehal",
       "country": "FR",
-      "genre": "Stoner Rock",
-      "family": "Doom / Stoner",
-      "price": null,
-      "status": "unknown",
-      "ticketUrl": null,
-      "sourceUrl": "https://www.concerts-metal.com/concert_-_1000mods_-_Europe__27-284968.html",
+      "genre": "Heavy rock",
+      "family": "Heavy / Thrash",
+      "price": "24 €",
+      "status": "onsale",
+      "ticketUrl": "https://theblacklab.fr/agenda/1000mods-the-well/",
+      "sourceUrl": "https://theblacklab.fr/agenda/1000mods-the-well/",
       "sources": [
-        "concerts-metal"
+        "black-lab"
       ]
     },
     {

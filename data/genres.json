@@ -5,6 +5,45 @@
   "tags": [],
   "checkedAt": "2026-11-16"
  },
+ "1000mods": {
+  "name": "1000mods",
+  "id": "e24255dd-f024-4abd-8ca5-9e14a8a85580",
+  "tags": [
+   {
+    "name": "heavy rock",
+    "count": 3
+   },
+   {
+    "name": "stoner",
+    "count": 3
+   },
+   {
+    "name": "psychedelic",
+    "count": 2
+   },
+   {
+    "name": "stoner rock",
+    "count": 2
+   },
+   {
+    "name": "doom",
+    "count": 1
+   },
+   {
+    "name": "desert rock",
+    "count": 1
+   },
+   {
+    "name": "doom metal",
+    "count": 1
+   },
+   {
+    "name": "stoner metal",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-27"
+ },
  "47ter": {
   "name": "47ter",
   "id": "d3812f13-0962-42a8-bbcd-0e64c873b2eb",
@@ -1547,6 +1586,12 @@
   "id": null,
   "tags": [],
   "checkedAt": "2026-11-25"
+ },
+ "concours circuit 2026 showcases night": {
+  "name": "Concours Circuit 2026 | Showcases Night",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-27"
  },
  "conversations soniques w aiitf": {
   "name": "Conversations soniques w/AIITF",
@@ -4003,7 +4048,7 @@
   "name": "Izeah",
   "id": null,
   "tags": [],
-  "checkedAt": "2026-10-28"
+  "checkedAt": "2026-11-27"
  },
  "izia": {
   "name": "IZÏA",
@@ -4239,7 +4284,7 @@
   "name": "JGrrey",
   "id": "422208ad-8dda-4cfd-a782-d0586c08e617",
   "tags": [],
-  "checkedAt": "2026-10-28"
+  "checkedAt": "2026-11-27"
  },
  "joe jackson": {
   "name": "Joe Jackson",
@@ -4566,6 +4611,17 @@
   ],
   "checkedAt": "2026-11-22"
  },
+ "kalika": {
+  "name": "Kalika",
+  "id": "8d9858ea-2d14-4d3d-9859-f819175534d7",
+  "tags": [
+   {
+    "name": "pop",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-27"
+ },
  "kanonenfieber": {
   "name": "Kanonenfieber",
   "id": "b0016af8-3953-47ce-b865-475a770d7b17",
@@ -4662,6 +4718,12 @@
    }
   ],
   "checkedAt": "2026-10-26"
+ },
+ "ketclub girls in hawai present eldorado": {
+  "name": "KETCLUB: Girls in Hawaï present ELDORADO",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-27"
  },
  "ketclub jen": {
   "name": "KETCLUB: JEN",
@@ -4827,6 +4889,12 @@
    }
   ],
   "checkedAt": "2026-11-13"
+ },
+ "krankstation": {
+  "name": "KRANKSTATION",
+  "id": null,
+  "tags": [],
+  "checkedAt": "2026-11-27"
  },
  "krullevaar": {
   "name": "Krullevaar",
@@ -8707,6 +8775,45 @@
    }
   ],
   "checkedAt": "2026-10-27"
+ },
+ "the black seeds": {
+  "name": "The Black Seeds",
+  "id": "dc76f538-7a10-461e-84ba-aa44888f9f2d",
+  "tags": [
+   {
+    "name": "reggae",
+    "count": 4
+   },
+   {
+    "name": "dub",
+    "count": 4
+   },
+   {
+    "name": "funk",
+    "count": 3
+   },
+   {
+    "name": "new zealand",
+    "count": 3
+   },
+   {
+    "name": "kiwi",
+    "count": 1
+   },
+   {
+    "name": "soul",
+    "count": 1
+   },
+   {
+    "name": "roots",
+    "count": 1
+   },
+   {
+    "name": "wellington",
+    "count": 1
+   }
+  ],
+  "checkedAt": "2026-11-27"
  },
  "the black wizards pt": {
   "name": "The Black Wizards (PT)",
