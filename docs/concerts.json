@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T13:57:01.259Z",
+  "updatedAt": "2026-11-28T13:03:36.999Z",
   "sources": [
     {
       "id": "concerts-metal",
@@ -12,7 +12,7 @@
       "id": "black-lab",
       "label": "The Black Lab",
       "ok": true,
-      "count": 28
+      "count": 27
     },
     {
       "id": "aeronef",
@@ -24,7 +24,7 @@
       "id": "grand-mix",
       "label": "Le Grand Mix",
       "ok": true,
-      "count": 530
+      "count": 508
     },
     {
       "id": "cave-aux-poetes",
@@ -42,13 +42,13 @@
       "id": "ancienne-belgique",
       "label": "Ancienne Belgique",
       "ok": true,
-      "count": 221
+      "count": 218
     },
     {
       "id": "magasin-4",
       "label": "Magasin 4",
       "ok": true,
-      "count": 13
+      "count": 12
     },
     {
       "id": "botanique",
@@ -66,13 +66,13 @@
       "id": "wilde-westen",
       "label": "Wilde Westen (De Kreun)",
       "ok": true,
-      "count": 60
+      "count": 59
     },
     {
       "id": "kinky-star",
       "label": "Kinky Star",
       "ok": true,
-      "count": 33
+      "count": 32
     },
     {
       "id": "rockerill",
@@ -503,7 +503,7 @@
       "venue": "Kinky Star",
       "city": "Gent",
       "country": "BE",
-      "genre": "Electronic / Experimental / Punk / Classical / Downtempo / Ambient / Folk / Industrial / Pop / Psychedelic / World / Gentse Feesten / JonGeduld / Plan.K / Rave / Comedy / Hip Hop / Jazz / Wave / Reggae / Hardcore / Metal / Blues / Rock",
+      "genre": "Experimental / Punk / Classical / Downtempo / Ambient / Folk / Industrial / Pop / Psychedelic / World / Gentse Feesten / JonGeduld / Plan.K / Rave / Comedy / Hip Hop / Jazz / Wave / Reggae / Hardcore / Metal / Blues / Rock / Electronic",
       "family": "Core / Hardcore",
       "price": "Gratuit",
       "status": "onsale",
@@ -605,7 +605,7 @@
       "venue": "Kinky Star",
       "city": "Gent",
       "country": "BE",
-      "genre": "Electronic / Experimental / Punk / Metal / Rock",
+      "genre": "Experimental / Punk / Metal / Rock / Electronic",
       "family": "Heavy / Thrash",
       "price": "Gratuit",
       "status": "onsale",
@@ -1496,7 +1496,7 @@
       "genre": "Sludge metal",
       "family": "Doom / Stoner",
       "price": null,
-      "status": "onsale",
+      "status": "soldout",
       "ticketUrl": "https://www.abconcerts.be/fr/agenda/amenra/a10Qw00000Hx5zhIAB",
       "sourceUrl": "https://www.abconcerts.be/fr/agenda/amenra/a10Qw00000Hx5zhIAB",
       "sources": [
